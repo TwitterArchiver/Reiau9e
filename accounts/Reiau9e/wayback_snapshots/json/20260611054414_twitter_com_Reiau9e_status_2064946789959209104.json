@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2064946142136369417",
+    "created_at": "2026-06-11T05:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T06:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064946789959209104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1969329333064863745",
+          "start": 0,
+          "username": "CepeHa1128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064946789959209104",
+    "in_reply_to_user_id": "1969329333064863745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064946142136369417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CepeHa1128 就别用小比头像了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2064946133861048320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgpkXUaoAA2fJf.jpg",
+        "width": 472
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2064946133844303872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgpkXQbIAAq4HW.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2064946142136369417",
+        "created_at": "2026-06-11T05:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064946789959209104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1969329333064863745",
+              "start": 0,
+              "username": "CepeHa1128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064946789959209104",
+        "in_reply_to_user_id": "1969329333064863745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064946142136369417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CepeHa1128 就别用小比头像了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064946133861048320",
+            "3_2064946133844303872"
+          ]
+        },
+        "author_id": "1969329333064863745",
+        "conversation_id": "2064946142136369417",
+        "created_at": "2026-06-11T05:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064946142136369417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AOAvUYppQZ",
+              "end": 28,
+              "expanded_url": "https://x.com/CepeHa1128/status/2064946142136369417/photo/1",
+              "media_key": "3_2064946133861048320",
+              "start": 5,
+              "url": "https://t.co/AOAvUYppQZ"
+            },
+            {
+              "display_url": "pic.x.com/AOAvUYppQZ",
+              "end": 28,
+              "expanded_url": "https://x.com/CepeHa1128/status/2064946142136369417/photo/1",
+              "media_key": "3_2064946133844303872",
+              "start": 5,
+              "url": "https://t.co/AOAvUYppQZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064946142136369417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别闹了。 https://t.co/AOAvUYppQZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 443,
+          "like_count": 4353,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 723
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-20T09:14:43.000Z",
+        "description": "困于高塔的 金色妖精",
+        "id": "1969329333064863745",
+        "name": "E",
+        "pinned_tweet_id": "2051410505710125467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064634253812670464/jAAPGKjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 18,
+          "like_count": 11757,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 878
+        },
+        "username": "CepeHa1128",
+        "verified": false
+      }
+    ]
+  }
+}

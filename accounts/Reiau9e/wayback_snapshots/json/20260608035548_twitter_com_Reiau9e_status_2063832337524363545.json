@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2063655574273982599",
+    "created_at": "2026-06-08T03:55:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T04:55:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063832337524363545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1860970079246303232",
+          "start": 0,
+          "username": "1ju3twant2die"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063832337524363545",
+    "in_reply_to_user_id": "1860970079246303232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063655574273982599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1ju3twant2die 原来这种是真人啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2063655574273982599",
+        "created_at": "2026-06-08T03:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063832337524363545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1860970079246303232",
+              "start": 0,
+              "username": "1ju3twant2die"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063832337524363545",
+        "in_reply_to_user_id": "1860970079246303232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063655574273982599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1ju3twant2die 原来这种是真人啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860970079246303232",
+        "conversation_id": "2063655574273982599",
+        "created_at": "2026-06-07T16:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063655574273982599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yummy9vq/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/yummy9vq/status/2063617992873886035",
+              "start": 8,
+              "url": "https://t.co/4oGgc6b41Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063655574273982599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 550,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063617992873886035",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "点开主页支成分 https://t.co/4oGgc6b41Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 375,
+          "like_count": 3094,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 531
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-25T08:53:51.000Z",
+        "description": "Post-structuralism｜Anarcho-monarchism｜Psychoanalysis｜Drug｜ Low-Functioning Antisocial Personality Disorder｜Satanism｜@HysteriaAndLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 116,
+                "username": "HysteriaAndLove"
+              }
+            ]
+          }
+        },
+        "id": "1860970079246303232",
+        "name": "RichardRamirezi ⛧",
+        "pinned_tweet_id": "2058407929846653287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060278761707409408/L5e59Nqf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 90,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 231
+        },
+        "username": "1ju3twant2die",
+        "verified": false
+      }
+    ]
+  }
+}

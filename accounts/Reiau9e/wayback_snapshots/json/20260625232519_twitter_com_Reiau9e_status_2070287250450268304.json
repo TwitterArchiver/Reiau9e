@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2070287241172472198",
+    "created_at": "2026-06-25T23:25:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T00:25:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070287250450268304"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070287250450268304",
+    "in_reply_to_user_id": "2055263152238198784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070287246675362125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "爱一个人就是真正的自爱，把它们对立为两端本身只能表达他们对自己恋爱历史的理解而已，还有什么，要保持距离感之类的，粗俗又宽泛的技术理解大抵就是这样的，不过嘛，也许还有很多人大概压根就是觉得这话听起来没啥毛病就随便接受了，比如和自爱对立的就是舔狗，舔狗看起来太⚔️，索性直接选前者就解决"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2070287241172472198",
+        "created_at": "2026-06-25T23:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T00:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070287250450268304"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070287250450268304",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070287246675362125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爱一个人就是真正的自爱，把它们对立为两端本身只能表达他们对自己恋爱历史的理解而已，还有什么，要保持距离感之类的，粗俗又宽泛的技术理解大抵就是这样的，不过嘛，也许还有很多人大概压根就是觉得这话听起来没啥毛病就随便接受了，比如和自爱对立的就是舔狗，舔狗看起来太⚔️，索性直接选前者就解决"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2070287241172472198",
+        "created_at": "2026-06-25T23:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T00:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070287246675362125"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070287246675362125",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070287241172472198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也有的认为，恋爱关系是一种相对技术化的场景，比如说，你爱答不理，对方就舔，你舔，对方就爱答不理，所以，这种爱人先爱己也可能是这种表述，你不爱你自己，别人也不会爱你，俗称别犯贱，但这句话本身倒是也能表达不要自恨（虽然通常没人这么表述）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 647,
+          "like_count": 6283,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1188
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      }
+    ]
+  }
+}

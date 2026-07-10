@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2061638946581582082",
+    "created_at": "2026-06-02T06:50:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T07:50:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061702035284885701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1579045600196440066",
+          "start": 0,
+          "username": "oringoringu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061702035284885701",
+    "in_reply_to_user_id": "1579045600196440066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061638946581582082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oringoringu 能给朝鲜人发私信才算神奇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2061638946581582082",
+        "created_at": "2026-06-02T06:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T07:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061702035284885701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1579045600196440066",
+              "start": 0,
+              "username": "oringoringu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061702035284885701",
+        "in_reply_to_user_id": "1579045600196440066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061638946581582082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oringoringu 能给朝鲜人发私信才算神奇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1579045600196440066",
+        "conversation_id": "2061638946581582082",
+        "created_at": "2026-06-02T02:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061638946581582082"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061638946581582082",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 13727,
+          "like_count": 110,
+          "quote_count": 0,
+          "reply_count": 57,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "나 중국인한테도 디엠온다 신기해"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 189,
+          "like_count": 1184,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 120
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-09T09:46:33.000Z",
+        "description": "디엠랜덤답장함",
+        "id": "1579045600196440066",
+        "location": "침대",
+        "name": "𝐎𝗿𝗶𝗻𝗴",
+        "pinned_tweet_id": "2057141155045990815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057144415865724928/6jy5LDbF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 0,
+          "like_count": 34,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 43
+        },
+        "username": "oringoringu",
+        "verified": false
+      }
+    ]
+  }
+}

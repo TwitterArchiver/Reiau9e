@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2068248782970744989",
+    "created_at": "2026-06-21T01:04:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T02:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068500200893960299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1865480322978349056",
+          "start": 0,
+          "username": "CharaG51669"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068500200893960299",
+    "in_reply_to_user_id": "1865480322978349056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068248782970744989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CharaG51669 萌萌萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2240,
+        "media_key": "3_2068248779984449536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPlTq4bsAA92EG.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068248780001214466",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPlTq8bgAIN2SF.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068248780013703168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPlTq_aEAAAkIw.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068248780257030144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPlTr5a8AAH2PX.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2068248782970744989",
+        "created_at": "2026-06-21T01:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068500200893960299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1865480322978349056",
+              "start": 0,
+              "username": "CharaG51669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068500200893960299",
+        "in_reply_to_user_id": "1865480322978349056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068248782970744989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CharaG51669 萌萌萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068248779984449536",
+            "3_2068248780001214466",
+            "3_2068248780013703168",
+            "3_2068248780257030144"
+          ]
+        },
+        "author_id": "1865480322978349056",
+        "conversation_id": "2068248782970744989",
+        "created_at": "2026-06-20T08:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T09:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068248782970744989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SwbyCjHwnt",
+              "end": 23,
+              "expanded_url": "https://x.com/CharaG51669/status/2068248782970744989/photo/1",
+              "media_key": "3_2068248779984449536",
+              "start": 0,
+              "url": "https://t.co/SwbyCjHwnt"
+            },
+            {
+              "display_url": "pic.x.com/SwbyCjHwnt",
+              "end": 23,
+              "expanded_url": "https://x.com/CharaG51669/status/2068248782970744989/photo/1",
+              "media_key": "3_2068248780001214466",
+              "start": 0,
+              "url": "https://t.co/SwbyCjHwnt"
+            },
+            {
+              "display_url": "pic.x.com/SwbyCjHwnt",
+              "end": 23,
+              "expanded_url": "https://x.com/CharaG51669/status/2068248782970744989/photo/1",
+              "media_key": "3_2068248780013703168",
+              "start": 0,
+              "url": "https://t.co/SwbyCjHwnt"
+            },
+            {
+              "display_url": "pic.x.com/SwbyCjHwnt",
+              "end": 23,
+              "expanded_url": "https://x.com/CharaG51669/status/2068248782970744989/photo/1",
+              "media_key": "3_2068248780257030144",
+              "start": 0,
+              "url": "https://t.co/SwbyCjHwnt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068248782970744989",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1030,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SwbyCjHwnt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 553,
+          "like_count": 5581,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1003
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T19:36:09.000Z",
+        "description": "06/INFP/重抑郁/焦虑 /有老公/od/割手/抽烟/欢迎互fo/欢迎私信/叫我小侑就好/现居深圳，欢迎小萌物们找我玩！",
+        "id": "1865480322978349056",
+        "name": "OnoderaYuu",
+        "pinned_tweet_id": "2065285209256600058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865662167120564224/GiHXnwwq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 152,
+          "like_count": 794,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 353
+        },
+        "url": "",
+        "username": "CharaG51669",
+        "verified": false
+      }
+    ]
+  }
+}

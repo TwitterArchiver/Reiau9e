@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065287291330007040"
+      ]
+    },
+    "author_id": "2055263152238198784",
+    "conversation_id": "2065287296346460522",
+    "created_at": "2026-06-12T04:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T05:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065287296346460522"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BCd63al4RV",
+          "end": 35,
+          "expanded_url": "https://x.com/Reiau9e/status/2065287296346460522/photo/1",
+          "media_key": "3_2065287291330007040",
+          "start": 12,
+          "url": "https://t.co/BCd63al4RV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065287296346460522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前还挺爱画些小东西的 https://t.co/BCd63al4RV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 982,
+        "media_key": "3_2065287291330007040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlf2V7akAAkoa-.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065287291330007040"
+          ]
+        },
+        "author_id": "2055263152238198784",
+        "conversation_id": "2065287296346460522",
+        "created_at": "2026-06-12T04:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T05:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065287296346460522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BCd63al4RV",
+              "end": 35,
+              "expanded_url": "https://x.com/Reiau9e/status/2065287296346460522/photo/1",
+              "media_key": "3_2065287291330007040",
+              "start": 12,
+              "url": "https://t.co/BCd63al4RV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065287296346460522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前还挺爱画些小东西的 https://t.co/BCd63al4RV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 450,
+          "like_count": 4505,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 760
+        },
+        "username": "Reiau9e",
+        "verified": false
+      }
+    ]
+  }
+}

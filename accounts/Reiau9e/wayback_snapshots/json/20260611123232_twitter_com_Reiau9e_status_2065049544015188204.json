@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2065049544015188204",
+    "created_at": "2026-06-11T12:32:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:32:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065049544015188204"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/iangh_x651/sta…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/iangh_x651/status/2064870086880694329",
+          "start": 46,
+          "url": "https://t.co/8LNR29vNz5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065049544015188204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064870086880694329",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "猜你想找，乙武洋匡，四肢残疾婚内出轨五人啊嗯，虽然没有媒体说的五十人那么夸张但也值得商榷啊 https://t.co/8LNR29vNz5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2065049544015188204",
+        "created_at": "2026-06-11T12:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065049544015188204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iangh_x651/sta…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/iangh_x651/status/2064870086880694329",
+              "start": 46,
+              "url": "https://t.co/8LNR29vNz5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065049544015188204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064870086880694329",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "猜你想找，乙武洋匡，四肢残疾婚内出轨五人啊嗯，虽然没有媒体说的五十人那么夸张但也值得商榷啊 https://t.co/8LNR29vNz5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936714010260553728",
+        "conversation_id": "2064870086880694329",
+        "created_at": "2026-06-11T00:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T01:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064870086880694329"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064870086880694329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1401,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我有点好奇上海的残疾人士如何解决性需求？\n靠自己🦌还是有专门的组织帮助收费解决？\n那因为自己残疾也没有办法做到🦌的话该怎么办？\n女性也是，该怎么解决呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 446,
+          "like_count": 4418,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 738
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-22T09:13:05.000Z",
+        "description": "某不知名碎碎念选手",
+        "id": "1936714010260553728",
+        "name": "你的姐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936714364901318656/P_v2KfR3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2251,
+          "following_count": 24,
+          "like_count": 239,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 641
+        },
+        "username": "iangh_x651",
+        "verified": false
+      }
+    ]
+  }
+}

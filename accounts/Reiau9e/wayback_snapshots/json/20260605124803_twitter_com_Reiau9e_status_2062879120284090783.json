@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2062877590667546686",
+    "created_at": "2026-06-05T12:48:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T13:48:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062879120284090783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2051971703862169600",
+          "start": 0,
+          "username": "keeeoii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062879120284090783",
+    "in_reply_to_user_id": "2051971703862169600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062877590667546686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keeeoii 好会搭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062877576532725760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDQOexaEAAwo5C.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2062877590667546686",
+        "created_at": "2026-06-05T12:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062879120284090783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2051971703862169600",
+              "start": 0,
+              "username": "keeeoii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062879120284090783",
+        "in_reply_to_user_id": "2051971703862169600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062877590667546686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keeeoii 好会搭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062877576532725760"
+          ]
+        },
+        "author_id": "2051971703862169600",
+        "conversation_id": "2062877590667546686",
+        "created_at": "2026-06-05T12:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062877590667546686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SmtSUSkcXy",
+              "end": 47,
+              "expanded_url": "https://x.com/keeeoii/status/2062877590667546686/photo/1",
+              "media_key": "3_2062877576532725760",
+              "start": 24,
+              "url": "https://t.co/SmtSUSkcXy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062877590667546686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "七分裤真的还挺好穿的 苯人就这样穿得歪歪扭扭、 https://t.co/SmtSUSkcXy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 313,
+          "like_count": 2125,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 307
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T10:27:15.000Z",
+        "description": "可以叫我小壳或者小虫😇\n找我玩⤵️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kee96055",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kee96055",
+                "start": 0,
+                "url": "https://t.co/jDJP4vMgAT"
+              }
+            ]
+          }
+        },
+        "id": "2051971703862169600",
+        "name": "Bkee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051972866426695680/eStavx37_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 76,
+          "like_count": 985,
+          "listed_count": 3,
+          "media_count": 34,
+          "tweet_count": 231
+        },
+        "url": "https://t.co/jDJP4vMgAT",
+        "username": "keeeoii",
+        "verified": false
+      }
+    ]
+  }
+}

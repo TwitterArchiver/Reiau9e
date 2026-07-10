@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062499381253992448"
+      ]
+    },
+    "author_id": "2055263152238198784",
+    "conversation_id": "2062499385913799147",
+    "created_at": "2026-06-04T11:39:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T12:39:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062499385913799147"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iTRzcQApO1",
+          "end": 31,
+          "expanded_url": "https://x.com/Reiau9e/status/2062499385913799147/photo/1",
+          "media_key": "3_2062499381253992448",
+          "start": 8,
+          "url": "https://t.co/iTRzcQApO1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062499385913799147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "笨人萌萌人时刻 https://t.co/iTRzcQApO1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1083,
+        "media_key": "3_2062499381253992448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ94QnkbcAAogRO.jpg",
+        "width": 951
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062499381253992448"
+          ]
+        },
+        "author_id": "2055263152238198784",
+        "conversation_id": "2062499385913799147",
+        "created_at": "2026-06-04T11:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062499385913799147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iTRzcQApO1",
+              "end": 31,
+              "expanded_url": "https://x.com/Reiau9e/status/2062499385913799147/photo/1",
+              "media_key": "3_2062499381253992448",
+              "start": 8,
+              "url": "https://t.co/iTRzcQApO1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062499385913799147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笨人萌萌人时刻 https://t.co/iTRzcQApO1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 295,
+          "like_count": 1893,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 249
+        },
+        "username": "Reiau9e",
+        "verified": false
+      }
+    ]
+  }
+}

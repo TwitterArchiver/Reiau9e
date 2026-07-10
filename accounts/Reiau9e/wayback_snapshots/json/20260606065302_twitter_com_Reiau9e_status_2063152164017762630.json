@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2063143954695241880",
+    "created_at": "2026-06-06T06:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T07:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063152164017762630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1522820105108791296",
+          "start": 0,
+          "username": "dx3616159975"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063152164017762630",
+    "in_reply_to_user_id": "1522820105108791296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063143954695241880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dx3616159975 米米米"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30033,
+        "height": 1280,
+        "media_key": "7_2063143901750517760",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2063143901750517760/pu/img/RTmTrw-WbJH-1TNb.jpg",
+        "public_metrics": {
+          "view_count": 9
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063143901750517760/pu/vid/avc1/320x624/FFV1FgjANu-N0CuO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063143901750517760/pu/vid/avc1/480x936/YZPfrlAu253baUj7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063143901750517760/pu/vid/avc1/656x1280/Npth1cZh2oO3X9R_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2063143901750517760/pu/pl/jiAetJg7oS1qza3T.m3u8?tag=12"
+          }
+        ],
+        "width": 656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2063143954695241880",
+        "created_at": "2026-06-06T06:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063152164017762630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1522820105108791296",
+              "start": 0,
+              "username": "dx3616159975"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063152164017762630",
+        "in_reply_to_user_id": "1522820105108791296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063143954695241880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dx3616159975 米米米"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063143901750517760"
+          ]
+        },
+        "author_id": "1522820105108791296",
+        "conversation_id": "2063143954695241880",
+        "created_at": "2026-06-06T06:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063143954695241880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SGIz38iWwX",
+              "end": 60,
+              "expanded_url": "https://x.com/dx3616159975/status/2063143954695241880/video/1",
+              "media_key": "7_2063143901750517760",
+              "start": 37,
+              "url": "https://t.co/SGIz38iWwX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063143954695241880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很喜欢这张照片，重新画质修复了一下，要是推特能发动态照片就好了☺️ https://t.co/SGIz38iWwX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 330,
+          "like_count": 2457,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 346
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-07T06:06:31.000Z",
+        "description": "这个人很懒，什么都没有留下……",
+        "id": "1522820105108791296",
+        "name": "爱吃辣条有点烧",
+        "pinned_tweet_id": "2063143954695241880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1522820423376728065/8bieLmAj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 72,
+          "like_count": 762,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 214
+        },
+        "username": "dx3616159975",
+        "verified": false
+      }
+    ]
+  }
+}

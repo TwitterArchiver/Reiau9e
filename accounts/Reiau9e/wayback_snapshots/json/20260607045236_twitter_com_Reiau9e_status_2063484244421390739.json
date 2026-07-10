@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2063432648832487837",
+    "created_at": "2026-06-07T04:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T05:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063484244421390739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1806337857575145472",
+          "start": 0,
+          "username": "TLCYJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063484244421390739",
+    "in_reply_to_user_id": "1806337857575145472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063432648832487837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TLCYJ 殊途同归"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2063432648832487837",
+        "created_at": "2026-06-07T04:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063484244421390739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1806337857575145472",
+              "start": 0,
+              "username": "TLCYJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063484244421390739",
+        "in_reply_to_user_id": "1806337857575145472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063432648832487837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TLCYJ 殊途同归"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806337857575145472",
+        "conversation_id": "2063432648832487837",
+        "created_at": "2026-06-07T01:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T02:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063432648832487837"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063432648832487837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的推特已经从黄片变成世界各地的抖音了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 354,
+          "like_count": 2722,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 451
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-27T14:44:58.000Z",
+        "description": "128🚪好友位+回私信\n⚠️内容只有朋友圈和回消息\n把这里当情绪垃圾桶用..发癫的时候别管我",
+        "id": "1806337857575145472",
+        "location": "距离你0.5km",
+        "name": "甜辣脆鱼卷",
+        "pinned_tweet_id": "2040810577220755485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916511594919706624/cPJwMowc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1686,
+          "following_count": 117,
+          "like_count": 1061,
+          "listed_count": 4,
+          "media_count": 282,
+          "tweet_count": 2221
+        },
+        "username": "TLCYJ",
+        "verified": false
+      }
+    ]
+  }
+}

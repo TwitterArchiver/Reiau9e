@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2065431227247849850",
+    "created_at": "2026-06-12T13:49:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T14:49:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065431227247849850"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065431227247849850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从这个穿搭真的可以看出来一个人的性取向啊嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2065431227247849850",
+        "created_at": "2026-06-12T13:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065431227247849850"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065431227247849850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从这个穿搭真的可以看出来一个人的性取向啊嗯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 455,
+          "like_count": 4587,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 798
+        },
+        "username": "Reiau9e",
+        "verified": false
+      }
+    ]
+  }
+}

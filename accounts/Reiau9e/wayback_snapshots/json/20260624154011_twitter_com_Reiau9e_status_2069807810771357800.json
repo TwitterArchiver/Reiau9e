@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2069806475476926577",
+    "created_at": "2026-06-24T15:40:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T16:40:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069807810771357800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1969329333064863745",
+          "start": 0,
+          "username": "CepeHa1128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069807810771357800",
+    "in_reply_to_user_id": "1969329333064863745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069806475476926577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CepeHa1128 巴别塔这一块"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2069806475476926577",
+        "created_at": "2026-06-24T15:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069807810771357800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1969329333064863745",
+              "start": 0,
+              "username": "CepeHa1128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069807810771357800",
+        "in_reply_to_user_id": "1969329333064863745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069806475476926577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CepeHa1128 巴别塔这一块"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969329333064863745",
+        "conversation_id": "2069806475476926577",
+        "created_at": "2026-06-24T15:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069806475476926577"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069806475476926577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很多时候人之间的误会都是认知偏差所以才懒得开口啊，烦得要死这也要争那也要争"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 621,
+          "like_count": 6142,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1140
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-20T09:14:43.000Z",
+        "description": "右。",
+        "id": "1969329333064863745",
+        "name": "E",
+        "pinned_tweet_id": "2051410505710125467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069619224394514433/3gOHnAaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 16,
+          "like_count": 13760,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 996
+        },
+        "url": "",
+        "username": "CepeHa1128",
+        "verified": false
+      }
+    ]
+  }
+}

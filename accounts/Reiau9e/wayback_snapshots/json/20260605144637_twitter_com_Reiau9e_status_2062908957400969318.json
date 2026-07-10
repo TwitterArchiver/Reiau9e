@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2062908424279789593",
+    "created_at": "2026-06-05T14:46:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T15:46:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062908957400969318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1948883734062923778",
+          "start": 0,
+          "username": "msro_ovo1119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062908957400969318",
+    "in_reply_to_user_id": "1948883734062923778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062908424279789593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@msro_ovo1119 后面像做题蛆"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1530241,
+        "height": 1280,
+        "media_key": "13_2061488084785696768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2061488084785696768/img/P8nKwwBglOlQYbtu.jpg",
+        "public_metrics": {
+          "view_count": 402425
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061488084785696768/vid/avc1/320x568/gXRkxVWMB7bug2YC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061488084785696768/vid/avc1/480x852/Bim3-kePBv4NZoSq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061488084785696768/vid/avc1/720x1280/eRBmazKEg5j-14kc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2061488084785696768/pl/25rKl3XL3JuVxz8T.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2062908424279789593",
+        "created_at": "2026-06-05T14:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062908957400969318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948883734062923778",
+              "start": 0,
+              "username": "msro_ovo1119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062908957400969318",
+        "in_reply_to_user_id": "1948883734062923778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062908424279789593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@msro_ovo1119 后面像做题蛆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061488084785696768"
+          ],
+          "media_source_tweet_id": [
+            "2061643970963190098"
+          ]
+        },
+        "author_id": "1948883734062923778",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062908424279789593",
+        "created_at": "2026-06-05T14:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062908424279789593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tVAFySZolM",
+              "end": 33,
+              "expanded_url": "https://x.com/ZDFDD777/status/2061643970963190098/video/1",
+              "media_key": "13_2061488084785696768",
+              "start": 10,
+              "url": "https://t.co/tVAFySZolM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062908424279789593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "放个屁我是真没绷住 https://t.co/tVAFySZolM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 314,
+          "like_count": 2227,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 311
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T23:11:19.000Z",
+        "description": "Be My Energy",
+        "id": "1948883734062923778",
+        "location": "Hong Kong",
+        "name": "nsrm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058090504026562560/GU23yzLc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 19,
+          "like_count": 1520,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 571
+        },
+        "username": "msro_ovo1119",
+        "verified": false
+      }
+    ]
+  }
+}

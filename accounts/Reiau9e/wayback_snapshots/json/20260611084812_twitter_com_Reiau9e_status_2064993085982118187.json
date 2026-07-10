@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2064593966805434546",
+    "created_at": "2026-06-11T08:48:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T09:48:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064993085982118187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1680367973884735488",
+          "start": 0,
+          "username": "imgyeong8077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064993085982118187",
+    "in_reply_to_user_id": "1680367973884735488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064593966805434546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imgyeong8077 米啊！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064593921142059008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbpO4sacAAFdMV.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064593920869429248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbpO3racAAg_Q4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064593920873619456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbpO3saYAAUktB.jpg",
+        "width": 1524
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2064593920856899584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbpO3obQAA5VUD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2064593966805434546",
+        "created_at": "2026-06-11T08:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064993085982118187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1680367973884735488",
+              "start": 0,
+              "username": "imgyeong8077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064993085982118187",
+        "in_reply_to_user_id": "1680367973884735488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064593966805434546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imgyeong8077 米啊！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064593921142059008",
+            "3_2064593920869429248",
+            "3_2064593920873619456",
+            "3_2064593920856899584"
+          ]
+        },
+        "author_id": "1680367973884735488",
+        "conversation_id": "2064593966805434546",
+        "created_at": "2026-06-10T06:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T07:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064593966805434546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B400VQlRWJ",
+              "end": 28,
+              "expanded_url": "https://x.com/imgyeong8077/status/2064593966805434546/photo/1",
+              "media_key": "3_2064593921142059008",
+              "start": 5,
+              "url": "https://t.co/B400VQlRWJ"
+            },
+            {
+              "display_url": "pic.x.com/B400VQlRWJ",
+              "end": 28,
+              "expanded_url": "https://x.com/imgyeong8077/status/2064593966805434546/photo/1",
+              "media_key": "3_2064593920869429248",
+              "start": 5,
+              "url": "https://t.co/B400VQlRWJ"
+            },
+            {
+              "display_url": "pic.x.com/B400VQlRWJ",
+              "end": 28,
+              "expanded_url": "https://x.com/imgyeong8077/status/2064593966805434546/photo/1",
+              "media_key": "3_2064593920873619456",
+              "start": 5,
+              "url": "https://t.co/B400VQlRWJ"
+            },
+            {
+              "display_url": "pic.x.com/B400VQlRWJ",
+              "end": 28,
+              "expanded_url": "https://x.com/imgyeong8077/status/2064593966805434546/photo/1",
+              "media_key": "3_2064593920856899584",
+              "start": 5,
+              "url": "https://t.co/B400VQlRWJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064593966805434546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 331,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出去玩了 https://t.co/B400VQlRWJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 445,
+          "like_count": 4372,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 731
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T00:05:29.000Z",
+        "description": "小璟/6P97｜08｜双性恋｜我🔪🚬🍺💊LGBTQ+友好 \n喜欢体验新鲜事物 什么都往这里扔\n查看主页喜欢你就我就fo你 乖宝宝们请和我互fo^o^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%92%9F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%92%9F%E7%92%9F%E7%92%9F%E7%92%9F%E7%92%9F%E7%92%9F0.o",
+                "start": 0,
+                "url": "https://t.co/KSf6miGkl9"
+              }
+            ]
+          }
+        },
+        "id": "1680367973884735488",
+        "name": "璟璟璟璟璟璟0.o",
+        "pinned_tweet_id": "2040823390152651093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043407189533237248/1sRY0hb__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 165,
+          "like_count": 1465,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1067
+        },
+        "url": "https://t.co/KSf6miGkl9",
+        "username": "imgyeong8077",
+        "verified": false
+      }
+    ]
+  }
+}

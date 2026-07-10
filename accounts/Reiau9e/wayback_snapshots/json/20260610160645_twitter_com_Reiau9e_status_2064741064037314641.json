@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2064741060346323371",
+    "created_at": "2026-06-10T16:06:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T17:06:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064741064037314641"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064741064037314641",
+    "in_reply_to_user_id": "2055263152238198784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064741060346323371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎，韦伯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2064741060346323371",
+        "created_at": "2026-06-10T16:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T17:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064741064037314641"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064741064037314641",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064741060346323371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎，韦伯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2064741060346323371",
+        "created_at": "2026-06-10T16:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T17:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064741060346323371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/reiau9e/status…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/reiau9e/status/2064733516609527932",
+              "start": 79,
+              "url": "https://t.co/X9CFPrjqEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064741060346323371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064733516609527932",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一种很典型的场景，文学中也很常见，令男性拜倒的名妓，这类从业者对自己的设想类似于此，只是说，在我看来，有的卖淫者，并不会，也不能将性交易行为视为一种自我物化 https://t.co/X9CFPrjqEX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 433,
+          "like_count": 4250,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 700
+        },
+        "username": "Reiau9e",
+        "verified": false
+      }
+    ]
+  }
+}

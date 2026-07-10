@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2066682459488764082",
+    "created_at": "2026-06-16T00:41:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T01:41:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066682557056594126"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066682557056594126",
+    "in_reply_to_user_id": "2055263152238198784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066682459488764082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们这个老右啊嗯"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 864,
+        "media_key": "3_2066682453205643264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5Uvc7a8AAazHt.jpg",
+        "width": 1920
+      },
+      {
+        "height": 864,
+        "media_key": "3_2066682453193076736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5Uvc4bMAA1t3H.jpg",
+        "width": 1920
+      },
+      {
+        "height": 864,
+        "media_key": "3_2066682453205622784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5Uvc7aoAAtr2o.jpg",
+        "width": 1920
+      },
+      {
+        "height": 864,
+        "media_key": "3_2066682453201424384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5Uvc6akAAOcjG.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2066682459488764082",
+        "created_at": "2026-06-16T00:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T01:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066682557056594126"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066682557056594126",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066682459488764082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们这个老右啊嗯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066682453205643264",
+            "3_2066682453193076736",
+            "3_2066682453205622784",
+            "3_2066682453201424384"
+          ]
+        },
+        "author_id": "2055263152238198784",
+        "conversation_id": "2066682459488764082",
+        "created_at": "2026-06-16T00:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T01:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066682459488764082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TJlY2LymKB",
+              "end": 23,
+              "expanded_url": "https://x.com/Reiau9e/status/2066682459488764082/photo/1",
+              "media_key": "3_2066682453205643264",
+              "start": 0,
+              "url": "https://t.co/TJlY2LymKB"
+            },
+            {
+              "display_url": "pic.x.com/TJlY2LymKB",
+              "end": 23,
+              "expanded_url": "https://x.com/Reiau9e/status/2066682459488764082/photo/1",
+              "media_key": "3_2066682453193076736",
+              "start": 0,
+              "url": "https://t.co/TJlY2LymKB"
+            },
+            {
+              "display_url": "pic.x.com/TJlY2LymKB",
+              "end": 23,
+              "expanded_url": "https://x.com/Reiau9e/status/2066682459488764082/photo/1",
+              "media_key": "3_2066682453205622784",
+              "start": 0,
+              "url": "https://t.co/TJlY2LymKB"
+            },
+            {
+              "display_url": "pic.x.com/TJlY2LymKB",
+              "end": 23,
+              "expanded_url": "https://x.com/Reiau9e/status/2066682459488764082/photo/1",
+              "media_key": "3_2066682453201424384",
+              "start": 0,
+              "url": "https://t.co/TJlY2LymKB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066682459488764082",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TJlY2LymKB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 519,
+          "like_count": 5036,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 909
+        },
+        "username": "Reiau9e",
+        "verified": false
+      }
+    ]
+  }
+}

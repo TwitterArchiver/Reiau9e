@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2070828994631704905",
+    "created_at": "2026-06-27T12:17:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T13:17:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070844006062580223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1547950839280439296",
+          "start": 0,
+          "username": "jiangdadianshen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070844006062580223",
+    "in_reply_to_user_id": "1547950839280439296",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070830192181031369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiangdadianshen 🫡🫡🫡🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2070828994631704905",
+        "created_at": "2026-06-27T12:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070844006062580223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1547950839280439296",
+              "start": 0,
+              "username": "jiangdadianshen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070844006062580223",
+        "in_reply_to_user_id": "1547950839280439296",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070830192181031369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiangdadianshen 🫡🫡🫡🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547950839280439296",
+        "conversation_id": "2070828994631704905",
+        "created_at": "2026-06-27T11:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070830192181031369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070830192181031369",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070828994631704905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 期待"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 673,
+          "like_count": 6480,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 1246
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-15T14:27:03.000Z",
+        "description": "鸟在唱歌",
+        "id": "1547950839280439296",
+        "location": "₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "name": "MING",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007611709557747713/OoS2OsY__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 449,
+          "like_count": 21573,
+          "listed_count": 0,
+          "media_count": 320,
+          "tweet_count": 2666
+        },
+        "url": "",
+        "username": "jiangdadianshen",
+        "verified": false
+      }
+    ]
+  }
+}

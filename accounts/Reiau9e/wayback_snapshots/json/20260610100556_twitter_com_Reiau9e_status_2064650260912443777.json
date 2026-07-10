@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2064638135674470712",
+    "created_at": "2026-06-10T10:05:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T11:05:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064650260912443777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1754507094823190529",
+          "start": 0,
+          "username": "jiyjir165103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064650260912443777",
+    "in_reply_to_user_id": "1754507094823190529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064648846853165185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiyjir165103 你也帅！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2064638135674470712",
+        "created_at": "2026-06-10T10:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064650260912443777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1754507094823190529",
+              "start": 0,
+              "username": "jiyjir165103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064650260912443777",
+        "in_reply_to_user_id": "1754507094823190529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064648846853165185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiyjir165103 你也帅！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754507094823190529",
+        "conversation_id": "2064638135674470712",
+        "created_at": "2026-06-10T10:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064648846853165185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064648846853165185",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064638135674470712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 太帅了老大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 407,
+          "like_count": 3988,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 674
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T14:07:58.000Z",
+        "description": "睏～～ 每天都超想睡覺",
+        "id": "1754507094823190529",
+        "location": "（╹◡╹）",
+        "name": "清夢甚愜🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908688268318904320/sZ10GXtf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 193,
+          "like_count": 6447,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1948
+        },
+        "username": "jiyjir165103",
+        "verified": false
+      }
+    ]
+  }
+}

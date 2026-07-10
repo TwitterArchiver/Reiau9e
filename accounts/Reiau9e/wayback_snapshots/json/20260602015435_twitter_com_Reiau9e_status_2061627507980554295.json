@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2061465093515419765",
+    "created_at": "2026-06-02T01:54:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T02:54:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061627507980554295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2043258777609068544",
+          "start": 0,
+          "username": "x6gxm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061627507980554295",
+    "in_reply_to_user_id": "2043258777609068544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061465093515419765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x6gxm 米米米"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8033,
+        "height": 1280,
+        "media_key": "13_2061465036871401472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2061465036871401472/img/TxaPbmVlP1B6VLiW.jpg",
+        "public_metrics": {
+          "view_count": 117
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061465036871401472/vid/avc1/320x568/urNJ-JUsCiRvpmAT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061465036871401472/vid/avc1/480x852/J6bB8dQooJ55Nnnj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061465036871401472/vid/avc1/720x1280/wTLCJAHNM_GEhSin.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2061465036871401472/pl/AAlvTQwdVbvn3S4k.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2061465093515419765",
+        "created_at": "2026-06-02T01:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T02:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061627507980554295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2043258777609068544",
+              "start": 0,
+              "username": "x6gxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061627507980554295",
+        "in_reply_to_user_id": "2043258777609068544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061465093515419765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x6gxm 米米米"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061465036871401472"
+          ]
+        },
+        "author_id": "2043258777609068544",
+        "conversation_id": "2061465093515419765",
+        "created_at": "2026-06-01T15:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061465093515419765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uJ10G3qj9z",
+              "end": 44,
+              "expanded_url": "https://x.com/x6gxm/status/2061465093515419765/video/1",
+              "media_key": "13_2061465036871401472",
+              "start": 21,
+              "url": "https://t.co/uJ10G3qj9z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061465093515419765",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 333,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "音源は気にするな。俺の推しだ。顔を見ろ。 https://t.co/uJ10G3qj9z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060665749082095616/_fzCAkVQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 177,
+          "like_count": 1011,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 94
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-12T09:24:04.000Z",
+        "description": "19歳│女│糖質│手帳2級│就労B│リスカ│OD│徘徊",
+        "id": "2043258777609068544",
+        "location": "東北",
+        "name": "クソｯ‼️",
+        "pinned_tweet_id": "2058051009134661633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058614788352299008/w7rbsSWQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 324,
+          "like_count": 3378,
+          "listed_count": 8,
+          "media_count": 64,
+          "tweet_count": 624
+        },
+        "username": "x6gxm",
+        "verified": false
+      }
+    ]
+  }
+}

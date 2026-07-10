@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2063487178785845623",
+    "created_at": "2026-06-07T05:04:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T06:04:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063487178785845623"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Numiouoo/statu…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/Numiouoo/status/2063209054676353495",
+          "start": 12,
+          "url": "https://t.co/DE6zZ6kbVd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063487178785845623",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063209054676353495",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "性别当然是被区分出来的 https://t.co/DE6zZ6kbVd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2063487178785845623",
+        "created_at": "2026-06-07T05:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063487178785845623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Numiouoo/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Numiouoo/status/2063209054676353495",
+              "start": 12,
+              "url": "https://t.co/DE6zZ6kbVd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063487178785845623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063209054676353495",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "性别当然是被区分出来的 https://t.co/DE6zZ6kbVd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2063209054676353495",
+        "created_at": "2026-06-06T10:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063209054676353495"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063209054676353495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1371,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "性别认同跟性别表达完全是两码事\n\n你不能因为一个非顺性别看起来像“男的/女的”就认为ta是性别表达的性别\namab enby剃寸头你说这是男人，afab enby穿裙子你说这是女人，这样的想法完全不对，expression≠identity，更何况性别表达的框架来自于社会定义，大自然从未说过阴柔属于女性阳刚属于男性"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 355,
+          "like_count": 2732,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 453
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷前@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕割同类查成分回fo🩵漏fo戳我🩵我素non-binary 友跨友全部 🩵社恐请勿私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 717,
+          "like_count": 1637,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 1155
+        },
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

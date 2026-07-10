@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2062030350373847449",
+    "created_at": "2026-06-03T04:35:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T05:35:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062030350373847449"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062030350373847449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我虽然不赞成保守，但肯定不会赞同把烂裤裆当成解放的，不是把一个东西倒过来就叫进步。这太蠢了，虽然也不是说我支持“进步”这种奇怪的意识形态概念，“我的国家不在那排成长队的求职者之中”“也不在那些重拾了兽性理论的蠢货之中”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2062030350373847449",
+        "created_at": "2026-06-03T04:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062030350373847449"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062030350373847449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我虽然不赞成保守，但肯定不会赞同把烂裤裆当成解放的，不是把一个东西倒过来就叫进步。这太蠢了，虽然也不是说我支持“进步”这种奇怪的意识形态概念，“我的国家不在那排成长队的求职者之中”“也不在那些重拾了兽性理论的蠢货之中”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 217,
+          "like_count": 1339,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 171
+        },
+        "username": "Reiau9e",
+        "verified": false
+      }
+    ]
+  }
+}

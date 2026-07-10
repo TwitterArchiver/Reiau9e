@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2072173060980179455",
+    "created_at": "2026-07-01T05:31:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T06:31:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072191442844631170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2061471722034069504",
+          "start": 0,
+          "username": "TPTC0815"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072191442844631170",
+    "in_reply_to_user_id": "2061471722034069504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072190279642468691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TPTC0815 就冲着老伦敦去玩的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2072173060980179455",
+        "created_at": "2026-07-01T05:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072191442844631170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2061471722034069504",
+              "start": 0,
+              "username": "TPTC0815"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072191442844631170",
+        "in_reply_to_user_id": "2061471722034069504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072190279642468691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TPTC0815 就冲着老伦敦去玩的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061471722034069504",
+        "conversation_id": "2072173060980179455",
+        "created_at": "2026-07-01T05:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072190279642468691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072190279642468691",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072173060980179455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 他的画风立绘语音什么的确实很棒哇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 706,
+          "like_count": 7045,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 1406
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T15:36:08.000Z",
+        "description": "迷迭",
+        "id": "2061471722034069504",
+        "location": "在你心里",
+        "name": "迷迭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061473291920105472/sarRI8Sd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 146,
+          "like_count": 1309,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 301
+        },
+        "url": "",
+        "username": "TPTC0815",
+        "verified": false
+      }
+    ]
+  }
+}

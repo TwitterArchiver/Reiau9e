@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2067934669723889772",
+    "created_at": "2026-06-19T11:48:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T12:48:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067937615865897428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2030164998040039424",
+          "start": 0,
+          "username": "Zhisilevw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067937615865897428",
+    "in_reply_to_user_id": "2030164998040039424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067934669723889772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhisilevw 萌啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2067934660718731265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLHnhbboAEkfQ7.jpg",
+        "width": 774
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2067934669723889772",
+        "created_at": "2026-06-19T11:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067937615865897428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2030164998040039424",
+              "start": 0,
+              "username": "Zhisilevw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067937615865897428",
+        "in_reply_to_user_id": "2030164998040039424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067934669723889772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhisilevw 萌啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067934660718731265"
+          ]
+        },
+        "author_id": "2030164998040039424",
+        "conversation_id": "2067934669723889772",
+        "created_at": "2026-06-19T11:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067934669723889772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2K0HEzn8R3",
+              "end": 31,
+              "expanded_url": "https://x.com/Zhisilevw/status/2067934669723889772/photo/1",
+              "media_key": "3_2067934660718731265",
+              "start": 8,
+              "url": "https://t.co/2K0HEzn8R3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067934669723889772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "集美们我萌吗🥲 https://t.co/2K0HEzn8R3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 541,
+          "like_count": 5390,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 988
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T06:14:14.000Z",
+        "description": "🚪52\nhttps://t.co/eAZr5GpGQD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uu18991",
+                "end": 27,
+                "expanded_url": "https://ngl.link/uu18991",
+                "start": 4,
+                "url": "https://t.co/eAZr5GpGQD"
+              }
+            ]
+          }
+        },
+        "id": "2030164998040039424",
+        "location": "0.1km",
+        "name": "uu",
+        "pinned_tweet_id": "2064397467534381479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067721845030481920/PWhAextG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 92,
+          "like_count": 391,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 765
+        },
+        "url": "",
+        "username": "Zhisilevw",
+        "verified": false
+      }
+    ]
+  }
+}

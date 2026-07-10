@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2061403616188281142",
+    "created_at": "2026-06-02T01:34:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T02:34:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061622396063481911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1869716705318141952",
+          "start": 0,
+          "username": "tokugawaren23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061622396063481911",
+    "in_reply_to_user_id": "1869716705318141952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061490550466080788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tokugawaren23 吓人的很，痛苦都要分三六九等"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2061403616188281142",
+        "created_at": "2026-06-02T01:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T02:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061622396063481911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1869716705318141952",
+              "start": 0,
+              "username": "tokugawaren23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061622396063481911",
+        "in_reply_to_user_id": "1869716705318141952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061490550466080788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokugawaren23 吓人的很，痛苦都要分三六九等"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869716705318141952",
+        "conversation_id": "2061403616188281142",
+        "created_at": "2026-06-01T16:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T17:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061490550466080788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061490550466080788",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061403616188281142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 恐怖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060665749082095616/_fzCAkVQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 177,
+          "like_count": 998,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 89
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-19T12:09:49.000Z",
+        "description": "日本語 中文 English ⭕️     欢迎互关🚪70 过100解锁陪聊哦🥺",
+        "id": "1869716705318141952",
+        "location": "你家楼下",
+        "name": "Strawberry Revolution",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043343277160841216/DRXC987a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 420,
+          "like_count": 9645,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 2349
+        },
+        "username": "tokugawaren23",
+        "verified": false
+      }
+    ]
+  }
+}

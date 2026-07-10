@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2062788149588435135",
+    "created_at": "2026-06-05T06:46:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T07:46:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062788149588435135"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hosomacho1/sta…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/hosomacho1/status/2055800927240724643",
+          "start": 18,
+          "url": "https://t.co/OXas77nL20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062788149588435135",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055800927240724643",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我普拉提老师也让我练过这个确实有用 https://t.co/OXas77nL20"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22288,
+        "height": 720,
+        "media_key": "13_2055800856650674176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055800856650674176/img/TrMCKKvLs8quiO_g.jpg",
+        "public_metrics": {
+          "view_count": 6327504
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055800856650674176/vid/avc1/480x270/xz7siSA8GELtq3n_.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055800856650674176/vid/avc1/640x360/kTr2IQF2ga3a5UG3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055800856650674176/vid/avc1/1280x720/nN9dq7wmQcKAWLeV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055800856650674176/pl/f7Pnz2QQjun-bcmN.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2062788149588435135",
+        "created_at": "2026-06-05T06:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T07:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062788149588435135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hosomacho1/sta…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/hosomacho1/status/2055800927240724643",
+              "start": 18,
+              "url": "https://t.co/OXas77nL20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062788149588435135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055800927240724643",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我普拉提老师也让我练过这个确实有用 https://t.co/OXas77nL20"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055800856650674176"
+          ]
+        },
+        "author_id": "3096546230",
+        "conversation_id": "2055800927240724643",
+        "created_at": "2026-05-17T00:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T01:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055800927240724643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rAQRxum6bU",
+              "end": 87,
+              "expanded_url": "https://x.com/hosomacho1/status/2055800927240724643/video/1",
+              "media_key": "13_2055800856650674176",
+              "start": 64,
+              "url": "https://t.co/rAQRxum6bU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055800927240724643",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "1日30秒で、8時間の座りっぱなしを帳消しにする動作がある。\n\n大げさではない。座りっぱなしで何が起きているかを先に説明する。\n\n長時間座ると腸腰筋（股関節の奥にある深層筋）が縮んだまま固まる。すると骨盤が前に引っ張られ、連動して臀筋（お尻の筋肉）が正常に使えなくなる。臀筋が死ぬと腰椎（腰の骨）が代わりに負荷を引き受ける。腰が痛くなる。胸椎（背中の骨）が固まり、肩と首が代償を始める。\n\nこれは意志や姿勢の問題ではない。座るという行為が引き起こす、構造的な機能不全だ。\n\n「ワールド・グレイテスト・ストレッチ」はこの連鎖を全部まとめて解除する。\n\n股関節屈筋（脚を持ち上げる筋肉）・ハムストリングス（太もも裏）・胸椎・足首・肩。座りっぱなしで壊れる5カ所を、1つの動作で同時にリセットする。世界最高と呼ばれる理由はここにある。\n\n正直、30秒のストレッチで何かが変わるとは思っていなかった。私自身、ストレッチ全般を「時間の割に効果が薄い」と軽視していた時期が長かった。\n\n続けて2週間くらいで感覚が変わった。朝の腰の詰まりがない。肩が軽い。これだけで午前中の集中力が別物になる。\n\nやり方はリプ欄へ。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 250729,
+          "impression_count": 26123852,
+          "like_count": 175908,
+          "quote_count": 1140,
+          "reply_count": 311,
+          "retweet_count": 25401
+        },
+        "reply_settings": "everyone",
+        "text": "1日30秒で、8時間の座りっぱなしを帳消しにする動作がある。\n\n大げさではない。座りっぱなしで何が起きているかを先に説明する。 https://t.co/rAQRxum6bU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 304,
+          "like_count": 2010,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 291
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-18T16:37:05.000Z",
+        "description": "自重トレを基盤に人間の調子を整える人。心と身体を武装し、人生の質を上げる方法を研究。かつて精神が底まで落ちてから、自分で人体実験し続けている。いまは静かに暮らしています。詳細な知識はsubstackで書いているよ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hosomacho1.substack.com",
+                "end": 23,
+                "expanded_url": "https://hosomacho1.substack.com",
+                "start": 0,
+                "url": "https://t.co/czkHLU60Eo"
+              }
+            ]
+          }
+        },
+        "id": "3096546230",
+        "name": "Seiya",
+        "pinned_tweet_id": "1165941278376247296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/989404904476176384/UtioFvNn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79244,
+          "following_count": 99,
+          "like_count": 5846,
+          "listed_count": 1020,
+          "media_count": 645,
+          "tweet_count": 7895
+        },
+        "url": "https://t.co/czkHLU60Eo",
+        "username": "hosomacho1",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2070331167338053848",
+    "created_at": "2026-06-26T03:07:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T04:07:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070343047238611400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1850374828764831744",
+          "start": 0,
+          "username": "yuyuysama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070343047238611400",
+    "in_reply_to_user_id": "1850374828764831744",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070333596259484106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyuysama 🤓🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2070331167338053848",
+        "created_at": "2026-06-26T03:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070343047238611400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1850374828764831744",
+              "start": 0,
+              "username": "yuyuysama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070343047238611400",
+        "in_reply_to_user_id": "1850374828764831744",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070333596259484106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyuysama 🤓🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850374828764831744",
+        "conversation_id": "2070331167338053848",
+        "created_at": "2026-06-26T02:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070333596259484106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070333596259484106",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070331167338053848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 我操"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 649,
+          "like_count": 6307,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1194
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T03:12:03.000Z",
+        "description": "可以叫我小游！ 不约不聊骚不kp 05 大二 我讨厌的能是什么好人！讨厌我的肯定也坏的不轻！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuyusama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuyusama",
+                "start": 0,
+                "url": "https://t.co/776gW9kA2x"
+              }
+            ]
+          }
+        },
+        "id": "1850374828764831744",
+        "location": "喵喵喵",
+        "name": "梨花游",
+        "pinned_tweet_id": "2056706018604700064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055716562485886976/xfka1xKH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1099,
+          "following_count": 250,
+          "like_count": 19093,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 2852
+        },
+        "url": "https://t.co/776gW9kA2x",
+        "username": "yuyuysama",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2070105416097513606",
+    "created_at": "2026-06-25T11:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T12:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070105416097513606"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/reiau9e/status…",
+          "end": 157,
+          "expanded_url": "https://twitter.com/reiau9e/status/2070105046092755107",
+          "start": 134,
+          "url": "https://t.co/SkmP24EGbU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070105416097513606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070105046092755107",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在这里，唯我论就重新表现出来了，如果爱是在自我之下的，我指的是，它是被确定的，而不是倒过来保证自我的，那么爱就没有必要，在这里只有纯粹的自恋活动，但自我证明自我的循环论证会导致一种怀疑，克服这种怀疑就导向了唯我论的独断，而爱就不一样了，自我抛出爱，爱倒过来保证了自我 https://t.co/SkmP24EGbU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2070105416097513606",
+        "created_at": "2026-06-25T11:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070105416097513606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/reiau9e/status…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/reiau9e/status/2070105046092755107",
+              "start": 134,
+              "url": "https://t.co/SkmP24EGbU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070105416097513606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070105046092755107",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在这里，唯我论就重新表现出来了，如果爱是在自我之下的，我指的是，它是被确定的，而不是倒过来保证自我的，那么爱就没有必要，在这里只有纯粹的自恋活动，但自我证明自我的循环论证会导致一种怀疑，克服这种怀疑就导向了唯我论的独断，而爱就不一样了，自我抛出爱，爱倒过来保证了自我 https://t.co/SkmP24EGbU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2070105046092755107",
+        "created_at": "2026-06-25T11:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070105046092755107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/reiau9e/status…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/reiau9e/status/2070104705074893044",
+              "start": 139,
+              "url": "https://t.co/2aHhJLExog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070105046092755107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070104705074893044",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "或者你能联想到科耶夫，奴隶是不能证明主人是主人的，主人需要得到的承认来自于其他主人，就像神不能通过人证明自己的伟大，如果这些人，纯然是自我的对象，他们何以证明自我呢，那么，只有自我能保证自我了，那么，我就不需要任何人，因为这些对象本身甚至都没有意义了，只需要自我的活动就可以了 https://t.co/2aHhJLExog"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 634,
+          "like_count": 6248,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 1164
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      }
+    ]
+  }
+}

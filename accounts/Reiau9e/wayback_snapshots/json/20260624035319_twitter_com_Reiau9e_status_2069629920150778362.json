@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2069428205791174995",
+    "created_at": "2026-06-24T03:53:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T04:53:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069629920150778362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1664467792517791744",
+          "start": 0,
+          "username": "Aphelios_77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069629920150778362",
+    "in_reply_to_user_id": "1664467792517791744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069452624810946813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aphelios_77 妈呀何德何能啊我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2069428205791174995",
+        "created_at": "2026-06-24T03:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T04:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069629920150778362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1664467792517791744",
+              "start": 0,
+              "username": "Aphelios_77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069629920150778362",
+        "in_reply_to_user_id": "1664467792517791744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069452624810946813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aphelios_77 妈呀何德何能啊我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664467792517791744",
+        "conversation_id": "2069428205791174995",
+        "created_at": "2026-06-23T16:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T17:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069452624810946813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069452624810946813",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069428205791174995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 为什么感觉你又美又帅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 591,
+          "like_count": 5908,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1106
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T03:04:48.000Z",
+        "description": "在我的开始是我的结束，那本来可能发生的和已经发生的，指向一个终结。终结永远是现在。足音于记忆中回响，沿着我们不曾走过的那条通道，通往我们不曾打开的那扇门。",
+        "id": "1664467792517791744",
+        "name": "蜕而求其刺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876172844616515584/-F68zRtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 410,
+          "like_count": 3458,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 544
+        },
+        "url": "",
+        "username": "Aphelios_77",
+        "verified": false
+      }
+    ]
+  }
+}

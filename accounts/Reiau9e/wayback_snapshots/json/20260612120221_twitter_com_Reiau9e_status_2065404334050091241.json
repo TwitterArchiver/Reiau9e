@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2065404334050091241",
+    "created_at": "2026-06-12T12:02:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T13:02:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065404334050091241"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/alphafox/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/alphafox/status/2065233883277267289",
+          "start": 9,
+          "url": "https://t.co/WZtqSePrbi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065404334050091241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065233883277267289",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喜欢坐脸的有福了 https://t.co/WZtqSePrbi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 93160,
+        "height": 1280,
+        "media_key": "13_2031503760493875200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2031503760493875200/img/QO_cUQ3LbuQcNJCO.jpg",
+        "public_metrics": {
+          "view_count": 3865045
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031503760493875200/vid/avc1/320x568/KqvyVkWUbSqXURPD.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031503760493875200/vid/avc1/480x852/AE2U8agmBIo6aNDy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031503760493875200/vid/avc1/720x1280/ffVGaL24Li429N92.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2031503760493875200/pl/juqVfIfHcQquQJSP.m3u8?v=745"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2065404334050091241",
+        "created_at": "2026-06-12T12:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065404334050091241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alphafox/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/alphafox/status/2065233883277267289",
+              "start": 9,
+              "url": "https://t.co/WZtqSePrbi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065404334050091241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065233883277267289",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢坐脸的有福了 https://t.co/WZtqSePrbi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2031503760493875200"
+          ],
+          "media_source_tweet_id": [
+            "2031503909177667639"
+          ]
+        },
+        "author_id": "36749572",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2065233883277267289",
+        "created_at": "2026-06-12T00:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T01:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065233883277267289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HDeiBRTIio",
+              "end": 86,
+              "expanded_url": "https://x.com/canteen_boi/status/2031503909177667639/video/1",
+              "media_key": "13_2031503760493875200",
+              "start": 63,
+              "url": "https://t.co/HDeiBRTIio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065233883277267289",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13210,
+          "impression_count": 8700815,
+          "like_count": 26726,
+          "quote_count": 1169,
+          "reply_count": 2105,
+          "retweet_count": 3056
+        },
+        "reply_settings": "everyone",
+        "text": "Man's penis and nose accidentally swapped in medical mistake: 😭https://t.co/HDeiBRTIio"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 449,
+          "like_count": 4541,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 781
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-30T19:34:43.000Z",
+        "description": "Chasing Retro Dreams",
+        "id": "36749572",
+        "location": "Earth",
+        "name": "AlphaFox",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033023366420897793/Mv-LgLUj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868772,
+          "following_count": 6862,
+          "like_count": 0,
+          "listed_count": 1694,
+          "media_count": 49315,
+          "tweet_count": 98680
+        },
+        "username": "alphafox",
+        "verified": true
+      }
+    ]
+  }
+}

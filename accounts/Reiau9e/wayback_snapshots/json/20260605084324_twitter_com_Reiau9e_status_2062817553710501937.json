@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "847869481888096256",
+          "name": "Gambling"
+        }
+      }
+    ],
+    "conversation_id": "2062817553710501937",
+    "created_at": "2026-06-05T08:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T09:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062817553710501937"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sekai_ura007/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/sekai_ura007/status/2062529750233759894",
+          "start": 4,
+          "url": "https://t.co/GelhabI5aS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062817553710501937",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062529750233759894",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦牛批 https://t.co/GelhabI5aS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "847869481888096256",
+              "name": "Gambling"
+            }
+          }
+        ],
+        "conversation_id": "2062817553710501937",
+        "created_at": "2026-06-05T08:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062817553710501937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sekai_ura007/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/sekai_ura007/status/2062529750233759894",
+              "start": 4,
+              "url": "https://t.co/GelhabI5aS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062817553710501937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062529750233759894",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦牛批 https://t.co/GelhabI5aS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "28626920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "847869481888096256",
+              "name": "Gambling"
+            }
+          }
+        ],
+        "conversation_id": "2062529750233759894",
+        "created_at": "2026-06-04T13:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062529750233759894"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062529750233759894",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 171,
+          "impression_count": 167609,
+          "like_count": 850,
+          "quote_count": 34,
+          "reply_count": 28,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "チンポのデカさは全てを凌駕する。\nお金をアホみたいに稼ごうが、芸能人並みに外見が整っていようが、内面がすこぶる良かろうが、チンポが小さいやつは負ける。\n\nギャンブルも同じ。ギャンブルで破滅したりよく負けたりするやつはだいたいチンポが小さい。\n\nほんとに情けない。海綿体引き伸ばせよ。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 305,
+          "like_count": 2051,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 299
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-03T18:51:51.000Z",
+        "description": "占いスピとアダルト / アカ売却と賭け事が趣味 / 福岡 / 副業勢",
+        "id": "28626920",
+        "location": "おふざけポストなので本気にしないで😉✨",
+        "name": "オニクン",
+        "pinned_tweet_id": "1974350106326700377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926150504343535616/2ATq79yP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 254,
+          "like_count": 7861,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 1245
+        },
+        "username": "sekai_ura007",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2065363458695287202",
+    "created_at": "2026-06-12T09:46:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T10:46:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065370262527418505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1754507094823190529",
+          "start": 0,
+          "username": "jiyjir165103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065370262527418505",
+    "in_reply_to_user_id": "1754507094823190529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065365327249396075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiyjir165103 啊啊啊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2065363458695287202",
+        "created_at": "2026-06-12T09:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065370262527418505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1754507094823190529",
+              "start": 0,
+              "username": "jiyjir165103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065370262527418505",
+        "in_reply_to_user_id": "1754507094823190529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065365327249396075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiyjir165103 啊啊啊！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754507094823190529",
+        "conversation_id": "2065363458695287202",
+        "created_at": "2026-06-12T09:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065365327249396075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065365327249396075",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065363458695287202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 老大💕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 450,
+          "like_count": 4531,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 773
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T14:07:58.000Z",
+        "description": "到底是現實還是幻想，我分不清⋯",
+        "id": "1754507094823190529",
+        "location": "（╹◡╹）",
+        "name": "清夢甚愜🫥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064724224883990530/wnKhjiO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 193,
+          "like_count": 6544,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 1988
+        },
+        "username": "jiyjir165103",
+        "verified": false
+      }
+    ]
+  }
+}

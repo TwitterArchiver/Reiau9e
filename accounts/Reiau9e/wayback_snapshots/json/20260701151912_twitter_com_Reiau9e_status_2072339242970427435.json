@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2072278522224374050",
+    "created_at": "2026-07-01T15:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T16:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072339242970427435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1939159358027505664",
+          "start": 0,
+          "username": "kongkong_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072339242970427435",
+    "in_reply_to_user_id": "1939159358027505664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072334809570144557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kongkong_QAQ 怎么这样哎哎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2072278522224374050",
+        "created_at": "2026-07-01T15:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072339242970427435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1939159358027505664",
+              "start": 0,
+              "username": "kongkong_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072339242970427435",
+        "in_reply_to_user_id": "1939159358027505664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072334809570144557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kongkong_QAQ 怎么这样哎哎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939159358027505664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1410726858014945283",
+              "name": "Wuxia"
+            }
+          }
+        ],
+        "conversation_id": "2072278522224374050",
+        "created_at": "2026-07-01T15:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072334809570144557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072334809570144557",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072278522224374050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 唉 刚开始挺好玩的..出到第三个地图感觉太玄幻了没有当初的武侠氛围就玩不下去了🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 708,
+          "like_count": 7150,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1421
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T03:10:07.000Z",
+        "description": "空空喵…(´-ω-`)请不要注意到角落的空空！\n无🚪｜不加任何联系方式｜不聊骚不约不线下｜不出原味不接广不入会｜投喂仅是投喂，备注id空空会记住你，48h内可退｜评论私信随缘回喵",
+        "id": "1939159358027505664",
+        "name": "姓名不能为空",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054152918765633536/Dfj0TWzH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6247,
+          "following_count": 6,
+          "like_count": 288,
+          "listed_count": 40,
+          "media_count": 90,
+          "tweet_count": 712
+        },
+        "url": "",
+        "username": "kongkong_QAQ",
+        "verified": false
+      }
+    ]
+  }
+}

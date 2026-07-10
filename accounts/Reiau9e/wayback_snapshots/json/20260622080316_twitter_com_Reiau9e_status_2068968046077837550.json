@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2068590391121850510",
+    "created_at": "2026-06-22T08:03:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T09:03:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068968046077837550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1976607390532616192",
+          "start": 0,
+          "username": "Gziixx01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068968046077837550",
+    "in_reply_to_user_id": "1976607390532616192",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068916280200143343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gziixx01 😽😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2068590391121850510",
+        "created_at": "2026-06-22T08:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068968046077837550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1976607390532616192",
+              "start": 0,
+              "username": "Gziixx01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068968046077837550",
+        "in_reply_to_user_id": "1976607390532616192",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068916280200143343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gziixx01 😽😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976607390532616192",
+        "conversation_id": "2068590391121850510",
+        "created_at": "2026-06-22T04:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068916280200143343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068916280200143343",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068590391121850510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 姐姐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 588,
+          "like_count": 5696,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1054
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-10T11:15:14.000Z",
+        "description": "我来x就是为了看男人的\n我不喜欢回关，不要指望我回关\n153/85斤",
+        "id": "1976607390532616192",
+        "name": "故闲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064718576205099009/-bv2ZU2S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 13,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 106
+        },
+        "url": "",
+        "username": "Gziixx01",
+        "verified": false
+      }
+    ]
+  }
+}

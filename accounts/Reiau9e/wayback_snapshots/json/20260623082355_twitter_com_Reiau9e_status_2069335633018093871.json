@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2069076586532630927",
+    "created_at": "2026-06-23T08:23:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T09:23:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069335633018093871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1886242908875231232",
+          "start": 0,
+          "username": "acisuitie404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069335633018093871",
+    "in_reply_to_user_id": "1886242908875231232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069107623857930557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acisuitie404 开炫了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2069076586532630927",
+        "created_at": "2026-06-23T08:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069335633018093871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1886242908875231232",
+              "start": 0,
+              "username": "acisuitie404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069335633018093871",
+        "in_reply_to_user_id": "1886242908875231232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069107623857930557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acisuitie404 开炫了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886242908875231232",
+        "conversation_id": "2069076586532630927",
+        "created_at": "2026-06-22T17:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T18:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069107623857930557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069107623857930557",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069076586532630927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 吃！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 590,
+          "like_count": 5819,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1091
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T02:38:57.000Z",
+        "description": "infp",
+        "id": "1886242908875231232",
+        "name": "莎缇拉",
+        "pinned_tweet_id": "2051176874102145395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049029106176802816/Uhond80l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 66,
+          "like_count": 295,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 379
+        },
+        "url": "",
+        "username": "acisuitie404",
+        "verified": false
+      }
+    ]
+  }
+}

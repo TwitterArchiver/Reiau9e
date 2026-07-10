@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2073614563577356607",
+    "created_at": "2026-07-05T04:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T05:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073628636440404276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1787101186346360832",
+          "start": 0,
+          "username": "LloveLuoTinyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073628636440404276",
+    "in_reply_to_user_id": "1787101186346360832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073619386288722144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LloveLuoTinyi 你也好米啊嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2073614563577356607",
+        "created_at": "2026-07-05T04:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073628636440404276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787101186346360832",
+              "start": 0,
+              "username": "LloveLuoTinyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073628636440404276",
+        "in_reply_to_user_id": "1787101186346360832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073619386288722144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LloveLuoTinyi 你也好米啊嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787101186346360832",
+        "conversation_id": "2073614563577356607",
+        "created_at": "2026-07-05T04:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073619386288722144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073619386288722144",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073614563577356607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 米啊😍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 719,
+          "like_count": 7355,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-05T12:45:12.000Z",
+        "description": "亲爱的，没有什么是永恒的，你爱我也是",
+        "id": "1787101186346360832",
+        "location": "你心里",
+        "name": "北月也鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861039157264388096/ok10k_Ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 62,
+          "like_count": 4534,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1282
+        },
+        "url": "",
+        "username": "LloveLuoTinyi",
+        "verified": false
+      }
+    ]
+  }
+}

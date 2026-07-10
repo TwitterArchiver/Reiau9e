@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2063884685131092429",
+    "created_at": "2026-06-08T08:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T09:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063896470882005003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601798366714908672",
+          "start": 0,
+          "username": "ranhuauu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063896470882005003",
+    "in_reply_to_user_id": "1601798366714908672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063891298269147256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ranhuauu 你也米也帅！都萌啊嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2063884685131092429",
+        "created_at": "2026-06-08T08:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063896470882005003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601798366714908672",
+              "start": 0,
+              "username": "ranhuauu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063896470882005003",
+        "in_reply_to_user_id": "1601798366714908672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063891298269147256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ranhuauu 你也米也帅！都萌啊嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601798366714908672",
+        "conversation_id": "2063884685131092429",
+        "created_at": "2026-06-08T07:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T08:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063891298269147256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063891298269147256",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063884685131092429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 好米好帅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 375,
+          "like_count": 3203,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 555
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T04:39:16.000Z",
+        "description": "人活著就是為了割手 犯病 崩潰 孤獨 自卑 自殘 自戀 自慰 自殺 嗑藥 ｜歡迎光臨｜中焦重抑 雙向 PTSD 割手 嗑藥 成分複雜｜ 歡迎和我互fo 就讓我們化學極樂 逃離痛苦的世界",
+        "id": "1601798366714908672",
+        "location": "極樂世界",
+        "name": "蚺華",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052071943541817344/7iKMlWNi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 88,
+          "like_count": 3169,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 942
+        },
+        "username": "ranhuauu",
+        "verified": false
+      }
+    ]
+  }
+}

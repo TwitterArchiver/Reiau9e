@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2062754496879698373",
+    "created_at": "2026-06-05T04:32:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T05:32:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062754496879698373"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sho_ho_yamasan…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/sho_ho_yamasan/status/2062568276300067034",
+          "start": 17,
+          "url": "https://t.co/xDammyAeAo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062754496879698373",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062568276300067034",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "之前看还有憋尿直播，真的吓死人了 https://t.co/xDammyAeAo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2062754496879698373",
+        "created_at": "2026-06-05T04:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062754496879698373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sho_ho_yamasan…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/sho_ho_yamasan/status/2062568276300067034",
+              "start": 17,
+              "url": "https://t.co/xDammyAeAo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062754496879698373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062568276300067034",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前看还有憋尿直播，真的吓死人了 https://t.co/xDammyAeAo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401429092130385923",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2062568276300067034",
+        "created_at": "2026-06-04T16:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062568276300067034"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062568276300067034",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 746521,
+          "like_count": 2106,
+          "quote_count": 41,
+          "reply_count": 52,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "どうしてVtuberって尿道結石になる人多いの？\n生活が不摂生だから？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 304,
+          "like_count": 1986,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 281
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-06T06:41:58.000Z",
+        "description": "機械系三流エンジニア。提督兼隊長です\n艦これでは祥鳳さん、アリスギアでは楓ちゃん推しの黒髪ロングの前髪ぱっつん好きです\n1980年～2000年始めくらいまでのアニメやゲームがが大好きです\n※にじさんじフレン推し\n\nhttps://t.co/kAVdNU3uCt\nnote始めました",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "note.com/sho_ho_yamasan",
+                "end": 130,
+                "expanded_url": "http://note.com/sho_ho_yamasan",
+                "start": 107,
+                "url": "https://t.co/kAVdNU3uCt"
+              }
+            ]
+          }
+        },
+        "id": "1401429092130385923",
+        "name": "山本山🎠",
+        "pinned_tweet_id": "1433412573295104005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677320747532840960/4z2fcUhk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4844,
+          "following_count": 2339,
+          "like_count": 315161,
+          "listed_count": 36,
+          "media_count": 25106,
+          "tweet_count": 148948
+        },
+        "username": "sho_ho_Yamasan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2071775003377561664",
+    "created_at": "2026-06-30T09:49:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T10:49:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071893803699781936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1426207565575192577",
+          "start": 0,
+          "username": "Lainyer051230"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071893803699781936",
+    "in_reply_to_user_id": "1426207565575192577",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071872872583430365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lainyer051230 你也米米！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2071775003377561664",
+        "created_at": "2026-06-30T09:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071893803699781936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1426207565575192577",
+              "start": 0,
+              "username": "Lainyer051230"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071893803699781936",
+        "in_reply_to_user_id": "1426207565575192577",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071872872583430365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lainyer051230 你也米米！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426207565575192577",
+        "conversation_id": "2071775003377561664",
+        "created_at": "2026-06-30T08:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T09:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071872872583430365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071872872583430365",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071775003377561664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 帅帅ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 694,
+          "like_count": 6926,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1372
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-13T15:43:03.000Z",
+        "description": "2007.5.6（年月日｜\n位于马来西亚.柔佛州｜\nMtF🏳️‍⚧️（無證含糖｜HRT🍥：2026.5.1｜\nShe/Her｜无不良嗜好｜有对象｜偶尔分享下照片还有生活之类的～｜我的吉祥物推号😋@lovhh2005 ｜可爱小唯唯： @weiweisama1220",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "lovhh2005"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "weiweisama1220"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mawuneko",
+                "end": 23,
+                "expanded_url": "http://t.me/mawuneko",
+                "start": 0,
+                "url": "https://t.co/sGyhuZah47"
+              }
+            ]
+          }
+        },
+        "id": "1426207565575192577",
+        "location": "Johor, Malaysia",
+        "name": "千缘sama🍥",
+        "pinned_tweet_id": "2065607326548287712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053778111582584832/F55FNMQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 280,
+          "like_count": 20487,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 2644
+        },
+        "url": "https://t.co/sGyhuZah47",
+        "username": "Lainyer051230",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2063174235749802098",
+    "created_at": "2026-06-07T04:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T05:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063483183094759513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2001619637759545346",
+          "start": 0,
+          "username": "li_wei56230"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063483183094759513",
+    "in_reply_to_user_id": "2001619637759545346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063483017285542188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@li_wei56230 本人很爱黑杰克来着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2063174235749802098",
+        "created_at": "2026-06-07T04:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063483183094759513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2001619637759545346",
+              "start": 0,
+              "username": "li_wei56230"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063483183094759513",
+        "in_reply_to_user_id": "2001619637759545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063483017285542188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@li_wei56230 本人很爱黑杰克来着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001619637759545346",
+        "conversation_id": "2063174235749802098",
+        "created_at": "2026-06-07T04:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063483017285542188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063483017285542188",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063442422844301642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 这，这也会说嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 354,
+          "like_count": 2718,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 448
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T11:45:21.000Z",
+        "description": "一个木讷无聊的人/头像是小红书的老师【Atanaca】画的插画",
+        "id": "2001619637759545346",
+        "name": "我们都在舞台上",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016960915820990467/MULWoq7J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 265,
+          "like_count": 582,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 272
+        },
+        "username": "li_wei56230",
+        "verified": false
+      }
+    ]
+  }
+}

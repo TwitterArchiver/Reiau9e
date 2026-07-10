@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2063859277203398666",
+    "created_at": "2026-06-08T05:57:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T06:57:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063862931419541829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2003809202666688513",
+          "start": 0,
+          "username": "labrat_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063862931419541829",
+    "in_reply_to_user_id": "2003809202666688513",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063862579160920288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@labrat_404 不知道，比切换野狗性和人性好太多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2063859277203398666",
+        "created_at": "2026-06-08T05:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T06:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063862931419541829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2003809202666688513",
+              "start": 0,
+              "username": "labrat_404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063862931419541829",
+        "in_reply_to_user_id": "2003809202666688513",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063862579160920288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@labrat_404 不知道，比切换野狗性和人性好太多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003809202666688513",
+        "conversation_id": "2063859277203398666",
+        "created_at": "2026-06-08T05:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T06:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063862579160920288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063862579160920288",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063859277203398666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 所以切换多个性别就不是拒绝风险了 就不是懦弱了对吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 374,
+          "like_count": 3149,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 538
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-24T12:45:32.000Z",
+        "description": "dark identity养成日记 人类观察者 切断一切外界灌输及规训 只相信自己的直觉和欲望",
+        "id": "2003809202666688513",
+        "name": "rat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008648723296120833/1gNR4xsA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 43,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 75
+        },
+        "username": "labrat_404",
+        "verified": false
+      }
+    ]
+  }
+}

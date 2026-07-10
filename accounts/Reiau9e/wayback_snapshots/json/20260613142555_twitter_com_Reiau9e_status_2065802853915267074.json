@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065802846373912576"
+      ]
+    },
+    "author_id": "2055263152238198784",
+    "conversation_id": "2065802853915267074",
+    "created_at": "2026-06-13T14:25:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T15:25:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065802853915267074"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/v5gE1F6sUt",
+          "end": 31,
+          "expanded_url": "https://x.com/Reiau9e/status/2065802853915267074/photo/1",
+          "media_key": "3_2065802846373912576",
+          "start": 8,
+          "url": "https://t.co/v5gE1F6sUt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065802853915267074",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "24岁，是学生 https://t.co/v5gE1F6sUt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065802846373912576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKs0vmIboAAEQ9G.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065802846373912576"
+          ]
+        },
+        "author_id": "2055263152238198784",
+        "conversation_id": "2065802853915267074",
+        "created_at": "2026-06-13T14:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065802853915267074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v5gE1F6sUt",
+              "end": 31,
+              "expanded_url": "https://x.com/Reiau9e/status/2065802853915267074/photo/1",
+              "media_key": "3_2065802846373912576",
+              "start": 8,
+              "url": "https://t.co/v5gE1F6sUt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065802853915267074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "24岁，是学生 https://t.co/v5gE1F6sUt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 469,
+          "like_count": 4717,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 825
+        },
+        "username": "Reiau9e",
+        "verified": false
+      }
+    ]
+  }
+}

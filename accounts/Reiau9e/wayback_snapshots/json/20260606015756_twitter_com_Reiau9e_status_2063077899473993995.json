@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2062914810430546383",
+    "created_at": "2026-06-06T01:57:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T02:57:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063077899473993995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1822623266118471680",
+          "start": 0,
+          "username": "Cheon05468"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063077899473993995",
+    "in_reply_to_user_id": "1822623266118471680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062939827612348809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheon05468 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2062914810430546383",
+        "created_at": "2026-06-06T01:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T02:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063077899473993995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1822623266118471680",
+              "start": 0,
+              "username": "Cheon05468"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063077899473993995",
+        "in_reply_to_user_id": "1822623266118471680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062939827612348809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheon05468 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822623266118471680",
+        "conversation_id": "2062914810430546383",
+        "created_at": "2026-06-05T16:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062939827612348809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062939827612348809",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062914810430546383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 长发男"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 329,
+          "like_count": 2403,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 320
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T13:17:24.000Z",
+        "description": "我想发啥发啥，信我我是一个好的坏人。",
+        "id": "1822623266118471680",
+        "name": "Cheon",
+        "pinned_tweet_id": "2058270344470048788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058266031400087552/JpbmRv5p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 13,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 191
+        },
+        "username": "Cheon05468",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067089039233351681"
+      ]
+    },
+    "author_id": "2055263152238198784",
+    "conversation_id": "2067089046049050905",
+    "created_at": "2026-06-17T03:36:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T04:36:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067089046049050905"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WE5lHCCLUX",
+          "end": 36,
+          "expanded_url": "https://x.com/Reiau9e/status/2067089046049050905/photo/1",
+          "media_key": "3_2067089039233351681",
+          "start": 13,
+          "url": "https://t.co/WE5lHCCLUX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067089046049050905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个晚上效果确实不错啊嗯 https://t.co/WE5lHCCLUX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2067089039233351681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_Gh36bgAEurpC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067089039233351681"
+          ]
+        },
+        "author_id": "2055263152238198784",
+        "conversation_id": "2067089046049050905",
+        "created_at": "2026-06-17T03:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067089046049050905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WE5lHCCLUX",
+              "end": 36,
+              "expanded_url": "https://x.com/Reiau9e/status/2067089046049050905/photo/1",
+              "media_key": "3_2067089039233351681",
+              "start": 13,
+              "url": "https://t.co/WE5lHCCLUX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067089046049050905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个晚上效果确实不错啊嗯 https://t.co/WE5lHCCLUX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 532,
+          "like_count": 5210,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 949
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      }
+    ]
+  }
+}

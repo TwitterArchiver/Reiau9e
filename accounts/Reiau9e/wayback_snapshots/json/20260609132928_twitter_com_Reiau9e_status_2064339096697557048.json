@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2064338739313418339",
+    "created_at": "2026-06-09T13:29:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T14:29:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064339096697557048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1918956447523913728",
+          "start": 0,
+          "username": "miomiojing19687"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064339096697557048",
+    "in_reply_to_user_id": "1918956447523913728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064338739313418339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miomiojing19687 萌啊！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2064338720044838912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYBIOhbcAAR4_c.jpg",
+        "width": 375
+      },
+      {
+        "height": 1333,
+        "media_key": "3_2064338736486535168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYBJLxb0AAWnlr.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2064338739313418339",
+        "created_at": "2026-06-09T13:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064339096697557048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1918956447523913728",
+              "start": 0,
+              "username": "miomiojing19687"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064339096697557048",
+        "in_reply_to_user_id": "1918956447523913728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064338739313418339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miomiojing19687 萌啊！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064338720044838912",
+            "3_2064338736486535168"
+          ]
+        },
+        "author_id": "1918956447523913728",
+        "conversation_id": "2064338739313418339",
+        "created_at": "2026-06-09T13:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064338739313418339"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DRlEJmBGpZ",
+              "end": 41,
+              "expanded_url": "https://x.com/miomiojing19687/status/2064338739313418339/photo/1",
+              "media_key": "3_2064338720044838912",
+              "start": 18,
+              "url": "https://t.co/DRlEJmBGpZ"
+            },
+            {
+              "display_url": "pic.x.com/DRlEJmBGpZ",
+              "end": 41,
+              "expanded_url": "https://x.com/miomiojing19687/status/2064338739313418339/photo/1",
+              "media_key": "3_2064338736486535168",
+              "start": 18,
+              "url": "https://t.co/DRlEJmBGpZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064338739313418339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈 提问图中有几个双马尾 https://t.co/DRlEJmBGpZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 393,
+          "like_count": 3780,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 629
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T09:10:52.000Z",
+        "description": "",
+        "id": "1918956447523913728",
+        "name": "Samidare",
+        "pinned_tweet_id": "2062420252193960259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062428322995310592/XH7NTFvM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 55,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 29
+        },
+        "username": "miomiojing19687",
+        "verified": false
+      }
+    ]
+  }
+}

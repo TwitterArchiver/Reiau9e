@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2070521975479701811",
+    "created_at": "2026-06-27T03:55:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T04:55:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070717530050805894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1863508919932338176",
+          "start": 0,
+          "username": "bw864565"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070717530050805894",
+    "in_reply_to_user_id": "1863508919932338176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070536586694209995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bw864565 太会讲话了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2070521975479701811",
+        "created_at": "2026-06-27T03:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070717530050805894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1863508919932338176",
+              "start": 0,
+              "username": "bw864565"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070717530050805894",
+        "in_reply_to_user_id": "1863508919932338176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070536586694209995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bw864565 太会讲话了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863508919932338176",
+        "conversation_id": "2070521975479701811",
+        "created_at": "2026-06-26T15:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070536586694209995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070536586694209995",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070521975479701811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 啊一时不知道评论帅还是美！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 671,
+          "like_count": 6410,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1222
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T09:02:31.000Z",
+        "description": "生活原本很沉闷，但跑起来就有风了。",
+        "id": "1863508919932338176",
+        "location": " ",
+        "name": "大眼仔",
+        "pinned_tweet_id": "1864638997051461809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963480504503504896/LXxlvEmw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 787,
+          "like_count": 25231,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 5837
+        },
+        "url": "",
+        "username": "bw864565",
+        "verified": false
+      }
+    ]
+  }
+}

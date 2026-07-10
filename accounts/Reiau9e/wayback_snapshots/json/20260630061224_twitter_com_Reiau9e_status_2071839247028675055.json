@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2071827590176809160",
+    "created_at": "2026-06-30T06:12:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T07:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071839247028675055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1988187586339467264",
+          "start": 0,
+          "username": "Air_Yukiha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071839247028675055",
+    "in_reply_to_user_id": "1988187586339467264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071827590176809160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Air_Yukiha 萌啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1393,
+        "media_key": "3_2071827578633990144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMCcNKxWMAAXqSE.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2071827590176809160",
+        "created_at": "2026-06-30T06:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T07:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071839247028675055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988187586339467264",
+              "start": 0,
+              "username": "Air_Yukiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071839247028675055",
+        "in_reply_to_user_id": "1988187586339467264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071827590176809160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Air_Yukiha 萌啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071827578633990144"
+          ]
+        },
+        "author_id": "1988187586339467264",
+        "conversation_id": "2071827590176809160",
+        "created_at": "2026-06-30T05:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T06:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071827590176809160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bu5Q59Rtre",
+              "end": 36,
+              "expanded_url": "https://x.com/Air_Yukiha/status/2071827590176809160/photo/1",
+              "media_key": "3_2071827578633990144",
+              "start": 13,
+              "url": "https://t.co/bu5Q59Rtre"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071827590176809160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小猫背着你们偷偷长胡子了 https://t.co/bu5Q59Rtre"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 694,
+          "like_count": 6926,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1369
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 422,
+          "like_count": 1948,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 932
+        },
+        "url": "",
+        "username": "Air_Yukiha",
+        "verified": false
+      }
+    ]
+  }
+}

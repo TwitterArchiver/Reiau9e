@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2067447297810825621",
+    "created_at": "2026-06-18T04:14:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T05:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067461000224555103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1976313339224653828",
+          "start": 0,
+          "username": "Naiv46528_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067461000224555103",
+    "in_reply_to_user_id": "1976313339224653828",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067447723746267441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Naiv46528_ 你也好萌！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2067447297810825621",
+        "created_at": "2026-06-18T04:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067461000224555103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976313339224653828",
+              "start": 0,
+              "username": "Naiv46528_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067461000224555103",
+        "in_reply_to_user_id": "1976313339224653828",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067447723746267441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Naiv46528_ 你也好萌！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976313339224653828",
+        "conversation_id": "2067447297810825621",
+        "created_at": "2026-06-18T03:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067447723746267441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067447723746267441",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067447297810825621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 帅帅的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 537,
+          "like_count": 5263,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 963
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T15:46:43.000Z",
+        "description": "我🟰蓝，除中文外皆为机翻，请多关照！生理心理女，目前不登校\n❕双相｜od｜自伤。情绪不稳定❕但是我很好相处，欢迎找我玩。🏳️‍🌈友好。会看成分互fo。",
+        "id": "1976313339224653828",
+        "name": "嗳寺藍Naiv",
+        "pinned_tweet_id": "2053313608876999060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976314017162637313/uUz8mSDF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 94,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 146
+        },
+        "url": "",
+        "username": "Naiv46528_",
+        "verified": false
+      }
+    ]
+  }
+}

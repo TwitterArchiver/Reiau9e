@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2063118621703053677",
+    "created_at": "2026-06-06T04:39:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T05:39:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063118621703053677"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063118621703053677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没有一个母亲希望自己的女儿成为娼妓，并不是贞洁与否，而是她们不应该被这样对待"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2063118621703053677",
+        "created_at": "2026-06-06T04:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063118621703053677"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063118621703053677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有一个母亲希望自己的女儿成为娼妓，并不是贞洁与否，而是她们不应该被这样对待"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 326,
+          "like_count": 2432,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 333
+        },
+        "username": "Reiau9e",
+        "verified": false
+      }
+    ]
+  }
+}

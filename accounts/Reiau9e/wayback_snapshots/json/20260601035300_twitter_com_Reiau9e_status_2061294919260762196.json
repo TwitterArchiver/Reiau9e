@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2061294919260762196",
+    "created_at": "2026-06-01T03:53:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T04:53:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061294919260762196"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/reiau9e/status…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/reiau9e/status/2061038956133884348",
+          "start": 15,
+          "url": "https://t.co/TA2GCWoOhp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061294919260762196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061038956133884348",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不過凸同審美確實有點一言難盡 https://t.co/TA2GCWoOhp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2061294919260762196",
+        "created_at": "2026-06-01T03:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061294919260762196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/reiau9e/status…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/reiau9e/status/2061038956133884348",
+              "start": 15,
+              "url": "https://t.co/TA2GCWoOhp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061294919260762196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061038956133884348",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不過凸同審美確實有點一言難盡 https://t.co/TA2GCWoOhp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2061038956133884348",
+        "created_at": "2026-05-31T10:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T11:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061038956133884348"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061038956133884348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "土同说话也比一些顺直好玩（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060665749082095616/_fzCAkVQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 148,
+          "like_count": 745,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 71
+        },
+        "username": "Reiau9e",
+        "verified": false
+      }
+    ]
+  }
+}

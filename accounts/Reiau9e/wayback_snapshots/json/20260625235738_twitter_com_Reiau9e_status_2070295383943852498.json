@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2070104366103826588",
+    "created_at": "2026-06-25T23:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T00:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070295383943852498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1838866598427549696",
+          "start": 0,
+          "username": "Yunmengyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070295383943852498",
+    "in_reply_to_user_id": "1838866598427549696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070144506205532482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yunmengyue 这个判断是完全出自于你自己的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2070104366103826588",
+        "created_at": "2026-06-25T23:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T00:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070295383943852498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1838866598427549696",
+              "start": 0,
+              "username": "Yunmengyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070295383943852498",
+        "in_reply_to_user_id": "1838866598427549696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070144506205532482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yunmengyue 这个判断是完全出自于你自己的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838866598427549696",
+        "conversation_id": "2070104366103826588",
+        "created_at": "2026-06-25T13:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070144506205532482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070144506205532482",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070104366103826588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 其实会有点吧，多少沾点自我感动在里面，付出和回报不对等。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 648,
+          "like_count": 6292,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1190
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-25T09:02:26.000Z",
+        "description": "🍬2025.10吃糖\n🍥2026.5开启hrt\n🌈已出柜 持证含糖MtF\n🎂97年大龄跨\n✨愿自己早日变成女生",
+        "id": "1838866598427549696",
+        "name": "云梦玥Yuzuki🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060339603601854464/KKYNJjoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 278,
+          "like_count": 2330,
+          "listed_count": 7,
+          "media_count": 33,
+          "tweet_count": 1591
+        },
+        "url": "",
+        "username": "Yunmengyue",
+        "verified": false
+      }
+    ]
+  }
+}

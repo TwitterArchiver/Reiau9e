@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2063640619659194387",
+    "created_at": "2026-06-08T05:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T06:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063863081252618368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1920903007707000832",
+          "start": 0,
+          "username": "Asuka_0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063863081252618368",
+    "in_reply_to_user_id": "1920903007707000832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063861605478305923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asuka_0w0 草贵裕俺打错了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2063640619659194387",
+        "created_at": "2026-06-08T05:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T06:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063863081252618368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1920903007707000832",
+              "start": 0,
+              "username": "Asuka_0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063863081252618368",
+        "in_reply_to_user_id": "1920903007707000832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063861605478305923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asuka_0w0 草贵裕俺打错了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920903007707000832",
+        "conversation_id": "2063640619659194387",
+        "created_at": "2026-06-08T05:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T06:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063861605478305923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063861605478305923",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063860405978710207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 嗯嗯！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 374,
+          "like_count": 3150,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 539
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T18:06:09.000Z",
+        "description": "我不是黄推啊！基本纯绿…爱拍照片而已，作息很阴间，可以陪ow，jcc，ff14，steam各类联机，如果有穿搭发型需要指导也可以，男女都可以！",
+        "id": "1920903007707000832",
+        "location": "🚪可定制cos ♡口♡令♡重♡度♡依♡赖♡",
+        "name": "酸涩橙",
+        "pinned_tweet_id": "2025220072630092166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922011047562772483/T8YKu5zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 88,
+          "like_count": 871,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 145
+        },
+        "username": "Asuka_0w0",
+        "verified": false
+      }
+    ]
+  }
+}

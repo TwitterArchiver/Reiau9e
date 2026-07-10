@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2064212252094607619",
+    "created_at": "2026-06-09T05:12:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T06:12:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064213985344520337"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064213985344520337",
+    "in_reply_to_user_id": "2055263152238198784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064212252094607619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎这个大学教授因为找不到常勤职然后去卖身的也有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2064212252094607619",
+        "created_at": "2026-06-09T05:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064213985344520337"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064213985344520337",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064212252094607619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎这个大学教授因为找不到常勤职然后去卖身的也有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2064212252094607619",
+        "created_at": "2026-06-09T05:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064212252094607619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/neouma7/status…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/neouma7/status/2064090104734654492",
+              "start": 106,
+              "url": "https://t.co/xbKIwCXRTm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064212252094607619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064090104734654492",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "突然想到日本的这个助学金是挺司马的，要那种给付型和无息贷款的这个，给付型就是不用你还，这个贷款就是给你多少就要还多少，也是这个不少带学生需要出去卖淫的主要原因，还没开始工作身上就有一两百万的贷款，只能说牛批啊嗯 https://t.co/xbKIwCXRTm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 381,
+          "like_count": 3431,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 591
+        },
+        "username": "Reiau9e",
+        "verified": false
+      }
+    ]
+  }
+}

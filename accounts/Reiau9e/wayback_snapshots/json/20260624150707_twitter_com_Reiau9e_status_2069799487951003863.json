@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2069799231741981018",
+    "created_at": "2026-06-24T15:07:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T16:07:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069799487951003863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2049837033191837696",
+          "start": 0,
+          "username": "misak101108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069799487951003863",
+    "in_reply_to_user_id": "2049837033191837696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069799231741981018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misak101108 米啊大人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069799211315646464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLlnapraUAARS1t.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2069799231741981018",
+        "created_at": "2026-06-24T15:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069799487951003863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2049837033191837696",
+              "start": 0,
+              "username": "misak101108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069799487951003863",
+        "in_reply_to_user_id": "2049837033191837696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069799231741981018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misak101108 米啊大人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069799211315646464"
+          ]
+        },
+        "author_id": "2049837033191837696",
+        "conversation_id": "2069799231741981018",
+        "created_at": "2026-06-24T15:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069799231741981018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q1hfGOgEyo",
+              "end": 23,
+              "expanded_url": "https://x.com/misak101108/status/2069799231741981018/photo/1",
+              "media_key": "3_2069799211315646464",
+              "start": 0,
+              "url": "https://t.co/Q1hfGOgEyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069799231741981018",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Q1hfGOgEyo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 620,
+          "like_count": 6130,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1134
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T13:03:37.000Z",
+        "description": "",
+        "id": "2049837033191837696",
+        "name": "小煜y",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063625379647287296/-aQXZQE5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 22,
+          "like_count": 2472,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 451
+        },
+        "url": "",
+        "username": "misak101108",
+        "verified": false
+      }
+    ]
+  }
+}

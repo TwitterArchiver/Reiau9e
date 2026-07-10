@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2066934747922935949",
+    "created_at": "2026-06-17T03:02:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T04:02:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067080352871661784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2027675213589319683",
+          "start": 0,
+          "username": "Amatsukih16k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067080352871661784",
+    "in_reply_to_user_id": "2027675213589319683",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066934747922935949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amatsukih16k 太萌了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10733,
+        "height": 1280,
+        "media_key": "13_2066934624316719104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066934624316719104/img/xrgwxIuLzCpyrNfT.jpg",
+        "public_metrics": {
+          "view_count": 182
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066934624316719104/vid/avc1/320x628/G0-at5gyCKax3M6H.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066934624316719104/vid/avc1/480x942/TgGWNdeoxMXySDjI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066934624316719104/vid/avc1/652x1280/Xm06MbPpyi9i-pvz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066934624316719104/pl/jbrQvYY7i_ZRuZpD.m3u8"
+          }
+        ],
+        "width": 652
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2066934747922935949",
+        "created_at": "2026-06-17T03:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067080352871661784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2027675213589319683",
+              "start": 0,
+              "username": "Amatsukih16k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067080352871661784",
+        "in_reply_to_user_id": "2027675213589319683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066934747922935949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amatsukih16k 太萌了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066934624316719104"
+          ]
+        },
+        "author_id": "2027675213589319683",
+        "conversation_id": "2066934747922935949",
+        "created_at": "2026-06-16T17:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066934747922935949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xfogobxDR8",
+              "end": 23,
+              "expanded_url": "https://x.com/Amatsukih16k/status/2066934747922935949/video/1",
+              "media_key": "13_2066934624316719104",
+              "start": 0,
+              "url": "https://t.co/xfogobxDR8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066934747922935949",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 539,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xfogobxDR8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 532,
+          "like_count": 5192,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 947
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-28T09:24:32.000Z",
+        "description": "日本語勉強中\n随便發點什么\n头像是自设OC",
+        "id": "2027675213589319683",
+        "name": "Amatsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062986031146897408/tsGYE1F5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 84,
+          "like_count": 946,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 136
+        },
+        "username": "Amatsukih16k",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2065395060666208640",
+    "created_at": "2026-06-12T11:25:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T12:25:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065395060666208640"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cOuOat/status/…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/cOuOat/status/2064991916568293519",
+          "start": 21,
+          "url": "https://t.co/Xo77IkqC0n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065395060666208640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064991916568293519",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个主要是有很强的权力意味，征服与被征服 https://t.co/Xo77IkqC0n"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2065395060666208640",
+        "created_at": "2026-06-12T11:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065395060666208640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cOuOat/status/…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/cOuOat/status/2064991916568293519",
+              "start": 21,
+              "url": "https://t.co/Xo77IkqC0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065395060666208640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064991916568293519",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个主要是有很强的权力意味，征服与被征服 https://t.co/Xo77IkqC0n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792074049989832704",
+        "conversation_id": "2064991916568293519",
+        "created_at": "2026-06-11T08:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064991916568293519"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064991916568293519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 364043,
+          "like_count": 1388,
+          "quote_count": 10,
+          "reply_count": 519,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "人类为什么要互吃生殖器"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 450,
+          "like_count": 4540,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 780
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T06:05:49.000Z",
+        "description": "别在意我;)\n@yu_nov30",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "yu_nov30"
+              }
+            ]
+          }
+        },
+        "id": "1792074049989832704",
+        "name": "Rye",
+        "pinned_tweet_id": "2065340541584437430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914748767552798720/8deo9RPS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 33,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 799
+        },
+        "username": "cOuOat",
+        "verified": false
+      }
+    ]
+  }
+}

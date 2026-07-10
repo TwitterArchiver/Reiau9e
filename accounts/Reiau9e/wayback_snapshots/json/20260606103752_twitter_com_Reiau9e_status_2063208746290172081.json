@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2063149836476768528",
+    "created_at": "2026-06-06T10:37:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:37:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063208746290172081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1731197831661121536",
+          "start": 0,
+          "username": "Jequirity_Dou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063208746290172081",
+    "in_reply_to_user_id": "1731197831661121536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063190550514106672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jequirity_Dou 感恩！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2063149836476768528",
+        "created_at": "2026-06-06T10:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063208746290172081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1731197831661121536",
+              "start": 0,
+              "username": "Jequirity_Dou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063208746290172081",
+        "in_reply_to_user_id": "1731197831661121536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063190550514106672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jequirity_Dou 感恩！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731197831661121536",
+        "conversation_id": "2063149836476768528",
+        "created_at": "2026-06-06T09:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063190550514106672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063190550514106672",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063149836476768528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 尼玛帅飞了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 334,
+          "like_count": 2508,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 357
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-03T06:25:09.000Z",
+        "description": "紫气东来 \n留言👉🏻\n🔗https://t.co/a13vNSQWPP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jequirity",
+                "end": 35,
+                "expanded_url": "https://ngl.link/jequirity",
+                "start": 12,
+                "url": "https://t.co/a13vNSQWPP"
+              }
+            ]
+          }
+        },
+        "id": "1731197831661121536",
+        "location": "半人马星系",
+        "name": "Jequirity",
+        "pinned_tweet_id": "2004540946088898960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991098281011949568/HV0Ph6EY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 28,
+          "like_count": 2638,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 1151
+        },
+        "username": "Jequirity_Dou",
+        "verified": false
+      }
+    ]
+  }
+}

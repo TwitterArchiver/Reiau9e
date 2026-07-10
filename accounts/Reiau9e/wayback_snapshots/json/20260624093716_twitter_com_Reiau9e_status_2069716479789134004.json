@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2069479722619408854",
+    "created_at": "2026-06-24T09:37:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T10:37:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069716479789134004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1858703297403908097",
+          "start": 0,
+          "username": "Ecco2k07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069716479789134004",
+    "in_reply_to_user_id": "1858703297403908097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069479722619408854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ecco2k07 人是很难脱离出自己的结构去叙事的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2069479722619408854",
+        "created_at": "2026-06-24T09:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069716479789134004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1858703297403908097",
+              "start": 0,
+              "username": "Ecco2k07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069716479789134004",
+        "in_reply_to_user_id": "1858703297403908097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069479722619408854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ecco2k07 人是很难脱离出自己的结构去叙事的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858703297403908097",
+        "conversation_id": "2069479722619408854",
+        "created_at": "2026-06-23T17:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T18:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069479722619408854"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069479722619408854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 238,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不是男权也不是女权，我靠，我之前想过这个事，因为我是女人，在对方说出男人有多不易的时候我的脑袋里第一反应会是我作为女人有更多难处，但是我会有这种比较的想法就是错的，人一定要有自己的底线和原则啊，说到底我还是讨厌那种很随便和脑袋空空的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 605,
+          "like_count": 6008,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1135
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T02:46:23.000Z",
+        "description": "你这人满脑子都想着自己呢",
+        "id": "1858703297403908097",
+        "name": "Ecco2k",
+        "pinned_tweet_id": "2044976479872692279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954822094031814656/CntVsfng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4557,
+          "following_count": 6,
+          "like_count": 1452,
+          "listed_count": 17,
+          "media_count": 178,
+          "tweet_count": 1405
+        },
+        "url": "",
+        "username": "Ecco2k07",
+        "verified": false
+      }
+    ]
+  }
+}

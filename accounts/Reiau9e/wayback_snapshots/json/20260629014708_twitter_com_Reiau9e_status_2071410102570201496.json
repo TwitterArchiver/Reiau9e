@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2071235965411320031",
+    "created_at": "2026-06-29T01:47:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T02:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071410102570201496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2069898963784736768",
+          "start": 0,
+          "username": "Loveyuuni9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071410102570201496",
+    "in_reply_to_user_id": "2069898963784736768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071396077367185734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Loveyuuni9 你也好萌！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2071235965411320031",
+        "created_at": "2026-06-29T01:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T02:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071410102570201496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2069898963784736768",
+              "start": 0,
+              "username": "Loveyuuni9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071410102570201496",
+        "in_reply_to_user_id": "2069898963784736768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071396077367185734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Loveyuuni9 你也好萌！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069898963784736768",
+        "conversation_id": "2071235965411320031",
+        "created_at": "2026-06-29T00:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T01:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071396077367185734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071396077367185734",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071235965411320031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 好萌吧😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 685,
+          "like_count": 6701,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1325
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-24T21:43:31.000Z",
+        "description": "ed g妹/overdose/lgbt全认可/互fo嗯",
+        "id": "2069898963784736768",
+        "name": "Loveyuu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070366175087751168/Uqgb-dwJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 9,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "Loveyuuni9",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2064577635515326766",
+    "created_at": "2026-06-10T05:27:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T06:27:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064580179033571776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2027675213589319683",
+          "start": 0,
+          "username": "Amatsukih16k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064580179033571776",
+    "in_reply_to_user_id": "2027675213589319683",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064579862682329396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amatsukih16k 太惨了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2064577635515326766",
+        "created_at": "2026-06-10T05:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064580179033571776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2027675213589319683",
+              "start": 0,
+              "username": "Amatsukih16k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064580179033571776",
+        "in_reply_to_user_id": "2027675213589319683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064579862682329396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amatsukih16k 太惨了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027675213589319683",
+        "conversation_id": "2064577635515326766",
+        "created_at": "2026-06-10T05:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064579862682329396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064579862682329396",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064579035846361394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 对呀对呀，我服了。最绝望的一集"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 402,
+          "like_count": 3891,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 658
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-28T09:24:32.000Z",
+        "description": "日本語勉強中\n随便發點什么\n头像是自设OC",
+        "id": "2027675213589319683",
+        "name": "Amatsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062986031146897408/tsGYE1F5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 81,
+          "like_count": 735,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 88
+        },
+        "username": "Amatsukih16k",
+        "verified": false
+      }
+    ]
+  }
+}

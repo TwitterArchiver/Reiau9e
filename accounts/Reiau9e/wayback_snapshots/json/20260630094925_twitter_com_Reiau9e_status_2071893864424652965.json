@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2071775003377561664",
+    "created_at": "2026-06-30T09:49:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T10:49:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071893864424652965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2055995252771860480",
+          "start": 0,
+          "username": "qxq5ho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071893864424652965",
+    "in_reply_to_user_id": "2055995252771860480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071781892773331028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qxq5ho 草这个纯色系不难啊嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2071775003377561664",
+        "created_at": "2026-06-30T09:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071893864424652965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2055995252771860480",
+              "start": 0,
+              "username": "qxq5ho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071893864424652965",
+        "in_reply_to_user_id": "2055995252771860480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071781892773331028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qxq5ho 草这个纯色系不难啊嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055995252771860480",
+        "conversation_id": "2071775003377561664",
+        "created_at": "2026-06-30T02:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T03:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071781892773331028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071781892773331028",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071775003377561664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 请把这种审美安我脑子里，谢谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 694,
+          "like_count": 6927,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1373
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T12:54:55.000Z",
+        "description": "在校高中生，希望能交点朋友，来找我吧球球了😭下方链接问我问题，都会回的⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%BA%A2%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%BA%A2%E5%8F%B6",
+                "start": 0,
+                "url": "https://t.co/7BHkcxrOoI"
+              }
+            ]
+          }
+        },
+        "id": "2055995252771860480",
+        "location": "中国广东深圳",
+        "name": "🍁红叶",
+        "pinned_tweet_id": "2071601514846851251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070533488508391424/xUQHTPQp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 197,
+          "like_count": 2512,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 221
+        },
+        "url": "https://t.co/7BHkcxrOoI",
+        "username": "qxq5ho",
+        "verified": false
+      }
+    ]
+  }
+}

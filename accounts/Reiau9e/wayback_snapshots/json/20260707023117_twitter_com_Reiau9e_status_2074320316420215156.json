@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2074297112880390544",
+    "created_at": "2026-07-07T02:31:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T03:31:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074320316420215156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1939159358027505664",
+          "start": 0,
+          "username": "kongkong_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074320316420215156",
+    "in_reply_to_user_id": "1939159358027505664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074317660226289824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kongkong_QAQ 哎呀太会说话了！😽😽😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2074297112880390544",
+        "created_at": "2026-07-07T02:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074320316420215156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1939159358027505664",
+              "start": 0,
+              "username": "kongkong_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074320316420215156",
+        "in_reply_to_user_id": "1939159358027505664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074317660226289824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kongkong_QAQ 哎呀太会说话了！😽😽😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939159358027505664",
+        "conversation_id": "2074297112880390544",
+        "created_at": "2026-07-07T02:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074317660226289824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074317660226289824",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074297112880390544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 连指甲颜色也精心搭配吗..神之穿搭力（膜拜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 727,
+          "like_count": 7496,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 47
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T03:10:07.000Z",
+        "description": "空空喵…(´-ω-`)请不要注意到角落的空空！\n无🚪｜不加任何联系方式｜不聊骚不约不线下｜不出原味不接广不入会｜投喂仅是投喂，备注id空空会记住你，48h内可退｜评论私信随缘回喵",
+        "id": "1939159358027505664",
+        "name": "姓名不能为空",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054152918765633536/Dfj0TWzH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6376,
+          "following_count": 8,
+          "like_count": 312,
+          "listed_count": 40,
+          "media_count": 94,
+          "tweet_count": 746
+        },
+        "url": "",
+        "username": "kongkong_QAQ",
+        "verified": false
+      }
+    ]
+  }
+}

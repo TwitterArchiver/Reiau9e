@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2065047110740050000",
+    "created_at": "2026-06-11T12:36:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:36:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065050518297452867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1948883734062923778",
+          "start": 0,
+          "username": "msro_ovo1119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065050518297452867",
+    "in_reply_to_user_id": "1948883734062923778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065047110740050000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@msro_ovo1119 啊啊大人没事吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1703,
+        "media_key": "3_2065047083065946112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiFYYaaMAAx8ww.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2065047110740050000",
+        "created_at": "2026-06-11T12:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065050518297452867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948883734062923778",
+              "start": 0,
+              "username": "msro_ovo1119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065050518297452867",
+        "in_reply_to_user_id": "1948883734062923778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065047110740050000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@msro_ovo1119 啊啊大人没事吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065047083065946112"
+          ]
+        },
+        "author_id": "1948883734062923778",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2065047110740050000",
+        "created_at": "2026-06-11T12:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065047110740050000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7FFDTkFuTO",
+              "end": 23,
+              "expanded_url": "https://x.com/msro_ovo1119/status/2065047110740050000/photo/1",
+              "media_key": "3_2065047083065946112",
+              "start": 0,
+              "url": "https://t.co/7FFDTkFuTO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065047110740050000",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7FFDTkFuTO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 446,
+          "like_count": 4420,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 739
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T23:11:19.000Z",
+        "description": "좋아하다？",
+        "id": "1948883734062923778",
+        "location": "Hong Kong",
+        "name": "nsrm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058090504026562560/GU23yzLc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 28,
+          "like_count": 2017,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 977
+        },
+        "username": "msro_ovo1119",
+        "verified": false
+      }
+    ]
+  }
+}

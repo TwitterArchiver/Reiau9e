@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Herbs and spices",
+          "id": "1032695810033471488",
+          "name": "Herbs and spices"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Herbs and spices",
+          "id": "1032695810033471488",
+          "name": "Herbs and spices"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Herbs and spices",
+          "id": "1032695810033471488",
+          "name": "Herbs and spices"
+        }
+      }
+    ],
+    "conversation_id": "2056253219190485230",
+    "created_at": "2026-05-18T06:22:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T07:22:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056259049369612378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1656178766954242048",
+          "start": 0,
+          "username": "koruki_syoujo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056259049369612378",
+    "in_reply_to_user_id": "1656178766954242048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056254342857150579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@koruki_syoujo スパイスの匂いがすごく強い😫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Herbs and spices",
+              "id": "1032695810033471488",
+              "name": "Herbs and spices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Herbs and spices",
+              "id": "1032695810033471488",
+              "name": "Herbs and spices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Herbs and spices",
+              "id": "1032695810033471488",
+              "name": "Herbs and spices"
+            }
+          }
+        ],
+        "conversation_id": "2056253219190485230",
+        "created_at": "2026-05-18T06:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T07:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056259049369612378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1656178766954242048",
+              "start": 0,
+              "username": "koruki_syoujo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056259049369612378",
+        "in_reply_to_user_id": "1656178766954242048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056254342857150579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@koruki_syoujo スパイスの匂いがすごく強い😫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656178766954242048",
+        "conversation_id": "2056253219190485230",
+        "created_at": "2026-05-18T06:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T07:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056254342857150579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056254342857150579",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056253219190485230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e わかる、なんか絶妙なラインの味だった……😔🌀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "男",
+        "id": "2055263152238198784",
+        "name": "れい",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055315349785210880/uGKKgWct_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 8,
+          "like_count": 299,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 9
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-10T06:06:12.000Z",
+        "description": "薬物依存症・酒クズニート・ストゼロしか勝たん💖👊🥺・予定蹴ります・たまに消えます・閉鎖、解放入院あり・緊急搬送４回程・メジコン愛してる・ブロン、レタス・ウット・ od・３ヶ月くらいいなかったら入院してます・リスカ、アムカ、レグカしてます・逆流性食道炎・統合失調症・境界性パーソナリティ障害・感情失禁",
+        "id": "1656178766954242048",
+        "name": "こるきちゃん",
+        "pinned_tweet_id": "1841809438820483317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051585425018703872/FZ4dx-Ky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 268,
+          "like_count": 27576,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 3183
+        },
+        "username": "koruki_syoujo",
+        "verified": false
+      }
+    ]
+  }
+}

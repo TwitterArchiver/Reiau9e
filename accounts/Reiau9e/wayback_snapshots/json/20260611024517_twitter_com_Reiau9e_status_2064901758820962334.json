@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2064696601344721148",
+    "created_at": "2026-06-11T02:45:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T03:45:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064901758820962334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2003809202666688513",
+          "start": 0,
+          "username": "labrat_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064901758820962334",
+    "in_reply_to_user_id": "2003809202666688513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064714007236456948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@labrat_404 这个野狗确实回归到大街上乱甩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2064696601344721148",
+        "created_at": "2026-06-11T02:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T03:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064901758820962334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2003809202666688513",
+              "start": 0,
+              "username": "labrat_404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064901758820962334",
+        "in_reply_to_user_id": "2003809202666688513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064714007236456948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@labrat_404 这个野狗确实回归到大街上乱甩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003809202666688513",
+        "conversation_id": "2064696601344721148",
+        "created_at": "2026-06-10T14:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064714007236456948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064714007236456948",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064696601344721148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 三角内裤秀秀武器"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 441,
+          "like_count": 4296,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 703
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-24T12:45:32.000Z",
+        "description": "dark identity养成日记 人类观察者 切断一切外界灌输及规训 只相信自己的直觉和欲望",
+        "id": "2003809202666688513",
+        "name": "rat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008648723296120833/1gNR4xsA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 43,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 138
+        },
+        "username": "labrat_404",
+        "verified": false
+      }
+    ]
+  }
+}

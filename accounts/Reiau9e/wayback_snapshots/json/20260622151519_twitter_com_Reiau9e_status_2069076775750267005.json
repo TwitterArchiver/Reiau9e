@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2069019400167166087",
+    "created_at": "2026-06-22T15:15:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T16:15:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069076775750267005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1620292752583032836",
+          "start": 0,
+          "username": "seril4ever_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069076775750267005",
+    "in_reply_to_user_id": "1620292752583032836",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069019400167166087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seril4ever_ 萌啊！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3130,
+        "height": 1280,
+        "media_key": "13_2069019332798222336",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069019332798222336/img/WP9CkPn-3AiJW0hO.jpg",
+        "public_metrics": {
+          "view_count": 166
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069019332798222336/vid/avc1/320x568/6SpJHFnIZ8ANs5yX.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069019332798222336/vid/avc1/480x852/Yq6Fwm_DDgzdq4p9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069019332798222336/vid/avc1/720x1280/pQkVqr2dDLnsd36s.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069019332798222336/pl/NFNVFDEtc97OLuVp.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2069019400167166087",
+        "created_at": "2026-06-22T15:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069076775750267005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1620292752583032836",
+              "start": 0,
+              "username": "seril4ever_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069076775750267005",
+        "in_reply_to_user_id": "1620292752583032836",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069019400167166087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seril4ever_ 萌啊！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069019332798222336"
+          ]
+        },
+        "author_id": "1620292752583032836",
+        "conversation_id": "2069019400167166087",
+        "created_at": "2026-06-22T11:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069019400167166087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/orEJB6gE76",
+              "end": 35,
+              "expanded_url": "https://x.com/seril4ever_/status/2069019400167166087/video/1",
+              "media_key": "13_2069019332798222336",
+              "start": 12,
+              "url": "https://t.co/orEJB6gE76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069019400167166087",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 893,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ka'ω'ayiiii https://t.co/orEJB6gE76"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 592,
+          "like_count": 5763,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1068
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T05:28:08.000Z",
+        "description": "相信要相信 幸福它终将会越靠越近\n\n★˖˚特别的人..@Ywan_ahy ☆₊⁺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "Ywan_ahy"
+              }
+            ]
+          }
+        },
+        "id": "1620292752583032836",
+        "location": "in your heart",
+        "name": "kimono萌",
+        "pinned_tweet_id": "2063809328654795106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037405150055477248/uEzTdB2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 832,
+          "like_count": 14352,
+          "listed_count": 5,
+          "media_count": 249,
+          "tweet_count": 4008
+        },
+        "url": "",
+        "username": "seril4ever_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2063076836402455002",
+    "created_at": "2026-06-06T05:07:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T06:07:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063125500512682249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1615639552227704832",
+          "start": 0,
+          "username": "snsnokyoufu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063125500512682249",
+    "in_reply_to_user_id": "1615639552227704832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063076836402455002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@snsnokyoufu 像某种胎记，还挺酷的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 913,
+        "media_key": "3_2063076832254238720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKGFcsLaIAAFWLh.jpg",
+        "width": 1211
+      },
+      {
+        "height": 903,
+        "media_key": "3_2063076832266887168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKGFcsObIAAGUHL.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2063076836402455002",
+        "created_at": "2026-06-06T05:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T06:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063125500512682249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1615639552227704832",
+              "start": 0,
+              "username": "snsnokyoufu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063125500512682249",
+        "in_reply_to_user_id": "1615639552227704832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063076836402455002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snsnokyoufu 像某种胎记，还挺酷的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063076832254238720",
+            "3_2063076832266887168"
+          ]
+        },
+        "author_id": "1615639552227704832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063076836402455002",
+        "created_at": "2026-06-06T01:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T02:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063076836402455002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3G2CGJ4XuM",
+              "end": 58,
+              "expanded_url": "https://x.com/snsnokyoufu/status/2063076836402455002/photo/1",
+              "media_key": "3_2063076832254238720",
+              "start": 35,
+              "url": "https://t.co/3G2CGJ4XuM"
+            },
+            {
+              "display_url": "pic.x.com/3G2CGJ4XuM",
+              "end": 58,
+              "expanded_url": "https://x.com/snsnokyoufu/status/2063076836402455002/photo/1",
+              "media_key": "3_2063076832266887168",
+              "start": 35,
+              "url": "https://t.co/3G2CGJ4XuM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063076836402455002",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 32208,
+          "like_count": 1043,
+          "quote_count": 9,
+          "reply_count": 35,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "北海道の形って凄いよな\n\nこれ沖縄の形だったら絶対売れないと思うもん https://t.co/3G2CGJ4XuM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 326,
+          "like_count": 2444,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 338
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-18T09:17:51.000Z",
+        "description": "話題のツイートを投稿してます。提供はDMこちら✉️",
+        "id": "1615639552227704832",
+        "name": "面白ツイート図鑑",
+        "pinned_tweet_id": "2035691887722729560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993541758006050816/p4wOGIhp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100235,
+          "following_count": 2385,
+          "like_count": 26255,
+          "listed_count": 144,
+          "media_count": 6620,
+          "tweet_count": 40364
+        },
+        "username": "snsnokyoufu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2064214129133691297",
+    "created_at": "2026-06-09T05:57:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T06:57:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064225363170140579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1941854666280808449",
+          "start": 0,
+          "username": "ChaseKing7w7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064225363170140579",
+    "in_reply_to_user_id": "1941854666280808449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064224839368630550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChaseKing7w7 不要太过激就好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2064214129133691297",
+        "created_at": "2026-06-09T05:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064225363170140579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1941854666280808449",
+              "start": 0,
+              "username": "ChaseKing7w7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064225363170140579",
+        "in_reply_to_user_id": "1941854666280808449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064224839368630550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChaseKing7w7 不要太过激就好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941854666280808449",
+        "conversation_id": "2064214129133691297",
+        "created_at": "2026-06-09T05:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064224839368630550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064224839368630550",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064214129133691297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 不过现在很多人就是这样。。但是14我个人感觉也太小了至少16会正常一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 382,
+          "like_count": 3444,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 598
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-06T13:40:18.000Z",
+        "description": "想发什么发什么 并非正经人但是不聊骚",
+        "id": "1941854666280808449",
+        "location": "Belgium",
+        "name": "Chase",
+        "pinned_tweet_id": "2050395368836497518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063610051013783552/sv2VcyAu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 54,
+          "like_count": 2488,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 956
+        },
+        "username": "ChaseKing7w7",
+        "verified": false
+      }
+    ]
+  }
+}

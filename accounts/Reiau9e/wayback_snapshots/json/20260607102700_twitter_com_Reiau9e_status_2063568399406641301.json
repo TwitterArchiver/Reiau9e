@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2063568399406641301",
+    "created_at": "2026-06-07T10:27:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T11:27:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063568399406641301"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zm8957989/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/zm8957989/status/2063461785391304722",
+          "start": 6,
+          "url": "https://t.co/QL6sVrodvH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063568399406641301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063461785391304722",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎哎我本人 https://t.co/QL6sVrodvH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2063568399406641301",
+        "created_at": "2026-06-07T10:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063568399406641301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zm8957989/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/zm8957989/status/2063461785391304722",
+              "start": 6,
+              "url": "https://t.co/QL6sVrodvH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063568399406641301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063461785391304722",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎哎我本人 https://t.co/QL6sVrodvH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985741282195668992",
+        "conversation_id": "2063461785391304722",
+        "created_at": "2026-06-07T03:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063461785391304722"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063461785391304722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3524,
+          "like_count": 53,
+          "quote_count": 2,
+          "reply_count": 42,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "网友啊 总是想要一个非常猎奇 糖分超标 闷骚常在线 玩梗 淫商极高 还喜欢装忧郁装高冷的朋友 如果是我的话 都可以做到哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 371,
+          "like_count": 2988,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 492
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-04T16:10:44.000Z",
+        "description": "你低头欲说还休 我等你开口",
+        "id": "1985741282195668992",
+        "location": "ᴛ ω ᴛ",
+        "name": "真理",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063514239420022784/ItD2NtfD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1591,
+          "following_count": 3,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 97
+        },
+        "username": "zm8957989",
+        "verified": false
+      }
+    ]
+  }
+}

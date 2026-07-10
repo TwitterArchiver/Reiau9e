@@ -1,0 +1,118 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2055314853296996364",
+    "created_at": "2026-05-15T15:50:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T16:50:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055314853296996364"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "依存先募集"
+        },
+        {
+          "end": 20,
+          "start": 8,
+          "tag": "病み垢さんと繋がりたい"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055314853296996364",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#依存先募集  #病み垢さんと繋がりたい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2055314853296996364",
+        "created_at": "2026-05-15T15:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055314853296996364"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "依存先募集"
+            },
+            {
+              "end": 20,
+              "start": 8,
+              "tag": "病み垢さんと繋がりたい"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055314853296996364",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#依存先募集  #病み垢さんと繋がりたい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "",
+        "id": "2055263152238198784",
+        "name": "Rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055263390164189184/nTGhf_fr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 3,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "Reiau9e",
+        "verified": false
+      }
+    ]
+  }
+}

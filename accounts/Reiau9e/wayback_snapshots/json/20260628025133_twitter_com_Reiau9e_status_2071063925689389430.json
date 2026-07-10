@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2070881250953633935",
+    "created_at": "2026-06-28T02:51:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T03:51:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071063925689389430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1842783172389445632",
+          "start": 0,
+          "username": "qiqidark139"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071063925689389430",
+    "in_reply_to_user_id": "1842783172389445632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070927358329037241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiqidark139 好会夸！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2070881250953633935",
+        "created_at": "2026-06-28T02:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T03:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071063925689389430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1842783172389445632",
+              "start": 0,
+              "username": "qiqidark139"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071063925689389430",
+        "in_reply_to_user_id": "1842783172389445632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070927358329037241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiqidark139 好会夸！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842783172389445632",
+        "conversation_id": "2070881250953633935",
+        "created_at": "2026-06-27T17:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T18:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070927358329037241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070927358329037241",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070881250953633935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 看起来很好画"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 674,
+          "like_count": 6511,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 1268
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-06T04:25:38.000Z",
+        "description": "我不是健全的，每个人都有自己的病，我也有，你也是，我想要知道更多，告诉我更多，我愿意去安慰你，去尝试爱你，代价是告诉我更多更多……",
+        "id": "1842783172389445632",
+        "location": "no",
+        "name": "假了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970773597661843456/RbMzbFfU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 57,
+          "like_count": 16092,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1174
+        },
+        "url": "",
+        "username": "qiqidark139",
+        "verified": false
+      }
+    ]
+  }
+}

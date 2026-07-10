@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2063484868852600904",
+    "created_at": "2026-06-07T04:55:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T05:55:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063484868852600904"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TReverie/statu…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/TReverie/status/2063271442297565652",
+          "start": 41,
+          "url": "https://t.co/r34DCr1pWU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063484868852600904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063271442297565652",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说起来我历史老师就是因为当时闹学运被流放下来的，教我们土味辩证法估计也是内心复杂 https://t.co/r34DCr1pWU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 365,
+        "media_key": "3_2063106334959267841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKGgR-Ua8AEGqok.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2063484868852600904",
+        "created_at": "2026-06-07T04:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063484868852600904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TReverie/statu…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/TReverie/status/2063271442297565652",
+              "start": 41,
+              "url": "https://t.co/r34DCr1pWU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063484868852600904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063271442297565652",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说起来我历史老师就是因为当时闹学运被流放下来的，教我们土味辩证法估计也是内心复杂 https://t.co/r34DCr1pWU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063106334959267841"
+          ]
+        },
+        "author_id": "1975500696427581440",
+        "conversation_id": "2063271442297565652",
+        "created_at": "2026-06-06T14:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063271442297565652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RVuDCXwzgY",
+              "end": 48,
+              "expanded_url": "https://x.com/TReverie/status/2063271442297565652/photo/1",
+              "media_key": "3_2063106334959267841",
+              "start": 25,
+              "url": "https://t.co/RVuDCXwzgY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063271442297565652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 141317,
+          "like_count": 1020,
+          "quote_count": 4,
+          "reply_count": 96,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "中共国还是有善良的高中老师的，尽管少的可怜... https://t.co/RVuDCXwzgY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 354,
+          "like_count": 2722,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 452
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T09:57:40.000Z",
+        "description": "Taiwan is an independent country",
+        "id": "1975500696427581440",
+        "location": "China",
+        "name": "Tiny Reverie🇺🇸✝️",
+        "pinned_tweet_id": "2048649828381626554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058842339347759104/3B_gYklj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11541,
+          "following_count": 1807,
+          "like_count": 23809,
+          "listed_count": 91,
+          "media_count": 1792,
+          "tweet_count": 5325
+        },
+        "username": "TReverie",
+        "verified": true
+      }
+    ]
+  }
+}

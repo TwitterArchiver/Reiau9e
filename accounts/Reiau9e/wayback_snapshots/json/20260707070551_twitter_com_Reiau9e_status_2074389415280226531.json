@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2074386363898789977",
+    "created_at": "2026-07-07T07:05:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T08:05:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074389415280226531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1969329333064863745",
+          "start": 0,
+          "username": "CepeHa1128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074389415280226531",
+    "in_reply_to_user_id": "1969329333064863745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074386363898789977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CepeHa1128 网络一线牵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2074386363898789977",
+        "created_at": "2026-07-07T07:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074389415280226531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1969329333064863745",
+              "start": 0,
+              "username": "CepeHa1128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074389415280226531",
+        "in_reply_to_user_id": "1969329333064863745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074386363898789977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CepeHa1128 网络一线牵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969329333064863745",
+        "conversation_id": "2074386363898789977",
+        "created_at": "2026-07-07T06:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T07:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074386363898789977"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074386363898789977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很讨厌陌生人一直在关注我的动态知道我抖音之类的，隐私和边界都在被侵犯，恶心想吐，而且我是结束任何关系都全平台取关的类型，唉真的离我远一点，快滚，我连这个王者好友我都要删掉的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 733,
+          "like_count": 7542,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 59
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-20T09:14:43.000Z",
+        "description": "喜欢调教天使",
+        "id": "1969329333064863745",
+        "name": "恶魔用户 ↝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073118034554945536/zUNopV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 12,
+          "like_count": 16061,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 1054
+        },
+        "url": "",
+        "username": "CepeHa1128",
+        "verified": false
+      }
+    ]
+  }
+}

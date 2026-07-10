@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2070881250953633935",
+    "created_at": "2026-06-27T15:03:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T16:03:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070885859990384862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1992427109923647488",
+          "start": 0,
+          "username": "lucky_fischl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070885859990384862",
+    "in_reply_to_user_id": "1992427109923647488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070881957735804982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lucky_fischl 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2070881250953633935",
+        "created_at": "2026-06-27T15:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070885859990384862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1992427109923647488",
+              "start": 0,
+              "username": "lucky_fischl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070885859990384862",
+        "in_reply_to_user_id": "1992427109923647488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070881957735804982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lucky_fischl 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992427109923647488",
+        "conversation_id": "2070881250953633935",
+        "created_at": "2026-06-27T14:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T15:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070881957735804982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070881957735804982",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070881250953633935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 美しい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 675,
+          "like_count": 6513,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1257
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T02:57:06.000Z",
+        "description": "💓₊°༺I love cats🎀artist💞ꑭ🎀༻ ‿̩͙‿♰⚠️\n💕🍥˖⁺‧₊˚ the final boss of LARPʚଓ ྀིྀ🤡🎀\n ✿🟨/⬛️ʚɞ\n🇹🇼🇭🇰🇰🇷🇸🇬🇯🇵🇰🇵🇨🇳\n自分: @ClownFischl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 102,
+                "username": "ClownFischl"
+              }
+            ]
+          }
+        },
+        "id": "1992427109923647488",
+        "location": "🎀うwう王国💓",
+        "name": "🎀👾🧬🍥౨ৎ 어둠의 고양이⛧🍥🧬💊💓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068683808543744000/O-eLBgI__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4269,
+          "following_count": 818,
+          "like_count": 18697,
+          "listed_count": 21,
+          "media_count": 97,
+          "tweet_count": 2045
+        },
+        "url": "",
+        "username": "lucky_fischl",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2069719446814695799",
+    "created_at": "2026-06-24T12:16:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T13:16:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069756514437562665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2065723604504113152",
+          "start": 0,
+          "username": "nishizhu6366"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069756514437562665",
+    "in_reply_to_user_id": "2065723604504113152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069730361257705941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nishizhu6366 还真没啥办法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2069719446814695799",
+        "created_at": "2026-06-24T12:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T13:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069756514437562665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2065723604504113152",
+              "start": 0,
+              "username": "nishizhu6366"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069756514437562665",
+        "in_reply_to_user_id": "2065723604504113152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069730361257705941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nishizhu6366 还真没啥办法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065723604504113152",
+        "conversation_id": "2069719446814695799",
+        "created_at": "2026-06-24T10:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T11:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069730361257705941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069730361257705941",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069719446814695799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 嗯我真的有一个朋友是这样的自己看就算了还天天转发过来给我散播焦虑我草莓招了啊 主要她精神状态也不是特别好我怕我不理她待会她似了我有助攻怎么办😿然后聊着就给我自己绕进去了把我自己心态也搞的崩崩的😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 611,
+          "like_count": 6046,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1147
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-13T09:12:54.000Z",
+        "description": "小猫离人类越来越远了",
+        "id": "2065723604504113152",
+        "name": "窝似人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067961464162504704/AKUkVQh6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 23,
+          "like_count": 321,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 150
+        },
+        "url": "",
+        "username": "nishizhu6366",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2062172872307810651",
+    "created_at": "2026-06-03T14:25:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T15:25:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062178809039015964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1896950944312832000",
+          "start": 0,
+          "username": "Meowbandage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062178809039015964",
+    "in_reply_to_user_id": "1896950944312832000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062172872307810651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meowbandage 米米米"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1180,
+        "media_key": "3_2062172852275884032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5PSIVbsAAuCDg.jpg",
+        "width": 1180
+      },
+      {
+        "height": 1180,
+        "media_key": "3_2062172852313575424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5PSIea0AA_aHA.jpg",
+        "width": 1572
+      },
+      {
+        "height": 1572,
+        "media_key": "3_2062172852275884034",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5PSIVbsAIgCvk.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2062172872307810651",
+        "created_at": "2026-06-03T14:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062178809039015964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1896950944312832000",
+              "start": 0,
+              "username": "Meowbandage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062178809039015964",
+        "in_reply_to_user_id": "1896950944312832000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062172872307810651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meowbandage 米米米"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062172852275884032",
+            "3_2062172852313575424",
+            "3_2062172852275884034"
+          ]
+        },
+        "author_id": "1896950944312832000",
+        "conversation_id": "2062172872307810651",
+        "created_at": "2026-06-03T14:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062172872307810651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/034YAIrm8P",
+              "end": 46,
+              "expanded_url": "https://x.com/Meowbandage/status/2062172872307810651/photo/1",
+              "media_key": "3_2062172852275884032",
+              "start": 23,
+              "url": "https://t.co/034YAIrm8P"
+            },
+            {
+              "display_url": "pic.x.com/034YAIrm8P",
+              "end": 46,
+              "expanded_url": "https://x.com/Meowbandage/status/2062172872307810651/photo/1",
+              "media_key": "3_2062172852313575424",
+              "start": 23,
+              "url": "https://t.co/034YAIrm8P"
+            },
+            {
+              "display_url": "pic.x.com/034YAIrm8P",
+              "end": 46,
+              "expanded_url": "https://x.com/Meowbandage/status/2062172872307810651/photo/1",
+              "media_key": "3_2062172852275884034",
+              "start": 23,
+              "url": "https://t.co/034YAIrm8P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062172872307810651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最不适合自己的妆容🌚🌝。我靠我再也不开眼角了 https://t.co/034YAIrm8P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 277,
+          "like_count": 1523,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 211
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T15:48:52.000Z",
+        "description": "一颗心两面受伤",
+        "id": "1896950944312832000",
+        "name": "snow",
+        "pinned_tweet_id": "2052420793896976564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062145119906881536/N89UH4nE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 255,
+          "like_count": 3971,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 730
+        },
+        "username": "Meowbandage",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2062499385913799147",
+    "created_at": "2026-06-04T13:03:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T14:03:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062520738998063469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1980229679538950144",
+          "start": 0,
+          "username": "sammy52_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062520738998063469",
+    "in_reply_to_user_id": "1980229679538950144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062511071106375709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sammy52_0 姐妹也萌！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2062499385913799147",
+        "created_at": "2026-06-04T13:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062520738998063469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1980229679538950144",
+              "start": 0,
+              "username": "sammy52_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062520738998063469",
+        "in_reply_to_user_id": "1980229679538950144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062511071106375709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sammy52_0 姐妹也萌！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980229679538950144",
+        "conversation_id": "2062499385913799147",
+        "created_at": "2026-06-04T12:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062511071106375709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062511071106375709",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062499385913799147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 你咋这么萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 296,
+          "like_count": 1907,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 254
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T11:08:51.000Z",
+        "description": "只回关同类，sh/ed/bd，精神状态不稳定\n@yi_smokq 求关注求过门我宝宝!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "yi_smokq"
+              }
+            ]
+          }
+        },
+        "id": "1980229679538950144",
+        "location": "🚪88/188/520/1314",
+        "name": "4.0诊疗室(四代目",
+        "pinned_tweet_id": "2045149618988839098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062447666328670208/Krse9hml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 67,
+          "like_count": 200,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 130
+        },
+        "username": "sammy52_0",
+        "verified": false
+      }
+    ]
+  }
+}

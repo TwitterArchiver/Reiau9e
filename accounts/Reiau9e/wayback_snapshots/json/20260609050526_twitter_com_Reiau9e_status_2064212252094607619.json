@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2064212252094607619",
+    "created_at": "2026-06-09T05:05:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T06:05:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064212252094607619"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/neouma7/status…",
+          "end": 129,
+          "expanded_url": "https://twitter.com/neouma7/status/2064090104734654492",
+          "start": 106,
+          "url": "https://t.co/xbKIwCXRTm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064212252094607619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064090104734654492",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "突然想到日本的这个助学金是挺司马的，要那种给付型和无息贷款的这个，给付型就是不用你还，这个贷款就是给你多少就要还多少，也是这个不少带学生需要出去卖淫的主要原因，还没开始工作身上就有一两百万的贷款，只能说牛批啊嗯 https://t.co/xbKIwCXRTm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2064212252094607619",
+        "created_at": "2026-06-09T05:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064212252094607619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/neouma7/status…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/neouma7/status/2064090104734654492",
+              "start": 106,
+              "url": "https://t.co/xbKIwCXRTm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064212252094607619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064090104734654492",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "突然想到日本的这个助学金是挺司马的，要那种给付型和无息贷款的这个，给付型就是不用你还，这个贷款就是给你多少就要还多少，也是这个不少带学生需要出去卖淫的主要原因，还没开始工作身上就有一两百万的贷款，只能说牛批啊嗯 https://t.co/xbKIwCXRTm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "785314165455884292",
+        "conversation_id": "2064090104734654492",
+        "created_at": "2026-06-08T21:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T22:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064090104734654492"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064090104734654492",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 164,
+          "impression_count": 2723266,
+          "like_count": 1207,
+          "quote_count": 20,
+          "reply_count": 209,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "友人が、奨学金を返していない。\n\n400万円。\n「踏み倒すつもり」と笑ってた。\n\n僕は正直、軽蔑した。\n\"借りたものは返せよ\"と思った。\n\nでも先月、再会した彼の『→"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 381,
+          "like_count": 3431,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 589
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-10T03:01:02.000Z",
+        "description": "X収益 月56万／AI×note 月60万📈｜副業10年・成果ゼロから逆転した元ノウハウコレクター｜挫折組のための\"再現できる発信術\"をお届け✍️｜副業全滅組、ここから一緒に｜無料の招待状は固定↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/neouma7/n/n498…",
+                "end": 23,
+                "expanded_url": "https://note.com/neouma7/n/n498e3259a36c?sub_rt=share_sb",
+                "start": 0,
+                "url": "https://t.co/WnUQEUMdNr"
+              }
+            ]
+          }
+        },
+        "id": "785314165455884292",
+        "location": "noteが売れない原因、30秒で分かります↓",
+        "name": "ネオ@ディーププロンプト",
+        "pinned_tweet_id": "2024781997407645940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903747537158443008/Bc7C-aa2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7623,
+          "following_count": 217,
+          "like_count": 19951,
+          "listed_count": 24,
+          "media_count": 499,
+          "tweet_count": 23673
+        },
+        "url": "https://t.co/WnUQEUMdNr",
+        "username": "neouma7",
+        "verified": true
+      }
+    ]
+  }
+}

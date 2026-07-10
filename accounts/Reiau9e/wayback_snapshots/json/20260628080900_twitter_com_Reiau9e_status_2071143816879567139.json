@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2071134491394068595",
+    "created_at": "2026-06-28T08:09:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T09:09:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071143816879567139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1291409896466862082",
+          "start": 0,
+          "username": "Domik114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071143816879567139",
+    "in_reply_to_user_id": "1291409896466862082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071136028535242944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Domik114514 应该不能吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2071134491394068595",
+        "created_at": "2026-06-28T08:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071143816879567139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1291409896466862082",
+              "start": 0,
+              "username": "Domik114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071143816879567139",
+        "in_reply_to_user_id": "1291409896466862082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071136028535242944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Domik114514 应该不能吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1291409896466862082",
+        "conversation_id": "2071134491394068595",
+        "created_at": "2026-06-28T07:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T08:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071136028535242944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071136028535242944",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071135847471321349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 这还能共用吗。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 677,
+          "like_count": 6604,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1298
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-06T16:24:59.000Z",
+        "description": "韩立主播",
+        "id": "1291409896466862082",
+        "name": "last炫神丶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977951004076457984/ZaewHcQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 1143,
+          "like_count": 46273,
+          "listed_count": 1,
+          "media_count": 229,
+          "tweet_count": 3909
+        },
+        "url": "",
+        "username": "Domik114514",
+        "verified": false
+      }
+    ]
+  }
+}

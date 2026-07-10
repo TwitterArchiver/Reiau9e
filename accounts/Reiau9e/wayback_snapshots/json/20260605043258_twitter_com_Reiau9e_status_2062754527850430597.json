@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2062754527850430597",
+    "created_at": "2026-06-05T04:32:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T05:32:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062754527850430597"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/drhimajinn/sta…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/drhimajinn/status/2062502397419860187",
+          "start": 13,
+          "url": "https://t.co/zZ3GUFsiNb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062754527850430597",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062502397419860187",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真认识炼药把自己吃死的 https://t.co/zZ3GUFsiNb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1061,
+        "media_key": "3_2062502393351446528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ96_8gbIAAvzqo.jpg",
+        "width": 805
+      },
+      {
+        "height": 601,
+        "media_key": "3_2062502393418522624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ96_8waoAAbjgf.jpg",
+        "width": 723
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2062754527850430597",
+        "created_at": "2026-06-05T04:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062754527850430597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drhimajinn/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/drhimajinn/status/2062502397419860187",
+              "start": 13,
+              "url": "https://t.co/zZ3GUFsiNb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062754527850430597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062502397419860187",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真认识炼药把自己吃死的 https://t.co/zZ3GUFsiNb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062502393351446528",
+            "3_2062502393418522624"
+          ]
+        },
+        "author_id": "1044625839051091969",
+        "conversation_id": "2062502397419860187",
+        "created_at": "2026-06-04T11:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062502397419860187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iPQX5UGzeE",
+              "end": 64,
+              "expanded_url": "https://x.com/Drhimajinn/status/2062502397419860187/photo/1",
+              "media_key": "3_2062502393351446528",
+              "start": 41,
+              "url": "https://t.co/iPQX5UGzeE"
+            },
+            {
+              "display_url": "pic.x.com/iPQX5UGzeE",
+              "end": 64,
+              "expanded_url": "https://x.com/Drhimajinn/status/2062502397419860187/photo/1",
+              "media_key": "3_2062502393418522624",
+              "start": 41,
+              "url": "https://t.co/iPQX5UGzeE"
+            },
+            {
+              "display_url": "x.com/koureido/statu…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/koureido/status/2062336102539907446",
+              "start": 65,
+              "url": "https://t.co/rTUL6fmRol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062502397419860187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 565,
+          "impression_count": 720072,
+          "like_count": 5361,
+          "quote_count": 122,
+          "reply_count": 49,
+          "retweet_count": 1154
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062336102539907446",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一般の方はおろか医者でも知らない漢方の話\n\n「蝉の抜け殻が入っている漢方がある」 https://t.co/iPQX5UGzeE https://t.co/rTUL6fmRol"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 304,
+          "like_count": 1986,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 282
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-25T16:33:03.000Z",
+        "description": "🙈",
+        "id": "1044625839051091969",
+        "location": "筋斗雲",
+        "name": "ごくう",
+        "pinned_tweet_id": "2037462761018659312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1396506017672830980/iu_NHcAt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19211,
+          "following_count": 730,
+          "like_count": 26375,
+          "listed_count": 363,
+          "media_count": 619,
+          "tweet_count": 25222
+        },
+        "username": "Drhimajinn",
+        "verified": false
+      }
+    ]
+  }
+}

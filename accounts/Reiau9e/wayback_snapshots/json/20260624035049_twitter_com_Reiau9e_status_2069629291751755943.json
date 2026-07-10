@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2069428205791174995",
+    "created_at": "2026-06-24T03:50:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T04:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069629291751755943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1630461303742697472",
+          "start": 0,
+          "username": "titanmini3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069629291751755943",
+    "in_reply_to_user_id": "1630461303742697472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069462498139574694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@titanmini3 哎呀你才是你才是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2069428205791174995",
+        "created_at": "2026-06-24T03:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T04:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069629291751755943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1630461303742697472",
+              "start": 0,
+              "username": "titanmini3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069629291751755943",
+        "in_reply_to_user_id": "1630461303742697472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069462498139574694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@titanmini3 哎呀你才是你才是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630461303742697472",
+        "conversation_id": "2069428205791174995",
+        "created_at": "2026-06-23T16:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T17:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069462498139574694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069462498139574694",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069428205791174995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 宝宝你好权威(˶￣᷄ ⁻̫ ￣᷅˵)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 591,
+          "like_count": 5904,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1101
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-28T06:54:16.000Z",
+        "description": "05/推止于推/isfp/玻璃心小女孩 骂我默认自动出示全家死亡证明/日常碎碎念 /sub/绿🚪52/黄🚪52000(没求过任何人过我🚪只是不想被白嫖情绪价值)\n颜控 身材控 没有免费聊天的义务😅\n有问必答☺️https://t.co/9kuMV0X7ta",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lulu59400",
+                "end": 128,
+                "expanded_url": "https://ngl.link/lulu59400",
+                "start": 105,
+                "url": "https://t.co/9kuMV0X7ta"
+              }
+            ]
+          }
+        },
+        "id": "1630461303742697472",
+        "location": "你心里",
+        "name": "lulu",
+        "pinned_tweet_id": "2060679336630358299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049308455627038720/swZke1o4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1288,
+          "following_count": 355,
+          "like_count": 1493,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 875
+        },
+        "url": "",
+        "username": "titanmini3",
+        "verified": false
+      }
+    ]
+  }
+}

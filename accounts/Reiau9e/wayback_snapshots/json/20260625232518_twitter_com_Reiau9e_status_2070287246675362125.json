@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2070287241172472198",
+    "created_at": "2026-06-25T23:25:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T00:25:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070287246675362125"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070287246675362125",
+    "in_reply_to_user_id": "2055263152238198784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070287241172472198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "也有的认为，恋爱关系是一种相对技术化的场景，比如说，你爱答不理，对方就舔，你舔，对方就爱答不理，所以，这种爱人先爱己也可能是这种表述，你不爱你自己，别人也不会爱你，俗称别犯贱，但这句话本身倒是也能表达不要自恨（虽然通常没人这么表述）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2070287241172472198",
+        "created_at": "2026-06-25T23:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T00:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070287246675362125"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070287246675362125",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070287241172472198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也有的认为，恋爱关系是一种相对技术化的场景，比如说，你爱答不理，对方就舔，你舔，对方就爱答不理，所以，这种爱人先爱己也可能是这种表述，你不爱你自己，别人也不会爱你，俗称别犯贱，但这句话本身倒是也能表达不要自恨（虽然通常没人这么表述）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2070287241172472198",
+        "created_at": "2026-06-25T23:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T00:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070287241172472198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/reiau9e/status…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/reiau9e/status/2070104366103826588",
+              "start": 131,
+              "url": "https://t.co/Ji6YR305tW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070287241172472198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070104366103826588",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎展开说说这个，就和“不会爱自己的人也不会爱人”在现实中，通常被表达成，他们一般认为，自己在爱中损失的太多，认为自己付出的太多，不会回头看看自己，自己多痛苦之类的，所以就来了个爱人先爱己，这实际上暗示了他们对对方的看法，这句话隐晦的表达了一番“对方是个混蛋”， https://t.co/Ji6YR305tW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 647,
+          "like_count": 6283,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1188
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      }
+    ]
+  }
+}

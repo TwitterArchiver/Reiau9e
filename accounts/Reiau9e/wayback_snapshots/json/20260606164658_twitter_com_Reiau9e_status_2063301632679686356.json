@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2063254240194445692",
+    "created_at": "2026-06-06T16:46:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T17:46:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063301632679686356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1850374828764831744",
+          "start": 0,
+          "username": "yuyuysama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063301632679686356",
+    "in_reply_to_user_id": "1850374828764831744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063254240194445692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyuysama 我已经在读转世经文啊，下辈子争取投个好胎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2063254240194445692",
+        "created_at": "2026-06-06T16:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T17:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063301632679686356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1850374828764831744",
+              "start": 0,
+              "username": "yuyuysama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063301632679686356",
+        "in_reply_to_user_id": "1850374828764831744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063254240194445692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyuysama 我已经在读转世经文啊，下辈子争取投个好胎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850374828764831744",
+        "conversation_id": "2063254240194445692",
+        "created_at": "2026-06-06T13:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063254240194445692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063254240194445692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 305,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我个人是比较愿意相信有阴曹地府这一说的。但是问题来了，我不打算养孩子，以后没人给我烧钱怎么办。能不能提前开户，我自己先烧点下去存着。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 342,
+          "like_count": 2604,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 397
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T03:12:03.000Z",
+        "description": "可以叫我小游！ 不约不聊骚不kp 05 大二 我讨厌的能是什么好人！讨厌我的肯定也坏的不轻！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuyusama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuyusama",
+                "start": 0,
+                "url": "https://t.co/776gW9kA2x"
+              }
+            ]
+          }
+        },
+        "id": "1850374828764831744",
+        "location": "喵喵喵",
+        "name": "梨花游",
+        "pinned_tweet_id": "2056706018604700064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055716562485886976/xfka1xKH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 166,
+          "like_count": 11785,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1446
+        },
+        "url": "https://t.co/776gW9kA2x",
+        "username": "yuyuysama",
+        "verified": true
+      }
+    ]
+  }
+}

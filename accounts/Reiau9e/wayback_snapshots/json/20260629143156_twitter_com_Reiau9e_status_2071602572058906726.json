@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2071602060454236399",
+    "created_at": "2026-06-29T14:31:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T15:31:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071602572058906726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1484102911307042819",
+          "start": 0,
+          "username": "hateeveryonefku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071602572058906726",
+    "in_reply_to_user_id": "1484102911307042819",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071602060454236399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hateeveryonefku 米啊"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2071602060454236399].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2071602060454236399",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2071602060454236399"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2071602060454236399",
+        "created_at": "2026-06-29T14:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071602572058906726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1484102911307042819",
+              "start": 0,
+              "username": "hateeveryonefku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071602572058906726",
+        "in_reply_to_user_id": "1484102911307042819",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071602060454236399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hateeveryonefku 米啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 690,
+          "like_count": 6809,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 1351
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T09:58:21.000Z",
+        "description": "https://t.co/b7PW5kLBtE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/misaki64477",
+                "end": 23,
+                "expanded_url": "https://ngl.link/misaki64477",
+                "start": 0,
+                "url": "https://t.co/b7PW5kLBtE"
+              }
+            ]
+          }
+        },
+        "id": "1484102911307042819",
+        "name": "陈晖洁",
+        "pinned_tweet_id": "1868656147592548601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064017562699214848/tD_c6D9V_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 416,
+          "like_count": 61989,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 9693
+        },
+        "url": "",
+        "username": "hateeveryonefku",
+        "verified": false
+      }
+    ]
+  }
+}

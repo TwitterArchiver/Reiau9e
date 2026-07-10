@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1420050770829799426",
+          "name": "Alibaba Group"
+        }
+      }
+    ],
+    "conversation_id": "2068914487311380518",
+    "created_at": "2026-06-22T04:30:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T05:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068914487311380518"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tgtm_official/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/tgtm_official/status/2067870163471573178",
+          "start": 8,
+          "url": "https://t.co/47pXC6FEJJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068914487311380518",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067870163471573178",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "难绷全员海盗党 https://t.co/47pXC6FEJJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2067870156362317824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKM83-bgAA5Jko.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          }
+        ],
+        "conversation_id": "2068914487311380518",
+        "created_at": "2026-06-22T04:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068914487311380518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tgtm_official/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/tgtm_official/status/2067870163471573178",
+              "start": 8,
+              "url": "https://t.co/47pXC6FEJJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068914487311380518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067870163471573178",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "难绷全员海盗党 https://t.co/47pXC6FEJJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067870156362317824"
+          ]
+        },
+        "author_id": "1500639956737597442",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          }
+        ],
+        "conversation_id": "2067870163471573178",
+        "created_at": "2026-06-19T07:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067870163471573178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0V2mCDZeUU",
+              "end": 302,
+              "expanded_url": "https://x.com/TGTM_Official/status/2067870163471573178/photo/1",
+              "media_key": "3_2067870156362317824",
+              "start": 279,
+              "url": "https://t.co/0V2mCDZeUU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067870163471573178",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Japan spent 17 years developing its premium “Red Princess” citrus, priced at ¥500 each. Just months after launch, Chinese sellers flooded Taobao with stolen saplings grown in China.\n\nWhen confronted, one Chinese farmer smirked on camera: “Don’t you also hope that Chinese people can eat delicious fruit?\n\nEhime farmers and officials are left heartbroken and powerless."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 981,
+          "impression_count": 2976395,
+          "like_count": 6029,
+          "quote_count": 444,
+          "reply_count": 535,
+          "retweet_count": 723
+        },
+        "reply_settings": "everyone",
+        "text": "Japan spent 17 years developing its premium “Red Princess” citrus, priced at ¥500 each. Just months after launch, Chinese sellers flooded Taobao with stolen saplings grown in China.\n\nWhen confronted, one Chinese farmer smirked on camera: “Don’t you also hope that Chinese people https://t.co/0V2mCDZeUU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 587,
+          "like_count": 5645,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1047
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-07T01:10:57.000Z",
+        "description": "The Great Translation Movement | Bridging the Great Firewall. Raw Chinese voices → global awareness. https://t.co/hCZvCytxBJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/TGTM_Official",
+                "end": 124,
+                "expanded_url": "https://linktr.ee/TGTM_Official",
+                "start": 101,
+                "url": "https://t.co/hCZvCytxBJ"
+              }
+            ]
+          }
+        },
+        "id": "1500639956737597442",
+        "name": "The Great Translation Movement 大翻译运动",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1500643624325103618/S816uw78_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243205,
+          "following_count": 684,
+          "like_count": 4210,
+          "listed_count": 1102,
+          "media_count": 4055,
+          "tweet_count": 10009
+        },
+        "url": "",
+        "username": "TGTM_Official",
+        "verified": true
+      }
+    ]
+  }
+}

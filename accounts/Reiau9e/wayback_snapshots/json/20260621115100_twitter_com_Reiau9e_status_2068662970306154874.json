@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2068590391121850510",
+    "created_at": "2026-06-21T11:51:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T12:51:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068662970306154874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1946866900425936896",
+          "start": 0,
+          "username": "SonOfEvil1117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068662970306154874",
+    "in_reply_to_user_id": "1946866900425936896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068641389630595233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SonOfEvil1117 妈呀谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2068590391121850510",
+        "created_at": "2026-06-21T11:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068662970306154874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946866900425936896",
+              "start": 0,
+              "username": "SonOfEvil1117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068662970306154874",
+        "in_reply_to_user_id": "1946866900425936896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068641389630595233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonOfEvil1117 妈呀谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946866900425936896",
+        "conversation_id": "2068590391121850510",
+        "created_at": "2026-06-21T10:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068641389630595233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068641389630595233",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068590391121850510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 长这么好看几个意思？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 555,
+          "like_count": 5602,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1021
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T09:37:21.000Z",
+        "description": "兴趣爱好：😪😪😪",
+        "id": "1946866900425936896",
+        "location": "UTOPIA",
+        "name": "...",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946867063328329728/ODz6iixG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 16,
+          "like_count": 1233,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 656
+        },
+        "url": "",
+        "username": "SonOfEvil1117",
+        "verified": false
+      }
+    ]
+  }
+}

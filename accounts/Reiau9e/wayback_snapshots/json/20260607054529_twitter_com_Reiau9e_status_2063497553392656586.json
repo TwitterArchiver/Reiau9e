@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2063491722873819168",
+    "created_at": "2026-06-07T05:45:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T06:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063497553392656586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1949073018883579904",
+          "start": 0,
+          "username": "ZNZ14955"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063497553392656586",
+    "in_reply_to_user_id": "1949073018883579904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063496272661921942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZNZ14955 太坏了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2063491722873819168",
+        "created_at": "2026-06-07T05:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063497553392656586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1949073018883579904",
+              "start": 0,
+              "username": "ZNZ14955"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063497553392656586",
+        "in_reply_to_user_id": "1949073018883579904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063496272661921942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZNZ14955 太坏了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949073018883579904",
+        "conversation_id": "2063491722873819168",
+        "created_at": "2026-06-07T05:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063496272661921942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063496272661921942",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063491722873819168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 巧乐兹还涨了5毛钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 355,
+          "like_count": 2762,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 465
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-26T11:43:33.000Z",
+        "description": "性别男，喜欢碎碎念，我想顿顿吃火锅",
+        "id": "1949073018883579904",
+        "location": "距离你 1.50 km",
+        "name": "💤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053423213355712512/uvL0Ojx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 334,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 155
+        },
+        "username": "ZNZ14955",
+        "verified": false
+      }
+    ]
+  }
+}

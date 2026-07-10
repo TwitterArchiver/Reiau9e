@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2065411729195233753",
+    "created_at": "2026-06-12T12:31:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T13:31:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065411729195233753"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ange_keilla/st…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/Ange_keilla/status/2065285988008513605",
+          "start": 39,
+          "url": "https://t.co/KiaAFQ1riE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065411729195233753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065285988008513605",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我记得有说宠物蟒蛇会这个偷偷爬到你床上对比你的身高啊，看看能不能一口把你吞掉 https://t.co/KiaAFQ1riE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12794,
+        "height": 648,
+        "media_key": "13_2065285909088497664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065285909088497664/img/fFtRlkLCc9CrMBjI.jpg",
+        "public_metrics": {
+          "view_count": 584007
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065285909088497664/vid/avc1/280x270/YBce8CV6n2X8CTpY.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065285909088497664/vid/avc1/372x360/_kq9wQOpvcVhchDv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065285909088497664/vid/avc1/672x648/5X6rLQxmB0p-iWsQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065285909088497664/pl/oX5_m7Rcz3MKspFw.m3u8"
+          }
+        ],
+        "width": 672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2065411729195233753",
+        "created_at": "2026-06-12T12:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065411729195233753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ange_keilla/st…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/Ange_keilla/status/2065285988008513605",
+              "start": 39,
+              "url": "https://t.co/KiaAFQ1riE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065411729195233753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065285988008513605",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我记得有说宠物蟒蛇会这个偷偷爬到你床上对比你的身高啊，看看能不能一口把你吞掉 https://t.co/KiaAFQ1riE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065285909088497664"
+          ]
+        },
+        "author_id": "1321809290777210885",
+        "conversation_id": "2065285988008513605",
+        "created_at": "2026-06-12T04:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T05:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065285988008513605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HCtUmBRIKx",
+              "end": 56,
+              "expanded_url": "https://x.com/Ange_keilla/status/2065285988008513605/video/1",
+              "media_key": "13_2065285909088497664",
+              "start": 33,
+              "url": "https://t.co/HCtUmBRIKx"
+            },
+            {
+              "display_url": "x.com/Ange_keilla/st…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/Ange_keilla/status/2065285562311811115",
+              "start": 57,
+              "url": "https://t.co/yKywM5RgUo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065285988008513605",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 432,
+          "impression_count": 2221207,
+          "like_count": 1422,
+          "quote_count": 156,
+          "reply_count": 329,
+          "retweet_count": 169
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065285562311811115",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "He though a snake was jocking😂😭👇 https://t.co/HCtUmBRIKx https://t.co/yKywM5RgUo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 449,
+          "like_count": 4546,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 782
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-29T13:42:11.000Z",
+        "description": "I decided to love 🥰❤️",
+        "id": "1321809290777210885",
+        "location": "North Carolina, USA",
+        "name": "Ange💝",
+        "pinned_tweet_id": "2065285988008513605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048705162814828544/pMA7gy58_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3407,
+          "following_count": 1645,
+          "like_count": 28998,
+          "listed_count": 3,
+          "media_count": 1120,
+          "tweet_count": 24273
+        },
+        "username": "Ange_keilla",
+        "verified": true
+      }
+    ]
+  }
+}

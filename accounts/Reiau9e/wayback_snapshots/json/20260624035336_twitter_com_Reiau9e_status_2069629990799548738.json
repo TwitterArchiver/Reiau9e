@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2069428205791174995",
+    "created_at": "2026-06-24T03:53:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T04:53:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069629990799548738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1875916901492436992",
+          "start": 0,
+          "username": "lulujn28652"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069629990799548738",
+    "in_reply_to_user_id": "1875916901492436992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069589128262685000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lulujn28652 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2069428205791174995",
+        "created_at": "2026-06-24T03:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T04:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069629990799548738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1875916901492436992",
+              "start": 0,
+              "username": "lulujn28652"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069629990799548738",
+        "in_reply_to_user_id": "1875916901492436992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069589128262685000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lulujn28652 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875916901492436992",
+        "conversation_id": "2069428205791174995",
+        "created_at": "2026-06-24T01:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T02:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069589128262685000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069589128262685000",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069428205791174995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 很可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 591,
+          "like_count": 5908,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1107
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-05T14:47:21.000Z",
+        "description": "",
+        "id": "1875916901492436992",
+        "location": "Fukuyama-shi, Hiroshima",
+        "name": "lele",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048334016093519872/AJzy3IqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 190,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1017
+        },
+        "url": "",
+        "username": "lulujn28652",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2074199887399506078",
+    "created_at": "2026-07-07T01:50:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T02:50:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074310092082814993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2049837033191837696",
+          "start": 0,
+          "username": "misak101108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074310092082814993",
+    "in_reply_to_user_id": "2049837033191837696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074199887399506078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misak101108 可以小红书关注几个介绍博主然后闲鱼淘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2074199887399506078",
+        "created_at": "2026-07-07T01:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T02:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074310092082814993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2049837033191837696",
+              "start": 0,
+              "username": "misak101108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074310092082814993",
+        "in_reply_to_user_id": "2049837033191837696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074199887399506078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misak101108 可以小红书关注几个介绍博主然后闲鱼淘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049837033191837696",
+        "conversation_id": "2074199887399506078",
+        "created_at": "2026-07-06T18:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T19:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074199887399506078"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074199887399506078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 466,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想问身边那群穿古着的都是从哪收的我好崩溃为什么我死活买不到想要的衣服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 721,
+          "like_count": 7479,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 43
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T13:03:37.000Z",
+        "description": "",
+        "id": "2049837033191837696",
+        "name": "小煜y",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063625379647287296/-aQXZQE5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 28,
+          "like_count": 2607,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 542
+        },
+        "url": "",
+        "username": "misak101108",
+        "verified": false
+      }
+    ]
+  }
+}

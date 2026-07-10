@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2070027392966643829",
+    "created_at": "2026-06-25T06:12:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T07:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070027395764240564"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070027395764240564",
+    "in_reply_to_user_id": "2055263152238198784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070027392966643829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "实话实说，我想到电锯人里的角色，能想到其他角色干了啥，但是电次，我基本都快把这人干的事忘光了，或者至少他的行动都让我感觉没啥特别的冲击力，玛奇玛献祭或者是把电次收成狗，或者是梅塞那个莫名其妙就死了（虽然我对这角色印象也就一般），又或者是大力直接炸了，这些我倒是都有不小的印象"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2070027392966643829",
+        "created_at": "2026-06-25T06:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T07:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070027395764240564"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070027395764240564",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070027392966643829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "实话实说，我想到电锯人里的角色，能想到其他角色干了啥，但是电次，我基本都快把这人干的事忘光了，或者至少他的行动都让我感觉没啥特别的冲击力，玛奇玛献祭或者是把电次收成狗，或者是梅塞那个莫名其妙就死了（虽然我对这角色印象也就一般），又或者是大力直接炸了，这些我倒是都有不小的印象"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2070027392966643829",
+        "created_at": "2026-06-25T06:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T07:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070027392966643829"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070027392966643829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实觉得电锯人还挺有意思的（，主要是藤本树的剧情有点神经质，而且他的分镜很有电影感，加上那种剧情有一种荒诞的幽默感，简单来说就是，他的剧情很难被系统的评价，剧情基本上就像是精神混乱，所以莫名的还挺有魅力，里面绘画错误和乱画的内容一大堆，但我真觉得电次塑造的挺一般的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 628,
+          "like_count": 6219,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 1149
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      }
+    ]
+  }
+}

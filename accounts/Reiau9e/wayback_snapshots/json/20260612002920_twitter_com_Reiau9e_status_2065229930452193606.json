@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2065040738333978997",
+    "created_at": "2026-06-12T00:29:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T01:29:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065229930452193606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1755664020944941056",
+          "start": 0,
+          "username": "Korewoizontoyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065229930452193606",
+    "in_reply_to_user_id": "1755664020944941056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065040738333978997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Korewoizontoyo 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2065040729974722561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKh_mlTbUAEFhII.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2065040738333978997",
+        "created_at": "2026-06-12T00:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T01:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065229930452193606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1755664020944941056",
+              "start": 0,
+              "username": "Korewoizontoyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065229930452193606",
+        "in_reply_to_user_id": "1755664020944941056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065040738333978997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Korewoizontoyo 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065040729974722561"
+          ]
+        },
+        "author_id": "1755664020944941056",
+        "conversation_id": "2065040738333978997",
+        "created_at": "2026-06-11T11:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065040738333978997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FTWbI1qvWl",
+              "end": 28,
+              "expanded_url": "https://x.com/Korewoizontoyo/status/2065040738333978997/photo/1",
+              "media_key": "3_2065040729974722561",
+              "start": 5,
+              "url": "https://t.co/FTWbI1qvWl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065040738333978997",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 352,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "好憔悴， https://t.co/FTWbI1qvWl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 448,
+          "like_count": 4463,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 752
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T18:45:05.000Z",
+        "description": "无意义。\n我是渔鸽。oder。自残自伤。10。可以互fo，我会查成分回关。我爱你们",
+        "id": "1755664020944941056",
+        "location": "地狱",
+        "name": "鋸齒切斷視神經",
+        "pinned_tweet_id": "2058636529761964280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064985325148266496/HPeQNqe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 334,
+          "like_count": 1210,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 325
+        },
+        "username": "Korewoizontoyo",
+        "verified": false
+      }
+    ]
+  }
+}

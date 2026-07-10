@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2069783562166165668",
+    "created_at": "2026-06-24T14:03:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T15:03:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069783562166165668"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Reiau9e/status…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/Reiau9e/status/2069745419148726536",
+          "start": 14,
+          "url": "https://t.co/GZRgWXO0oU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069783562166165668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069745419148726536",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我对我自己的行为负全部责任 https://t.co/GZRgWXO0oU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2069783562166165668",
+        "created_at": "2026-06-24T14:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T15:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069783562166165668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Reiau9e/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Reiau9e/status/2069745419148726536",
+              "start": 14,
+              "url": "https://t.co/GZRgWXO0oU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069783562166165668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069745419148726536",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我对我自己的行为负全部责任 https://t.co/GZRgWXO0oU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2069745419148726536",
+        "created_at": "2026-06-24T11:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069745419148726536"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069745419148726536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 217,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自欺的焦虑是很痛苦的，尤其是意识得到自己在自欺，既不能往前走一步，也不能索性自欺，自欺仅仅意味着，在自己那里，实际上有一个明确的答案，别人是无法理解的明确答案，不需要在这两者之间打摆子，不需要人见人爱，也不需要受人唾弃，单纯就是自己就行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 613,
+          "like_count": 6101,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1128
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      }
+    ]
+  }
+}

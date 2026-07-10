@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2062430968561213641",
+    "created_at": "2026-06-04T09:00:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T10:00:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062459490994463228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1980229679538950144",
+          "start": 0,
+          "username": "sammy52_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062459490994463228",
+    "in_reply_to_user_id": "1980229679538950144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062447135472427219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sammy52_0 这堆中最好吃的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2062430968561213641",
+        "created_at": "2026-06-04T09:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T10:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062459490994463228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1980229679538950144",
+              "start": 0,
+              "username": "sammy52_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062459490994463228",
+        "in_reply_to_user_id": "1980229679538950144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062447135472427219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sammy52_0 这堆中最好吃的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980229679538950144",
+        "conversation_id": "2062430968561213641",
+        "created_at": "2026-06-04T08:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062447135472427219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062447135472427219",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062430968561213641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 那个圆圆的看着好好吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 292,
+          "like_count": 1815,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 244
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T11:08:51.000Z",
+        "description": "只回关同类，sh/ed/bd，精神状态不稳定\n@yi_smokq 求关注求过门我宝宝!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "yi_smokq"
+              }
+            ]
+          }
+        },
+        "id": "1980229679538950144",
+        "location": "🚪88/188/520/1314",
+        "name": "4.0诊疗室(四代目",
+        "pinned_tweet_id": "2045149618988839098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062447666328670208/Krse9hml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 65,
+          "like_count": 199,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 128
+        },
+        "username": "sammy52_0",
+        "verified": false
+      }
+    ]
+  }
+}

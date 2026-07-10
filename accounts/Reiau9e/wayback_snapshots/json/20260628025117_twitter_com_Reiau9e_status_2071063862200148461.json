@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2070881250953633935",
+    "created_at": "2026-06-28T02:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T03:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071063862200148461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1808150860045901824",
+          "start": 0,
+          "username": "DOC0867"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071063862200148461",
+    "in_reply_to_user_id": "1808150860045901824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070926366728474786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DOC0867 你也帅帅帅！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2070881250953633935",
+        "created_at": "2026-06-28T02:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T03:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071063862200148461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1808150860045901824",
+              "start": 0,
+              "username": "DOC0867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071063862200148461",
+        "in_reply_to_user_id": "1808150860045901824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070926366728474786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOC0867 你也帅帅帅！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808150860045901824",
+        "conversation_id": "2070881250953633935",
+        "created_at": "2026-06-27T17:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T18:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070926366728474786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070926366728474786",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070881250953633935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 帅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 674,
+          "like_count": 6510,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 1267
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T14:50:10.000Z",
+        "description": "lost heart\n我觉得要尽量活着。。。",
+        "id": "1808150860045901824",
+        "location": "Heart",
+        "name": "枫飘",
+        "pinned_tweet_id": "2041125534361587831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808152247299461123/7kpQ_DJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 1430,
+          "like_count": 43850,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 7192
+        },
+        "url": "",
+        "username": "DOC0867",
+        "verified": false
+      }
+    ]
+  }
+}

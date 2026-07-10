@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2068590391121850510",
+    "created_at": "2026-06-22T15:13:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T16:13:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069076415635714280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1666072064481173506",
+          "start": 0,
+          "username": "shiyiyi22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069076415635714280",
+    "in_reply_to_user_id": "1666072064481173506",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069065340886364551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiyiyi22 不敢当！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2068590391121850510",
+        "created_at": "2026-06-22T15:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069076415635714280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1666072064481173506",
+              "start": 0,
+              "username": "shiyiyi22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069076415635714280",
+        "in_reply_to_user_id": "1666072064481173506",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069065340886364551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiyiyi22 不敢当！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666072064481173506",
+        "conversation_id": "2068590391121850510",
+        "created_at": "2026-06-22T14:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069065340886364551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069065340886364551",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069056400278622483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 你现在是我女神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 591,
+          "like_count": 5762,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1066
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-06T13:18:49.000Z",
+        "description": "这里是小语/未成年女高/泛性恋/把推当朋友圈发 /170+的萌妹 体重为良子/随机掉落精修自拍ing/欢迎找我终末地扩列呀/别看了快来找我玩！",
+        "id": "1666072064481173506",
+        "location": "哥伦比亚",
+        "name": "迟迟不语",
+        "pinned_tweet_id": "2064330291502875025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066022678679728128/ZTfe4NX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 196,
+          "like_count": 3485,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 4400
+        },
+        "url": "",
+        "username": "shiyiyi22",
+        "verified": false
+      }
+    ]
+  }
+}

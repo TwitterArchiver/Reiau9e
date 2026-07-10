@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2074351053223698921",
+    "created_at": "2026-07-07T10:56:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T11:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074447383333949878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1761237022797414400",
+          "start": 0,
+          "username": "l27268604364811"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074447383333949878",
+    "in_reply_to_user_id": "1761237022797414400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074398538944196651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l27268604364811 哎主要我朋友都不怎么在意这个，玩很久了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2074351053223698921",
+        "created_at": "2026-07-07T10:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T11:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074447383333949878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1761237022797414400",
+              "start": 0,
+              "username": "l27268604364811"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074447383333949878",
+        "in_reply_to_user_id": "1761237022797414400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074398538944196651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l27268604364811 哎主要我朋友都不怎么在意这个，玩很久了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761237022797414400",
+        "conversation_id": "2074351053223698921",
+        "created_at": "2026-07-07T07:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074398538944196651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074398538944196651",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074351053223698921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 哇，好棒。我会不经常说话会焦虑）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 743,
+          "like_count": 7599,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 68
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T03:50:12.000Z",
+        "description": "本人已死，有事烧纸\n清水推（确信）\n高三毕业（大喜）\n更新尽量频繁吧？非色图可能出现转载内容（🚪58）",
+        "id": "1761237022797414400",
+        "location": "墓地",
+        "name": "梦",
+        "pinned_tweet_id": "2066452903850832165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997882838478368768/I4V_XnSv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1891,
+          "following_count": 1698,
+          "like_count": 1051,
+          "listed_count": 8,
+          "media_count": 33,
+          "tweet_count": 1855
+        },
+        "url": "",
+        "username": "l27268604364811",
+        "verified": false
+      }
+    ]
+  }
+}

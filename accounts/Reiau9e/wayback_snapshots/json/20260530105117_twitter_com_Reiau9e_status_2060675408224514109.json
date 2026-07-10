@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2060408122376929425",
+    "created_at": "2026-05-30T10:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T11:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060675408224514109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1947287158148288513",
+          "start": 0,
+          "username": "hanhanmi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060675408224514109",
+    "in_reply_to_user_id": "1947287158148288513",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060408122376929425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hanhanmi_ 8中咧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2060408122376929425",
+        "created_at": "2026-05-30T10:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060675408224514109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1947287158148288513",
+              "start": 0,
+              "username": "hanhanmi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060675408224514109",
+        "in_reply_to_user_id": "1947287158148288513",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060408122376929425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanhanmi_ 8中咧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947287158148288513",
+        "conversation_id": "2060408122376929425",
+        "created_at": "2026-05-29T17:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T18:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060408122376929425"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060408122376929425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 432,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那个uki语音匹配，有个男的和我说话，我说了句中他立马把电话挂了啥意思。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060665749082095616/_fzCAkVQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 16,
+          "like_count": 340,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 10
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-21T13:27:00.000Z",
+        "description": "有时候很想辩驳什么 但又觉得这样会让一切绵延不断 算了吧 只看到我坏的一面也行",
+        "id": "1947287158148288513",
+        "location": "我的心已经等你好多年",
+        "name": "恋虐",
+        "pinned_tweet_id": "2001622577190707499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031214284517289986/QTd9tE8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 128,
+          "like_count": 12112,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 279
+        },
+        "username": "hanhanmi_",
+        "verified": false
+      }
+    ]
+  }
+}

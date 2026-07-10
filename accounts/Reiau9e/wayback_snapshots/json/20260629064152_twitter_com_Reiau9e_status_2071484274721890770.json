@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2071476600525443556",
+    "created_at": "2026-06-29T06:41:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T07:41:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071484274721890770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1592120524276002817",
+          "start": 0,
+          "username": "cywhanjian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071484274721890770",
+    "in_reply_to_user_id": "1592120524276002817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071483649619570790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cywhanjian 吓人的要死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "3_2071483647404953600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9jZvGaUAAYCUV.jpg",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2071476600525443556",
+        "created_at": "2026-06-29T06:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071484274721890770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592120524276002817",
+              "start": 0,
+              "username": "cywhanjian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071484274721890770",
+        "in_reply_to_user_id": "1592120524276002817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071483649619570790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cywhanjian 吓人的要死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071483647404953600"
+          ]
+        },
+        "author_id": "1592120524276002817",
+        "conversation_id": "2071476600525443556",
+        "created_at": "2026-06-29T06:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071483649619570790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cAY7G9OrP3",
+              "end": 74,
+              "expanded_url": "https://x.com/cywhanjian/status/2071483649619570790/photo/1",
+              "media_key": "3_2071483647404953600",
+              "start": 51,
+              "url": "https://t.co/cAY7G9OrP3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071483649619570790",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071476600525443556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 我朋友在警察学校，他们那些同学各种神人都有，拉帮结派的，打架打人的，还有不少🐞和🐔 https://t.co/cAY7G9OrP3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 688,
+          "like_count": 6787,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 1336
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-14T11:41:35.000Z",
+        "description": "Can I chat with you？🤔",
+        "id": "1592120524276002817",
+        "location": "距你114514m",
+        "name": "c17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051947732286439425/BrPQMAVG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 277,
+          "like_count": 423,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 1500
+        },
+        "url": "",
+        "username": "cywhanjian",
+        "verified": false
+      }
+    ]
+  }
+}

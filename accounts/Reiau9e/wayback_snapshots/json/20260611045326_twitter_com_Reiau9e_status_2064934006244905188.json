@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2064934002746884213",
+    "created_at": "2026-06-11T04:53:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T05:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064934006244905188"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064934006244905188",
+    "in_reply_to_user_id": "2055263152238198784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064934002746884213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他们认为即便他们身处于主人的位置，也不会做和主人一样的事，所以善与恶直接的二分属于主人道德，而通过认定主人为恶以将自己确定为善的则是奴隶道德，主人毫无疑问的将自己认定为善的，毫无疑问的将他人认定为恶的，所以在奴隶看来，善就是不直接彰显自我，而是拥有自控力，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2064934002746884213",
+        "created_at": "2026-06-11T04:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064934006244905188"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064934006244905188",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064934002746884213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他们认为即便他们身处于主人的位置，也不会做和主人一样的事，所以善与恶直接的二分属于主人道德，而通过认定主人为恶以将自己确定为善的则是奴隶道德，主人毫无疑问的将自己认定为善的，毫无疑问的将他人认定为恶的，所以在奴隶看来，善就是不直接彰显自我，而是拥有自控力，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2064934002746884213",
+        "created_at": "2026-06-11T04:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064934002746884213"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064934002746884213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "道德上的奴隶起义始于怨恨本身具有创造性并催生价值的时刻，这意味着奴隶们出于怨恨形成了他们的道德，他们怨恨奴役自己的人，怨恨随心所欲并从不自我反思的主人，道德上的奴隶起义发生在这个时刻，主人的道德并非善，甚至是缺乏自控力的，主人宣称是善的，奴隶们质疑，并最后认定这是恶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 443,
+          "like_count": 4337,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 716
+        },
+        "username": "Reiau9e",
+        "verified": false
+      }
+    ]
+  }
+}

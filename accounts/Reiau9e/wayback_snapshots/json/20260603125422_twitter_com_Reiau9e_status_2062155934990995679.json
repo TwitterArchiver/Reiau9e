@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2062155934990995679",
+    "created_at": "2026-06-03T12:54:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T13:54:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062155934990995679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1586564673188597761",
+          "start": 3,
+          "username": "R8URTAusl6uyoc7"
+        },
+        {
+          "end": 30,
+          "id": "1907770330342633475",
+          "start": 21,
+          "username": "xue55888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062155934990995679",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062111934489743451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @R8URTAusl6uyoc7: @xue55888 微博有人盗转你帖子，但是比你早发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2062155934990995679",
+        "created_at": "2026-06-03T12:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062155934990995679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1586564673188597761",
+              "start": 3,
+              "username": "R8URTAusl6uyoc7"
+            },
+            {
+              "end": 30,
+              "id": "1907770330342633475",
+              "start": 21,
+              "username": "xue55888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062155934990995679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062111934489743451",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @R8URTAusl6uyoc7: @xue55888 微博有人盗转你帖子，但是比你早发"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586564673188597761",
+        "conversation_id": "2061925074744275087",
+        "created_at": "2026-06-03T09:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T10:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062111934489743451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1907770330342633475",
+              "start": 0,
+              "username": "xue55888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062111934489743451",
+        "in_reply_to_user_id": "1907770330342633475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5314,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061925074744275087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xue55888 微博有人盗转你帖子，但是比你早发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 278,
+          "like_count": 1489,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 201
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-30T03:44:46.000Z",
+        "description": "不和你玩了 匿名：https://t.co/Y33u2kU8Lq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moy53695",
+                "end": 32,
+                "expanded_url": "https://ngl.link/moy53695",
+                "start": 9,
+                "url": "https://t.co/Y33u2kU8Lq"
+              }
+            ]
+          }
+        },
+        "id": "1586564673188597761",
+        "location": "27",
+        "name": "MoY",
+        "pinned_tweet_id": "2049162433407992165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033150457456058368/CpOrL4hl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 31,
+          "like_count": 520,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 218
+        },
+        "username": "R8URTAusl6uyoc7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T12:21:24.000Z",
+        "description": "高中开始定投大饼以太| 不追暴富，专注长期成长 ｜努力学习AI中 ！随手记录生活！明显八卦|有事联系https://t.co/rq42HT8EUD\n所有内容不够成投资建议哦！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+EATBtHE1gcM2M…",
+                "end": 73,
+                "expanded_url": "https://t.me/+EATBtHE1gcM2MmY9",
+                "start": 50,
+                "url": "https://t.co/rq42HT8EUD"
+              }
+            ]
+          }
+        },
+        "id": "1907770330342633475",
+        "name": "董小姐",
+        "pinned_tweet_id": "2060687459298799869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987376660623269888/ATgUu75m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18973,
+          "following_count": 2637,
+          "like_count": 32109,
+          "listed_count": 37,
+          "media_count": 1619,
+          "tweet_count": 28396
+        },
+        "username": "xue55888",
+        "verified": true
+      }
+    ]
+  }
+}

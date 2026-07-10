@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2063490619004371412",
+    "created_at": "2026-06-07T09:09:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T10:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063548791840747631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1941854666280808449",
+          "start": 0,
+          "username": "ChaseKing7w7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063548791840747631",
+    "in_reply_to_user_id": "1941854666280808449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063548574282158490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChaseKing7w7 遇到同好就爱顺着扒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2063490619004371412",
+        "created_at": "2026-06-07T09:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063548791840747631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1941854666280808449",
+              "start": 0,
+              "username": "ChaseKing7w7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063548791840747631",
+        "in_reply_to_user_id": "1941854666280808449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063548574282158490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChaseKing7w7 遇到同好就爱顺着扒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941854666280808449",
+        "conversation_id": "2063490619004371412",
+        "created_at": "2026-06-07T09:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063548574282158490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063548574282158490",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063490619004371412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 当时看到一些那个不好意思点赞我全存书签…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 368,
+          "like_count": 2942,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 483
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-06T13:40:18.000Z",
+        "description": "想发什么发什么",
+        "id": "1941854666280808449",
+        "location": "Belgium",
+        "name": "Chase",
+        "pinned_tweet_id": "2050395368836497518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057125749321351168/e9A9qVG4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 52,
+          "like_count": 2351,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 929
+        },
+        "username": "ChaseKing7w7",
+        "verified": false
+      }
+    ]
+  }
+}

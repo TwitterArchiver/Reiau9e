@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073400452566351873"
+      ]
+    },
+    "author_id": "2055263152238198784",
+    "conversation_id": "2073400457561768204",
+    "created_at": "2026-07-04T13:36:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T14:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073400457561768204"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hYefnZXjLm",
+          "end": 30,
+          "expanded_url": "https://x.com/Reiau9e/status/2073400457561768204/photo/1",
+          "media_key": "3_2073400452566351873",
+          "start": 7,
+          "url": "https://t.co/hYefnZXjLm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073400457561768204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "严肃删完推特 https://t.co/hYefnZXjLm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1332,
+        "media_key": "3_2073400452566351873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYyuexaAAEoO0d.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073400452566351873"
+          ]
+        },
+        "author_id": "2055263152238198784",
+        "conversation_id": "2073400457561768204",
+        "created_at": "2026-07-04T13:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073400457561768204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hYefnZXjLm",
+              "end": 30,
+              "expanded_url": "https://x.com/Reiau9e/status/2073400457561768204/photo/1",
+              "media_key": "3_2073400452566351873",
+              "start": 7,
+              "url": "https://t.co/hYefnZXjLm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073400457561768204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "严肃删完推特 https://t.co/hYefnZXjLm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 721,
+          "like_count": 7300,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      }
+    ]
+  }
+}

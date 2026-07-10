@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2070767691523297464",
+    "created_at": "2026-06-27T10:46:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T11:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070820967174332454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2592870986",
+          "start": 0,
+          "username": "1120510976"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070820967174332454",
+    "in_reply_to_user_id": "2592870986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070794806004199747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1120510976 你也是啊嗯！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2070767691523297464",
+        "created_at": "2026-06-27T10:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T11:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070820967174332454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2592870986",
+              "start": 0,
+              "username": "1120510976"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070820967174332454",
+        "in_reply_to_user_id": "2592870986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070794806004199747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1120510976 你也是啊嗯！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2592870986",
+        "conversation_id": "2070767691523297464",
+        "created_at": "2026-06-27T09:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T10:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070794806004199747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070794806004199747",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070767691523297464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 顶级建模，兄弟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 673,
+          "like_count": 6445,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 1233
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-28T10:21:55.000Z",
+        "description": "底层画手，ff14玩家，人女同好",
+        "id": "2592870986",
+        "location": "亚历山德里亚",
+        "name": "卡塞@yumekasei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000250624689201152/_y2uvKiZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 53,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 347
+        },
+        "url": "",
+        "username": "1120510976",
+        "verified": false
+      }
+    ]
+  }
+}

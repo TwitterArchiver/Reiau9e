@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2063555350499123576",
+    "created_at": "2026-06-07T12:12:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T13:12:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063594935606300936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2056432774647820288",
+          "start": 0,
+          "username": "UwUp_p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063594935606300936",
+    "in_reply_to_user_id": "2056432774647820288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063560471924625447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UwUp_p 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2063555350499123576",
+        "created_at": "2026-06-07T12:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063594935606300936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2056432774647820288",
+              "start": 0,
+              "username": "UwUp_p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063594935606300936",
+        "in_reply_to_user_id": "2056432774647820288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063560471924625447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UwUp_p 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056432774647820288",
+        "conversation_id": "2063555350499123576",
+        "created_at": "2026-06-07T09:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063560471924625447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063560471924625447",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063555350499123576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 好看！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 373,
+          "like_count": 2988,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 498
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-18T17:54:26.000Z",
+        "description": "にゃ🐱世界のみんな仲良くしてほしいにゃ✨\nフォロバックします〜",
+        "id": "2056432774647820288",
+        "name": "≽^-⩊-^≼",
+        "pinned_tweet_id": "2062136723199717664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063157683348246528/pYVy7bVF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 466,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 197
+        },
+        "username": "UwUp_p",
+        "verified": true
+      }
+    ]
+  }
+}

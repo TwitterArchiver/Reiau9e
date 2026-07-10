@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064658410226991104"
+      ],
+      "media_source_tweet_id": [
+        "2064658413624397869"
+      ]
+    },
+    "author_id": "2055263152238198784",
+    "conversation_id": "2064902753055559832",
+    "created_at": "2026-06-11T02:49:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T03:49:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064902753055559832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1274804078321610752",
+          "start": 3,
+          "username": "maruon22"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lz4d83r6kZ",
+          "end": 43,
+          "expanded_url": "https://x.com/maruon22/status/2064658413624397869/photo/1",
+          "media_key": "3_2064658410226991104",
+          "start": 20,
+          "url": "https://t.co/lz4d83r6kZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064902753055559832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1450
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064658413624397869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maruon22: しめじだよ https://t.co/lz4d83r6kZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2064658410226991104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcj4pQaQAA4Bjp.jpg",
+        "width": 508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064658410226991104"
+          ],
+          "media_source_tweet_id": [
+            "2064658413624397869"
+          ]
+        },
+        "author_id": "2055263152238198784",
+        "conversation_id": "2064902753055559832",
+        "created_at": "2026-06-11T02:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T03:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064902753055559832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1274804078321610752",
+              "start": 3,
+              "username": "maruon22"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lz4d83r6kZ",
+              "end": 43,
+              "expanded_url": "https://x.com/maruon22/status/2064658413624397869/photo/1",
+              "media_key": "3_2064658410226991104",
+              "start": 20,
+              "url": "https://t.co/lz4d83r6kZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064902753055559832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1450
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064658413624397869",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maruon22: しめじだよ https://t.co/lz4d83r6kZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064658410226991104"
+          ]
+        },
+        "author_id": "1274804078321610752",
+        "conversation_id": "2064658413624397869",
+        "created_at": "2026-06-10T10:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064658413624397869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lz4d83r6kZ",
+              "end": 29,
+              "expanded_url": "https://x.com/maruon22/status/2064658413624397869/photo/1",
+              "media_key": "3_2064658410226991104",
+              "start": 6,
+              "url": "https://t.co/lz4d83r6kZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064658413624397869",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 523,
+          "impression_count": 135124,
+          "like_count": 9646,
+          "quote_count": 65,
+          "reply_count": 56,
+          "retweet_count": 1450
+        },
+        "reply_settings": "everyone",
+        "text": "しめじだよ https://t.co/lz4d83r6kZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 441,
+          "like_count": 4297,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 705
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-21T20:39:37.000Z",
+        "description": "犬猫大好き。キャンプ大好き。スイカ大好き。裸の銃を持つ男。反日は大嫌いです。太陽光発電・風力発電は環境破壊装置。Grokで遊んでます。誤字脱字が多いです。",
+        "id": "1274804078321610752",
+        "name": "まるお2号🇯🇵（羊の皮を被った猫）",
+        "pinned_tweet_id": "1919926998815932533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974244152255922176/HE7U3aa__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41066,
+          "following_count": 15501,
+          "like_count": 564524,
+          "listed_count": 214,
+          "media_count": 31093,
+          "tweet_count": 172997
+        },
+        "username": "maruon22",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2064306624949571903",
+    "created_at": "2026-06-09T12:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T13:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064320489150087310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1755664020944941056",
+          "start": 0,
+          "username": "Korewoizontoyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064320489150087310",
+    "in_reply_to_user_id": "1755664020944941056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064306624949571903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Korewoizontoyo 吃！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2064306624949571903",
+        "created_at": "2026-06-09T12:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064320489150087310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1755664020944941056",
+              "start": 0,
+              "username": "Korewoizontoyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064320489150087310",
+        "in_reply_to_user_id": "1755664020944941056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064306624949571903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Korewoizontoyo 吃！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755664020944941056",
+        "conversation_id": "2064306624949571903",
+        "created_at": "2026-06-09T11:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064306624949571903"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064306624949571903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "好想吃点甜的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 390,
+          "like_count": 3704,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 622
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T18:45:05.000Z",
+        "description": "无意义。\n我是渔鸽。oder。自残自伤。10。可以互fo，我会查成分，暂时不和除了同类的人互fo抱歉。我爱你们",
+        "id": "1755664020944941056",
+        "location": "地狱",
+        "name": "鋸齒切斷視神經",
+        "pinned_tweet_id": "2058636529761964280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060755916010708992/wdTxpfjU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 324,
+          "like_count": 1111,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 269
+        },
+        "username": "Korewoizontoyo",
+        "verified": false
+      }
+    ]
+  }
+}

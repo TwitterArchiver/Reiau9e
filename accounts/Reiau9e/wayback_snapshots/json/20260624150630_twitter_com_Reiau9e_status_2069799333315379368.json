@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2069784760755614154",
+    "created_at": "2026-06-24T15:06:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T16:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069799333315379368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1908174578431729664",
+          "start": 0,
+          "username": "yuwan43"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069799333315379368",
+    "in_reply_to_user_id": "1908174578431729664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069794105249681917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuwan43 我看看丝发了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2069784760755614154",
+        "created_at": "2026-06-24T15:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069799333315379368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1908174578431729664",
+              "start": 0,
+              "username": "yuwan43"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069799333315379368",
+        "in_reply_to_user_id": "1908174578431729664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069794105249681917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuwan43 我看看丝发了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908174578431729664",
+        "conversation_id": "2069784760755614154",
+        "created_at": "2026-06-24T14:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T15:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069794105249681917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069794105249681917",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069784760755614154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 看看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 620,
+          "like_count": 6128,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1133
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-04T15:07:37.000Z",
+        "description": "1/4i 绳 S ｜私信只回口令🚪128｜分身：@lllian115",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "lllian115"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuwan43",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuwan43",
+                "start": 0,
+                "url": "https://t.co/KEbZtCGQ2H"
+              }
+            ]
+          }
+        },
+        "id": "1908174578431729664",
+        "location": "天津/北京     提问箱：",
+        "name": "yuwan",
+        "pinned_tweet_id": "2063259994020257950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908175079420334081/eKJh2Vnt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6740,
+          "following_count": 439,
+          "like_count": 5981,
+          "listed_count": 23,
+          "media_count": 247,
+          "tweet_count": 1058
+        },
+        "url": "https://t.co/KEbZtCGQ2H",
+        "username": "yuwan43",
+        "verified": false
+      }
+    ]
+  }
+}

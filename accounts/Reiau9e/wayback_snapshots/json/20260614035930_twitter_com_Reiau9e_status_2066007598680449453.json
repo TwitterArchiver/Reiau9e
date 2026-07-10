@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2065802853915267074",
+    "created_at": "2026-06-14T03:59:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T04:59:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066007598680449453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2036489795376140288",
+          "start": 0,
+          "username": "cij1012933"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066007598680449453",
+    "in_reply_to_user_id": "2036489795376140288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065876034516668424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cij1012933 妈呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2065802853915267074",
+        "created_at": "2026-06-14T03:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066007598680449453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2036489795376140288",
+              "start": 0,
+              "username": "cij1012933"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066007598680449453",
+        "in_reply_to_user_id": "2036489795376140288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065876034516668424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cij1012933 妈呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036489795376140288",
+        "conversation_id": "2065802853915267074",
+        "created_at": "2026-06-13T19:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T20:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065876034516668424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065876034516668424",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065802853915267074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 481,
+          "like_count": 4756,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 841
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T17:07:04.000Z",
+        "description": "左派青年/尊重LGBTQ+/反中修/馬克思主義者/不是键政魔怔人/170cm 52±2kg/09高二理科生～/ENTP/愛好cos 二次元 羽毛球 中長跑 化學/有时R18/在和心理疾病自由搏击ing/多多交流 歡迎互fo捏～",
+        "id": "2036489795376140288",
+        "name": "菜鸡1.20.1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038079260775383040/mjTynNs__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 147,
+          "like_count": 2874,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 761
+        },
+        "username": "cij1012933",
+        "verified": false
+      }
+    ]
+  }
+}

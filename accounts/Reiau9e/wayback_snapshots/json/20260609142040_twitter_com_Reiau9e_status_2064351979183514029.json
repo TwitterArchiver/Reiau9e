@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2064338810679464096",
+    "created_at": "2026-06-09T14:20:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T15:20:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064351979183514029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2027675213589319683",
+          "start": 0,
+          "username": "Amatsukih16k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064351979183514029",
+    "in_reply_to_user_id": "2027675213589319683",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064338810679464096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amatsukih16k 好酷！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2064338797819789312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYBMwQbAAAHdRd.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2064338810679464096",
+        "created_at": "2026-06-09T14:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064351979183514029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2027675213589319683",
+              "start": 0,
+              "username": "Amatsukih16k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064351979183514029",
+        "in_reply_to_user_id": "2027675213589319683",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064338810679464096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amatsukih16k 好酷！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064338797819789312"
+          ]
+        },
+        "author_id": "2027675213589319683",
+        "conversation_id": "2064338810679464096",
+        "created_at": "2026-06-09T13:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064338810679464096"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "自撮り"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wJXxccI38n",
+              "end": 28,
+              "expanded_url": "https://x.com/Amatsukih16k/status/2064338810679464096/photo/1",
+              "media_key": "3_2064338797819789312",
+              "start": 5,
+              "url": "https://t.co/wJXxccI38n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064338810679464096",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り https://t.co/wJXxccI38n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 392,
+          "like_count": 3797,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 633
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-28T09:24:32.000Z",
+        "description": "日本語勉強中\n随便發點什么\n头像是自设OC",
+        "id": "2027675213589319683",
+        "name": "Amatsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062986031146897408/tsGYE1F5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 80,
+          "like_count": 641,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 72
+        },
+        "username": "Amatsukih16k",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2061304045537767790",
+    "created_at": "2026-06-01T04:29:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T05:29:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061304045537767790"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061304045537767790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每天狂喝大酒搞得我话都说不流畅了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2061304045537767790",
+        "created_at": "2026-06-01T04:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T05:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061304045537767790"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061304045537767790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天狂喝大酒搞得我话都说不流畅了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060665749082095616/_fzCAkVQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 150,
+          "like_count": 752,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 72
+        },
+        "username": "Reiau9e",
+        "verified": false
+      }
+    ]
+  }
+}

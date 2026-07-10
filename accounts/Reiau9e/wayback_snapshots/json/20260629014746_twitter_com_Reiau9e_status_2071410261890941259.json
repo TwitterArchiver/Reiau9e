@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2071235965411320031",
+    "created_at": "2026-06-29T01:47:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T02:47:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071410261890941259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1620292752583032836",
+          "start": 0,
+          "username": "seril4ever_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071410261890941259",
+    "in_reply_to_user_id": "1620292752583032836",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071264694296564208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seril4ever_ 😽😽😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2071235965411320031",
+        "created_at": "2026-06-29T01:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T02:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071410261890941259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1620292752583032836",
+              "start": 0,
+              "username": "seril4ever_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071410261890941259",
+        "in_reply_to_user_id": "1620292752583032836",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071264694296564208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seril4ever_ 😽😽😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620292752583032836",
+        "conversation_id": "2071235965411320031",
+        "created_at": "2026-06-28T16:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071264694296564208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071264694296564208",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071235965411320031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 我嫁了…💍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 685,
+          "like_count": 6705,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1329
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T05:28:08.000Z",
+        "description": "相信要相信 幸福它终将会越靠越近\n\n★˖˚特别的人..@Ywan_ahy ☆₊⁺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "Ywan_ahy"
+              }
+            ]
+          }
+        },
+        "id": "1620292752583032836",
+        "location": "in your heart",
+        "name": "kimono萌",
+        "pinned_tweet_id": "2063809328654795106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037405150055477248/uEzTdB2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 841,
+          "like_count": 14526,
+          "listed_count": 4,
+          "media_count": 258,
+          "tweet_count": 4080
+        },
+        "url": "",
+        "username": "seril4ever_",
+        "verified": false
+      }
+    ]
+  }
+}

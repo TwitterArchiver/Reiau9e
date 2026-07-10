@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2066746167484923994",
+    "created_at": "2026-06-16T04:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T05:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066746805979840734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1823428965773795329",
+          "start": 0,
+          "username": "mianmianmian0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066746805979840734",
+    "in_reply_to_user_id": "1823428965773795329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066746167484923994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@mianmianmian0 哎哎我也是不做长甲了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2066746167484923994",
+        "created_at": "2026-06-16T04:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066746805979840734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1823428965773795329",
+              "start": 0,
+              "username": "mianmianmian0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066746805979840734",
+        "in_reply_to_user_id": "1823428965773795329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066746167484923994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@mianmianmian0 哎哎我也是不做长甲了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823428965773795329",
+        "conversation_id": "2066746167484923994",
+        "created_at": "2026-06-16T04:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066746167484923994"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066746167484923994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "这个美甲我还是没驯服。所以打字很辛苦。总是错别字。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 521,
+          "like_count": 5078,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 924
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T18:38:48.000Z",
+        "description": "日月掷人去",
+        "id": "1823428965773795329",
+        "name": "极地春",
+        "pinned_tweet_id": "2015461239250735416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005008617100247042/o0yvibt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 207,
+          "like_count": 15875,
+          "listed_count": 0,
+          "media_count": 769,
+          "tweet_count": 10097
+        },
+        "username": "mianmianmian0",
+        "verified": false
+      }
+    ]
+  }
+}

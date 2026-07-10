@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2063149836476768528",
+    "created_at": "2026-06-07T02:05:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T03:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063442072355643840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1121440196577255429",
+          "start": 0,
+          "username": "juicef1lower2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063442072355643840",
+    "in_reply_to_user_id": "1121440196577255429",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063430035802067216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@juicef1lower2 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2063149836476768528",
+        "created_at": "2026-06-07T02:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063442072355643840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1121440196577255429",
+              "start": 0,
+              "username": "juicef1lower2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063442072355643840",
+        "in_reply_to_user_id": "1121440196577255429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063430035802067216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@juicef1lower2 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1121440196577255429",
+        "conversation_id": "2063149836476768528",
+        "created_at": "2026-06-07T01:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T02:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063430035802067216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063430035802067216",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063149836476768528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 我操好权威"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 349,
+          "like_count": 2635,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 405
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-25T15:45:52.000Z",
+        "description": "让我幸运",
+        "id": "1121440196577255429",
+        "location": "我会是很棒的人",
+        "name": "小红",
+        "pinned_tweet_id": "1987567591226056825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026503393343385600/bpeDTyi2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 28,
+          "like_count": 1464,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 1705
+        },
+        "username": "juicef1lower2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2064912737025863709",
+    "created_at": "2026-06-11T03:31:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T04:31:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064913341437686223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2003809202666688513",
+          "start": 0,
+          "username": "labrat_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064913341437686223",
+    "in_reply_to_user_id": "2003809202666688513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064912737025863709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@labrat_404 野狗确实狂奔到腐烂就好，没有逻辑把自己养成这样我只能说感恩习大大汉化功劳啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2064912737025863709",
+        "created_at": "2026-06-11T03:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T04:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064913341437686223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2003809202666688513",
+              "start": 0,
+              "username": "labrat_404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064913341437686223",
+        "in_reply_to_user_id": "2003809202666688513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064912737025863709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@labrat_404 野狗确实狂奔到腐烂就好，没有逻辑把自己养成这样我只能说感恩习大大汉化功劳啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003809202666688513",
+        "conversation_id": "2064912737025863709",
+        "created_at": "2026-06-11T03:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T04:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064912737025863709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/labrat_404/sta…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/labrat_404/status/2064908408072159571",
+              "start": 80,
+              "url": "https://t.co/2trsy4zhnc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064912737025863709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064908408072159571",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉 这就给我发爹证了\n小朋友也太玻璃心了呀\n逻辑不行靠骂我来凑的选手。\n你拿谎言套谎言表演伪善 确实能骗来不少比你还沙比的女的的b 但这条路你会又累又不长久。 https://t.co/2trsy4zhnc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 441,
+          "like_count": 4291,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 709
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-24T12:45:32.000Z",
+        "description": "dark identity养成日记 人类观察者 切断一切外界灌输及规训 只相信自己的直觉和欲望",
+        "id": "2003809202666688513",
+        "name": "rat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008648723296120833/1gNR4xsA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 43,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 141
+        },
+        "username": "labrat_404",
+        "verified": false
+      }
+    ]
+  }
+}

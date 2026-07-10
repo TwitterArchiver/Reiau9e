@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2068971424023507414",
+    "created_at": "2026-06-22T08:51:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T09:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068980219386744934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1708184917728010240",
+          "start": 0,
+          "username": "whisperain121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068980219386744934",
+    "in_reply_to_user_id": "1708184917728010240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068979201433354538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whisperain121 我看是装了40天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2068971424023507414",
+        "created_at": "2026-06-22T08:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068980219386744934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1708184917728010240",
+              "start": 0,
+              "username": "whisperain121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068980219386744934",
+        "in_reply_to_user_id": "1708184917728010240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068979201433354538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whisperain121 我看是装了40天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708184917728010240",
+        "conversation_id": "2068971424023507414",
+        "created_at": "2026-06-22T08:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068979201433354538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068979201433354538",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068971424023507414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 装的像那我说真牛批吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 589,
+          "like_count": 5708,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1057
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-30T18:20:07.000Z",
+        "description": "发发老照片，私信随机回\n无tg账号",
+        "id": "1708184917728010240",
+        "name": "松团子",
+        "pinned_tweet_id": "1766526581940588665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1708185817141915648/v7tg_f7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4701,
+          "following_count": 859,
+          "like_count": 4013,
+          "listed_count": 32,
+          "media_count": 51,
+          "tweet_count": 499
+        },
+        "url": "",
+        "username": "whisperain121",
+        "verified": false
+      }
+    ]
+  }
+}

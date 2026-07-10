@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2065333775073235144",
+    "created_at": "2026-06-12T07:21:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T08:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065333775073235144"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yiovot/status/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/yiovot/status/2065147691215306834",
+          "start": 11,
+          "url": "https://t.co/3sCxgj7WLX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065333775073235144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065147691215306834",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "某种倒错也太恐怖了点 https://t.co/3sCxgj7WLX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2065333775073235144",
+        "created_at": "2026-06-12T07:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T08:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065333775073235144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yiovot/status/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/yiovot/status/2065147691215306834",
+              "start": 11,
+              "url": "https://t.co/3sCxgj7WLX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065333775073235144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065147691215306834",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "某种倒错也太恐怖了点 https://t.co/3sCxgj7WLX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889945137524121603",
+        "conversation_id": "2065147691215306834",
+        "created_at": "2026-06-11T19:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T20:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065147691215306834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YiOvot/status/…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/YiOvot/status/2065006425638920341",
+              "start": 89,
+              "url": "https://t.co/qXHpyK8Pj5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065147691215306834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 36592,
+          "like_count": 225,
+          "quote_count": 2,
+          "reply_count": 41,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065006425638920341",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "哎呦我操我真上火，妈的几千块钱本来就不是小数目啊，对我这种穷b来说一个月工资啊md，我就单纯觉得贵咋的了，不管男女卖几千一晚对我来说都是贵啊，踏马的你们这群傻逼男的到底在喷什么 https://t.co/qXHpyK8Pj5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 449,
+          "like_count": 4524,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 769
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-13T07:50:18.000Z",
+        "description": "大肥猫品鉴家 想发啥发啥｜无🚪纯发  不私联 推止于推 丨 欢迎女宝找我玩",
+        "id": "1889945137524121603",
+        "location": "闲聊给我一百块",
+        "name": "装鱿鱼被炒",
+        "pinned_tweet_id": "2052983965645251001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060530310157324288/HHPnE6cc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1930,
+          "following_count": 40,
+          "like_count": 2899,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1775
+        },
+        "username": "YiOvot",
+        "verified": false
+      }
+    ]
+  }
+}

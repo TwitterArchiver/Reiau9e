@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2062119560065527824",
+    "created_at": "2026-06-03T11:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T12:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062131773690237090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1948883734062923778",
+          "start": 0,
+          "username": "msro_ovo1119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062131773690237090",
+    "in_reply_to_user_id": "1948883734062923778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062119560065527824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@msro_ovo1119 这么早就逛窑子啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30806,
+        "height": 1280,
+        "media_key": "13_2062119462271057920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062119462271057920/img/MI2SLPVpW_ch77To.jpg",
+        "public_metrics": {
+          "view_count": 13
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062119462271057920/vid/avc1/320x690/KK9G0_ALghbaHCtN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062119462271057920/vid/avc1/480x1036/v5kZN5SAHN6WOuTX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062119462271057920/vid/avc1/592x1280/cSMiOTjUzz4653cl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062119462271057920/pl/g1ca7C8FsoCAJB6e.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2062119560065527824",
+        "created_at": "2026-06-03T11:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062131773690237090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948883734062923778",
+              "start": 0,
+              "username": "msro_ovo1119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062131773690237090",
+        "in_reply_to_user_id": "1948883734062923778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062119560065527824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@msro_ovo1119 这么早就逛窑子啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062119462271057920"
+          ]
+        },
+        "author_id": "1948883734062923778",
+        "conversation_id": "2062119560065527824",
+        "created_at": "2026-06-03T10:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062119560065527824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RvUnbwwwGR",
+              "end": 28,
+              "expanded_url": "https://x.com/msro_ovo1119/status/2062119560065527824/video/1",
+              "media_key": "13_2062119462271057920",
+              "start": 5,
+              "url": "https://t.co/RvUnbwwwGR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062119560065527824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "锐评一下 https://t.co/RvUnbwwwGR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 276,
+          "like_count": 1456,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 199
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T23:11:19.000Z",
+        "description": "あの",
+        "id": "1948883734062923778",
+        "location": "Hong Kong",
+        "name": "nsrm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058090504026562560/GU23yzLc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 24,
+          "like_count": 1375,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 485
+        },
+        "username": "msro_ovo1119",
+        "verified": false
+      }
+    ]
+  }
+}

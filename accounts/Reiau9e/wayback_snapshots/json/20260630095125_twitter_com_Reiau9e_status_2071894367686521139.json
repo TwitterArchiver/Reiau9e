@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2071804511883301128",
+    "created_at": "2026-06-30T09:51:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T10:51:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071894367686521139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1470265971550076930",
+          "start": 0,
+          "username": "duande6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071894367686521139",
+    "in_reply_to_user_id": "1470265971550076930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071838284641157627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duande6 蛋白质是在狂吃，力量训练感觉就难了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2071804511883301128",
+        "created_at": "2026-06-30T09:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071894367686521139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1470265971550076930",
+              "start": 0,
+              "username": "duande6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071894367686521139",
+        "in_reply_to_user_id": "1470265971550076930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071838284641157627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duande6 蛋白质是在狂吃，力量训练感觉就难了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1470265971550076930",
+        "conversation_id": "2071804511883301128",
+        "created_at": "2026-06-30T06:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T07:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071838284641157627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071838284641157627",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071804511883301128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 多吃蛋白质，力量训练"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 694,
+          "like_count": 6935,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1381
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-13T05:35:11.000Z",
+        "description": "若水向东流",
+        "id": "1470265971550076930",
+        "location": "墟",
+        "name": "与赤一色",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054538758993924096/xDRy0UAD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 86,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 394
+        },
+        "url": "",
+        "username": "duande6",
+        "verified": false
+      }
+    ]
+  }
+}

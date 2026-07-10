@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2072537721843908743",
+    "created_at": "2026-07-02T05:52:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T06:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072558923056566561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1853381118348652544",
+          "start": 0,
+          "username": "schelling_lin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072558923056566561",
+    "in_reply_to_user_id": "1853381118348652544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072552793412694170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@schelling_lin 你也萌萌萌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2072537721843908743",
+        "created_at": "2026-07-02T05:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T06:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072558923056566561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1853381118348652544",
+              "start": 0,
+              "username": "schelling_lin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072558923056566561",
+        "in_reply_to_user_id": "1853381118348652544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072552793412694170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@schelling_lin 你也萌萌萌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853381118348652544",
+        "conversation_id": "2072537721843908743",
+        "created_at": "2026-07-02T05:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T06:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072552793412694170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "4797714c95971ac1"
+        },
+        "id": "2072552793412694170",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072537721843908743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 萌萌萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 715,
+          "like_count": 7199,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1430
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-04T10:18:09.000Z",
+        "description": "02，4i，infj，会充当树洞，欢迎扩列！",
+        "id": "1853381118348652544",
+        "name": "Silvio_L",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064833917530628096/mOjM0XBa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 103,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "schelling_lin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2063538488277123495",
+    "created_at": "2026-06-07T08:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T09:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063538488277123495"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/reeeedoo/statu…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/reeeedoo/status/2063202728147599616",
+          "start": 17,
+          "url": "https://t.co/iGllutq47P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063538488277123495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063202728147599616",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "刷了半天片给我刷出这个两眼一黑了 https://t.co/iGllutq47P"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14789,
+        "height": 720,
+        "media_key": "13_2063202671344123904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063202671344123904/img/tnYNLbnhpWMG1k9X.jpg",
+        "public_metrics": {
+          "view_count": 600610
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063202671344123904/vid/avc1/308x270/_pHvJ8w1Hh-luSVc.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063202671344123904/vid/avc1/412x360/52wNF0seXybg1uwq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063202671344123904/vid/avc1/824x720/Jk38eLBLplI2AMxz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063202671344123904/pl/6fcShCcK2xYOqcTw.m3u8"
+          }
+        ],
+        "width": 824
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2063538488277123495",
+        "created_at": "2026-06-07T08:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063538488277123495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/reeeedoo/statu…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/reeeedoo/status/2063202728147599616",
+              "start": 17,
+              "url": "https://t.co/iGllutq47P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063538488277123495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063202728147599616",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刷了半天片给我刷出这个两眼一黑了 https://t.co/iGllutq47P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063202671344123904"
+          ]
+        },
+        "author_id": "1779131858489647105",
+        "conversation_id": "2063202728147599616",
+        "created_at": "2026-06-06T10:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063202728147599616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ODO0x4jFuf",
+              "end": 43,
+              "expanded_url": "https://x.com/reeeedoo/status/2063202728147599616/video/1",
+              "media_key": "13_2063202671344123904",
+              "start": 20,
+              "url": "https://t.co/ODO0x4jFuf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063202728147599616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3458,
+          "impression_count": 1047173,
+          "like_count": 9076,
+          "quote_count": 89,
+          "reply_count": 49,
+          "retweet_count": 669
+        },
+        "reply_settings": "everyone",
+        "text": "金はあるのに腕がもう限界に近くて今これ https://t.co/ODO0x4jFuf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 363,
+          "like_count": 2899,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 479
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T12:58:02.000Z",
+        "description": "れーどと申します。 ゲームと漫画が好きです\n太鼓の達人 24赤玄人 25金枠赤玄人 26初日10段\nスマブラ 剣術mii あとトモコレとかメイドインワリオとか\n漫画はうまるちゃんとメイドラとハンチョウ見てます\n男の娘とケモ耳がだいすき",
+        "id": "1779131858489647105",
+        "name": "れーど",
+        "pinned_tweet_id": "2061342606899204536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062900358331215873/C6QQAYIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 697,
+          "like_count": 7467,
+          "listed_count": 0,
+          "media_count": 939,
+          "tweet_count": 4010
+        },
+        "username": "reeeedoo",
+        "verified": false
+      }
+    ]
+  }
+}

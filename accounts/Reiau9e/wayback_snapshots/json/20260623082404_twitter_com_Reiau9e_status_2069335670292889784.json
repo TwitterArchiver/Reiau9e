@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2069076586532630927",
+    "created_at": "2026-06-23T08:24:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T09:24:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069335670292889784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1827004037574873088",
+          "start": 0,
+          "username": "Ztiant_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069335670292889784",
+    "in_reply_to_user_id": "1827004037574873088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069096411720024128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ztiant_ 支持！我也想做！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2069076586532630927",
+        "created_at": "2026-06-23T08:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069335670292889784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1827004037574873088",
+              "start": 0,
+              "username": "Ztiant_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069335670292889784",
+        "in_reply_to_user_id": "1827004037574873088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069096411720024128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ztiant_ 支持！我也想做！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827004037574873088",
+        "conversation_id": "2069076586532630927",
+        "created_at": "2026-06-22T16:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T17:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069096411720024128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069096411720024128",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 244,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069076586532630927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 我要做茶叶蛋！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 590,
+          "like_count": 5819,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1092
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T15:24:56.000Z",
+        "description": "",
+        "id": "1827004037574873088",
+        "name": "🥰",
+        "pinned_tweet_id": "2027889746014593218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042619678707847176/HToymx1v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 758,
+          "like_count": 884,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 326
+        },
+        "url": "",
+        "username": "Ztiant_",
+        "verified": false
+      }
+    ]
+  }
+}

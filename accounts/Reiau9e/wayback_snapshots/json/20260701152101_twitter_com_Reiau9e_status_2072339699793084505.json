@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2072338279412998311",
+    "created_at": "2026-07-01T15:21:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T16:21:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072339699793084505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1828822109696544768",
+          "start": 0,
+          "username": "gabheyem492991"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072339699793084505",
+    "in_reply_to_user_id": "1828822109696544768",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072338279412998311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gabheyem492991 nb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1613,
+        "media_key": "3_2072338269870907392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJsrT4aYAAdUie.jpg",
+        "width": 817
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2072338279412998311",
+        "created_at": "2026-07-01T15:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072339699793084505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1828822109696544768",
+              "start": 0,
+              "username": "gabheyem492991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072339699793084505",
+        "in_reply_to_user_id": "1828822109696544768",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072338279412998311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gabheyem492991 nb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072338269870907392"
+          ]
+        },
+        "author_id": "1828822109696544768",
+        "conversation_id": "2072338279412998311",
+        "created_at": "2026-07-01T15:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072338279412998311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J1Oy5JhD61",
+              "end": 23,
+              "expanded_url": "https://x.com/gabheyem492991/status/2072338279412998311/photo/1",
+              "media_key": "3_2072338269870907392",
+              "start": 0,
+              "url": "https://t.co/J1Oy5JhD61"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072338279412998311",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/J1Oy5JhD61"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 708,
+          "like_count": 7151,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1422
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T15:49:13.000Z",
+        "description": "小孩子不懂事瞎发的\nhttps://t.co/A5p2FGBoB4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gabheyem",
+                "end": 33,
+                "expanded_url": "https://ngl.link/gabheyem",
+                "start": 10,
+                "url": "https://t.co/A5p2FGBoB4"
+              }
+            ]
+          }
+        },
+        "id": "1828822109696544768",
+        "location": "百慕大",
+        "name": "冥天会更好",
+        "pinned_tweet_id": "1919469231470456927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065282019412807680/urExiLUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 1002,
+          "like_count": 21054,
+          "listed_count": 0,
+          "media_count": 403,
+          "tweet_count": 3205
+        },
+        "url": "",
+        "username": "gabheyem492991",
+        "verified": false
+      }
+    ]
+  }
+}

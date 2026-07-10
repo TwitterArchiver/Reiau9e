@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2069715522535694635",
+    "created_at": "2026-06-24T09:33:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T10:33:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069715522535694635"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lingjiaxin233/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/lingjiaxin233/status/2069368618178212064",
+          "start": 7,
+          "url": "https://t.co/Wx0TwhtvNF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069715522535694635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069368618178212064",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "恋童癖就这样 https://t.co/Wx0TwhtvNF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 897,
+        "media_key": "3_2069278092166639617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLeNdhkXMAEVcBB.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2069715522535694635",
+        "created_at": "2026-06-24T09:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069715522535694635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lingjiaxin233/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/lingjiaxin233/status/2069368618178212064",
+              "start": 7,
+              "url": "https://t.co/Wx0TwhtvNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069715522535694635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069368618178212064",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恋童癖就这样 https://t.co/Wx0TwhtvNF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069278092166639617"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069368618178212064",
+        "created_at": "2026-06-23T10:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069368618178212064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kXnWv1tTJn",
+              "end": 23,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2069368618178212064/photo/1",
+              "media_key": "3_2069278092166639617",
+              "start": 0,
+              "url": "https://t.co/kXnWv1tTJn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069368618178212064",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 103813,
+          "like_count": 1751,
+          "quote_count": 12,
+          "reply_count": 84,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kXnWv1tTJn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 604,
+          "like_count": 6006,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1133
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！//无证含糖，研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//素材收集于网络，侵删私DM我🤒//接受投稿，投稿请私信//各位在X玩的开心！",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2069052806779043991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7686,
+          "following_count": 552,
+          "like_count": 19914,
+          "listed_count": 17,
+          "media_count": 2584,
+          "tweet_count": 6094
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

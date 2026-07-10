@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2065278310184337859",
+    "created_at": "2026-06-12T12:59:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T13:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065418590933901621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2058337521323679744",
+          "start": 0,
+          "username": "HiHibgxm5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065418590933901621",
+    "in_reply_to_user_id": "2058337521323679744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065390738230452339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HiHibgxm5 谢谢谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2065278310184337859",
+        "created_at": "2026-06-12T12:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065418590933901621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2058337521323679744",
+              "start": 0,
+              "username": "HiHibgxm5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065418590933901621",
+        "in_reply_to_user_id": "2058337521323679744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065390738230452339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiHibgxm5 谢谢谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058337521323679744",
+        "conversation_id": "2065278310184337859",
+        "created_at": "2026-06-12T11:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065390738230452339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065390738230452339",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065278310184337859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 酷呆了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 448,
+          "like_count": 4553,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 790
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T00:01:57.000Z",
+        "description": "回归",
+        "id": "2058337521323679744",
+        "location": "0.1km",
+        "name": "Hi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062552434283855872/w6uMXfua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 24,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 14
+        },
+        "username": "HiHibgxm5",
+        "verified": false
+      }
+    ]
+  }
+}

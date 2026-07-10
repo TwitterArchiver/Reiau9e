@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055276876810362880"
+      ]
+    },
+    "author_id": "2055263152238198784",
+    "conversation_id": "2055276884561441114",
+    "created_at": "2026-05-15T13:19:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T14:19:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055276884561441114"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AD7ViNHVwN",
+          "end": 29,
+          "expanded_url": "https://x.com/Reiau9e/status/2055276884561441114/photo/1",
+          "media_key": "3_2055276876810362880",
+          "start": 6,
+          "url": "https://t.co/AD7ViNHVwN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055276884561441114",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "とりあえず https://t.co/AD7ViNHVwN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055276876810362880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXPbh1bIAAnf8q.jpg",
+        "width": 1148
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055276876810362880"
+          ]
+        },
+        "author_id": "2055263152238198784",
+        "conversation_id": "2055276884561441114",
+        "created_at": "2026-05-15T13:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055276884561441114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AD7ViNHVwN",
+              "end": 29,
+              "expanded_url": "https://x.com/Reiau9e/status/2055276884561441114/photo/1",
+              "media_key": "3_2055276876810362880",
+              "start": 6,
+              "url": "https://t.co/AD7ViNHVwN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055276884561441114",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "とりあえず https://t.co/AD7ViNHVwN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "",
+        "id": "2055263152238198784",
+        "name": "Rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055263390164189184/nTGhf_fr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "Reiau9e",
+        "verified": false
+      }
+    ]
+  }
+}

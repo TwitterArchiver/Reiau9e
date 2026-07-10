@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2073614563577356607",
+    "created_at": "2026-07-06T04:08:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T05:08:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073982460187291930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1259160567954108417",
+          "start": 0,
+          "username": "1bkowo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073982460187291930",
+    "in_reply_to_user_id": "1259160567954108417",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073829207596290216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1bkowo 你也好看！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2073614563577356607",
+        "created_at": "2026-07-06T04:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073982460187291930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1259160567954108417",
+              "start": 0,
+              "username": "1bkowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073982460187291930",
+        "in_reply_to_user_id": "1259160567954108417",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073829207596290216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1bkowo 你也好看！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1259160567954108417",
+        "conversation_id": "2073614563577356607",
+        "created_at": "2026-07-05T17:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073829207596290216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073829207596290216",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073614563577356607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 好好看😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 717,
+          "like_count": 7407,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-09T16:37:35.000Z",
+        "description": "某160cm，52kg的拟态哥布林，会伪装成自己的理想型",
+        "id": "1259160567954108417",
+        "name": "睡不醒的困困狐",
+        "pinned_tweet_id": "2058639637892219235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012813858977505280/mn9Cc52G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5189,
+          "following_count": 782,
+          "like_count": 168,
+          "listed_count": 28,
+          "media_count": 469,
+          "tweet_count": 2123
+        },
+        "url": "",
+        "username": "1bkowo",
+        "verified": false
+      }
+    ]
+  }
+}

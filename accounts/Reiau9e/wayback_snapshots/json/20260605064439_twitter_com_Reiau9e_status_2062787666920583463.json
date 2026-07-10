@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2062743551549788331",
+    "created_at": "2026-06-05T06:44:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T07:44:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062787666920583463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1998797824125992960",
+          "start": 0,
+          "username": "yucvein"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062787666920583463",
+    "in_reply_to_user_id": "1998797824125992960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062764935722213849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yucvein 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2062743551549788331",
+        "created_at": "2026-06-05T06:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T07:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062787666920583463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1998797824125992960",
+              "start": 0,
+              "username": "yucvein"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062787666920583463",
+        "in_reply_to_user_id": "1998797824125992960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062764935722213849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yucvein 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998797824125992960",
+        "conversation_id": "2062743551549788331",
+        "created_at": "2026-06-05T05:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062764935722213849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062764935722213849",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062743551549788331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 很萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 304,
+          "like_count": 2010,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 290
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T16:52:00.000Z",
+        "description": "이 선을 넘지 못한 나를 사랑해줘",
+        "id": "1998797824125992960",
+        "location": "Sham Shui Po District",
+        "name": "Hspringgg",
+        "pinned_tweet_id": "2062505837160173785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062579425192144896/kNvOso_D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 15,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 20
+        },
+        "username": "yucvein",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2063491722873819168",
+    "created_at": "2026-06-07T09:45:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T10:45:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063557842301596156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1881351051988934656",
+          "start": 0,
+          "username": "wowyouzhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063557842301596156",
+    "in_reply_to_user_id": "1881351051988934656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063554450187501963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wowyouzhi 你复活不过我你信不信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2063491722873819168",
+        "created_at": "2026-06-07T09:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063557842301596156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1881351051988934656",
+              "start": 0,
+              "username": "wowyouzhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063557842301596156",
+        "in_reply_to_user_id": "1881351051988934656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063554450187501963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wowyouzhi 你复活不过我你信不信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881351051988934656",
+        "conversation_id": "2063491722873819168",
+        "created_at": "2026-06-07T09:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063554450187501963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063554450187501963",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063491722873819168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 张雪峰老师我还记得你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 371,
+          "like_count": 2979,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 489
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T14:40:38.000Z",
+        "description": "哎哟我就是个乐子餐券逼除了犯病就是导管子你让让我。喜欢直fo",
+        "id": "1881351051988934656",
+        "name": "与诗。 月",
+        "pinned_tweet_id": "2059998950590202264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015855876062814208/oFfueUcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 74,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 184
+        },
+        "username": "wowyouzhi",
+        "verified": false
+      }
+    ]
+  }
+}

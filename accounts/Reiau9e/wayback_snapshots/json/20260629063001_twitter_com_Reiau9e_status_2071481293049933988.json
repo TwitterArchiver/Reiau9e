@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2071478308668334194",
+    "created_at": "2026-06-29T06:30:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T07:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071481293049933988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2024584670365831169",
+          "start": 0,
+          "username": "luftwaffelive"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071481293049933988",
+    "in_reply_to_user_id": "2024584670365831169",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071478308668334194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luftwaffelive 米米米"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071478273155170304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9eg6dagAApto4.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2071478308668334194",
+        "created_at": "2026-06-29T06:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071481293049933988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2024584670365831169",
+              "start": 0,
+              "username": "luftwaffelive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071481293049933988",
+        "in_reply_to_user_id": "2024584670365831169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071478308668334194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luftwaffelive 米米米"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071478273155170304"
+          ]
+        },
+        "author_id": "2024584670365831169",
+        "conversation_id": "2071478308668334194",
+        "created_at": "2026-06-29T06:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071478308668334194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lSvUikd3OV",
+              "end": 32,
+              "expanded_url": "https://x.com/luftwaffelive/status/2071478308668334194/photo/1",
+              "media_key": "3_2071478273155170304",
+              "start": 9,
+              "url": "https://t.co/lSvUikd3OV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071478308668334194",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最春雨女大的一集 https://t.co/lSvUikd3OV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 688,
+          "like_count": 6783,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 1334
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-19T20:39:50.000Z",
+        "description": "我是xwx｜精神不正常\n🚪58｜88",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bzd83462",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bzd83462",
+                "start": 0,
+                "url": "https://t.co/w4TurCgXJT"
+              }
+            ]
+          }
+        },
+        "id": "2024584670365831169",
+        "location": "notfound",
+        "name": "豆包我全家死了",
+        "pinned_tweet_id": "2066523058886816194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066887505987919873/UdxmXiro_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 154,
+          "like_count": 677,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 143
+        },
+        "url": "https://t.co/w4TurCgXJT",
+        "username": "luftwaffelive",
+        "verified": false
+      }
+    ]
+  }
+}

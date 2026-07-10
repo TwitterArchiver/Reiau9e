@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2065363458695287202",
+    "created_at": "2026-06-12T12:57:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T13:57:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065418147407278386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1680367973884735488",
+          "start": 0,
+          "username": "imgyeong8077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065418147407278386",
+    "in_reply_to_user_id": "1680367973884735488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065408767219650778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imgyeong8077 啊啊啊你也是可爱的很呐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2065363458695287202",
+        "created_at": "2026-06-12T12:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065418147407278386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1680367973884735488",
+              "start": 0,
+              "username": "imgyeong8077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065418147407278386",
+        "in_reply_to_user_id": "1680367973884735488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065408767219650778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imgyeong8077 啊啊啊你也是可爱的很呐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680367973884735488",
+        "conversation_id": "2065363458695287202",
+        "created_at": "2026-06-12T12:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065408767219650778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065408767219650778",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065363458695287202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 小猫一样的rei"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 448,
+          "like_count": 4549,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 785
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T00:05:29.000Z",
+        "description": "小璟/6P97｜08｜双性恋｜我🔪🚬🍺💊LGBTQ+友好 \n喜欢体验新鲜事物 什么都往这里扔\n查看主页喜欢你就我就fo你 乖宝宝们请和我互fo^o^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%92%9F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%92%9F%E7%92%9F%E7%92%9F%E7%92%9F%E7%92%9F%E7%92%9F0.o",
+                "start": 0,
+                "url": "https://t.co/KSf6miGkl9"
+              }
+            ]
+          }
+        },
+        "id": "1680367973884735488",
+        "name": "璟璟璟璟璟璟0.o",
+        "pinned_tweet_id": "2040823390152651093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043407189533237248/1sRY0hb__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 162,
+          "like_count": 1488,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1090
+        },
+        "url": "https://t.co/KSf6miGkl9",
+        "username": "imgyeong8077",
+        "verified": false
+      }
+    ]
+  }
+}

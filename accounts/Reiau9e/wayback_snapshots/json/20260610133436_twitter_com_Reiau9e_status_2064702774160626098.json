@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2064674246916522020",
+    "created_at": "2026-06-10T13:34:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T14:34:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064702774160626098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1958882542595239936",
+          "start": 0,
+          "username": "hishdi434564"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064702774160626098",
+    "in_reply_to_user_id": "1958882542595239936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064674246916522020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hishdi434564 短发米啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2064674246916522020",
+        "created_at": "2026-06-10T13:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064702774160626098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1958882542595239936",
+              "start": 0,
+              "username": "hishdi434564"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064702774160626098",
+        "in_reply_to_user_id": "1958882542595239936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064674246916522020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hishdi434564 短发米啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958882542595239936",
+        "conversation_id": "2064674246916522020",
+        "created_at": "2026-06-10T11:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064674246916522020"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064674246916522020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要不要接个长发 俺短发好看还是长发呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 411,
+          "like_count": 4174,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 691
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-22T13:22:56.000Z",
+        "description": "记录我的生活 常用ins 这里发一点碎碎念",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yizhiyi691?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/yizhiyi691?igsh=dXJzdDVtN3NqejBj&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/uXPf19hmos"
+              }
+            ]
+          }
+        },
+        "id": "1958882542595239936",
+        "location": "0.2km",
+        "name": "·Yi Yi·",
+        "pinned_tweet_id": "2062403045959623095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056662840241704960/HNWKx_Tt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 30,
+          "like_count": 792,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 43
+        },
+        "url": "https://t.co/uXPf19hmos",
+        "username": "hishdi434564",
+        "verified": false
+      }
+    ]
+  }
+}

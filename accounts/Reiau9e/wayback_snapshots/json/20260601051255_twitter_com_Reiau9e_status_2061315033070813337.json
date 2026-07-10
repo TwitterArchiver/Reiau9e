@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2061314477346406828",
+    "created_at": "2026-06-01T05:12:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T06:12:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061315033070813337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1765499644103266304",
+          "start": 0,
+          "username": "ccche19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061315033070813337",
+    "in_reply_to_user_id": "1765499644103266304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061314477346406828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccche19 教堂tv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2061314406076780544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtCh_CaEAA5wrQ.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2061314477346406828",
+        "created_at": "2026-06-01T05:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061315033070813337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1765499644103266304",
+              "start": 0,
+              "username": "ccche19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061315033070813337",
+        "in_reply_to_user_id": "1765499644103266304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061314477346406828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccche19 教堂tv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061314406076780544"
+          ]
+        },
+        "author_id": "1765499644103266304",
+        "conversation_id": "2061314477346406828",
+        "created_at": "2026-06-01T05:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061314477346406828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fa1iJgWj1Q",
+              "end": 62,
+              "expanded_url": "https://x.com/ccche19/status/2061314477346406828/photo/1",
+              "media_key": "3_2061314406076780544",
+              "start": 39,
+              "url": "https://t.co/fa1iJgWj1Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061314477346406828",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一天如果我健身成功了我第一件事就是忘本。第二件事就是把好看的小男孩当杯子。 https://t.co/fa1iJgWj1Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060665749082095616/_fzCAkVQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 154,
+          "like_count": 818,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 79
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-06T22:08:22.000Z",
+        "description": "当pyq发。私信会回 感化全世界 直的。女的\n大学已染上瓦罗兰特 打亚服。东京/香港节点\n不接受任何建议意见\n不是人机是真人 没回复要么是没看见要么是在实验",
+        "id": "1765499644103266304",
+        "location": "正太的小裤裤里",
+        "name": "星星叫che",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034659864555954176/1STy-YpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 80,
+          "like_count": 1797,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 234
+        },
+        "username": "ccche19",
+        "verified": false
+      }
+    ]
+  }
+}

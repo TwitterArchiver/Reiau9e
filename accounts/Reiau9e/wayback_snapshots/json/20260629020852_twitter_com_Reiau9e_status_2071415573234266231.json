@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2071411832775184707",
+    "created_at": "2026-06-29T02:08:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T03:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071415573234266231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1865480322978349056",
+          "start": 0,
+          "username": "CharaG51669"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071415573234266231",
+    "in_reply_to_user_id": "1865480322978349056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071411832775184707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CharaG51669 早早早"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071411829201580032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL8iFXcaMAAi8qe.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2199,
+        "media_key": "3_2071411829331693568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL8iFX7bkAA6HAK.jpg",
+        "width": 1260
+      },
+      {
+        "height": 528,
+        "media_key": "3_2071411828517904384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL8iFU5aIAAV1bf.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2071411832775184707",
+        "created_at": "2026-06-29T02:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T03:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071415573234266231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1865480322978349056",
+              "start": 0,
+              "username": "CharaG51669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071415573234266231",
+        "in_reply_to_user_id": "1865480322978349056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071411832775184707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CharaG51669 早早早"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071411829201580032",
+            "3_2071411829331693568",
+            "3_2071411828517904384"
+          ]
+        },
+        "author_id": "1865480322978349056",
+        "conversation_id": "2071411832775184707",
+        "created_at": "2026-06-29T01:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T02:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071411832775184707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N8OVx9egcD",
+              "end": 33,
+              "expanded_url": "https://x.com/CharaG51669/status/2071411832775184707/photo/1",
+              "media_key": "3_2071411829201580032",
+              "start": 10,
+              "url": "https://t.co/N8OVx9egcD"
+            },
+            {
+              "display_url": "pic.x.com/N8OVx9egcD",
+              "end": 33,
+              "expanded_url": "https://x.com/CharaG51669/status/2071411832775184707/photo/1",
+              "media_key": "3_2071411829331693568",
+              "start": 10,
+              "url": "https://t.co/N8OVx9egcD"
+            },
+            {
+              "display_url": "pic.x.com/N8OVx9egcD",
+              "end": 33,
+              "expanded_url": "https://x.com/CharaG51669/status/2071411832775184707/photo/1",
+              "media_key": "3_2071411828517904384",
+              "start": 10,
+              "url": "https://t.co/N8OVx9egcD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071411832775184707",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我睡醒了！！！！！ https://t.co/N8OVx9egcD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 685,
+          "like_count": 6726,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1334
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T19:36:09.000Z",
+        "description": "06/INFP/抑郁/焦虑 /有老公/od/割手/抽烟/互fo请私信💖/欢迎私信/叫我小侑就好/现居深圳，欢迎小萌物们找我玩！\n提问箱：https://t.co/2km1uF0lIH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/onoderayuu",
+                "end": 91,
+                "expanded_url": "https://ngl.link/onoderayuu",
+                "start": 68,
+                "url": "https://t.co/2km1uF0lIH"
+              }
+            ]
+          }
+        },
+        "id": "1865480322978349056",
+        "name": "OnoderaYuu（侑）",
+        "pinned_tweet_id": "2070781014423769469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865662167120564224/GiHXnwwq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 215,
+          "like_count": 964,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 525
+        },
+        "url": "",
+        "username": "CharaG51669",
+        "verified": false
+      }
+    ]
+  }
+}

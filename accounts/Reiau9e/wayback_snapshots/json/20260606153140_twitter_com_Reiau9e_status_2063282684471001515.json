@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2063281700982165779",
+    "created_at": "2026-06-06T15:31:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T16:31:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063282684471001515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1948883734062923778",
+          "start": 0,
+          "username": "msro_ovo1119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063282684471001515",
+    "in_reply_to_user_id": "1948883734062923778",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063281700982165779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@msro_ovo1119 脏话bot"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 467,
+        "media_key": "3_2063281685970710528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKI_wvvacAAPckV.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2063281700982165779",
+        "created_at": "2026-06-06T15:31:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063282684471001515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948883734062923778",
+              "start": 0,
+              "username": "msro_ovo1119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063282684471001515",
+        "in_reply_to_user_id": "1948883734062923778",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063281700982165779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@msro_ovo1119 脏话bot"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063281685970710528"
+          ]
+        },
+        "author_id": "1948883734062923778",
+        "conversation_id": "2063281700982165779",
+        "created_at": "2026-06-06T15:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063281700982165779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ShjNsQLh5A",
+              "end": 28,
+              "expanded_url": "https://x.com/msro_ovo1119/status/2063281700982165779/photo/1",
+              "media_key": "3_2063281685970710528",
+              "start": 5,
+              "url": "https://t.co/ShjNsQLh5A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063281700982165779",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我笑死了 https://t.co/ShjNsQLh5A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 339,
+          "like_count": 2562,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 385
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T23:11:19.000Z",
+        "description": "我什么都不知道我好单纯",
+        "id": "1948883734062923778",
+        "location": "Hong Kong",
+        "name": "nsrm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058090504026562560/GU23yzLc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 19,
+          "like_count": 1592,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 643
+        },
+        "username": "msro_ovo1119",
+        "verified": false
+      }
+    ]
+  }
+}

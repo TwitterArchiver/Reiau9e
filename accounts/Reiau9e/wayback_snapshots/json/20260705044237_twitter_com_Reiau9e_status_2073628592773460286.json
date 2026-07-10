@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2073614563577356607",
+    "created_at": "2026-07-05T04:42:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T05:42:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073628592773460286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1760839403642212352",
+          "start": 0,
+          "username": "jjj195118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073628592773460286",
+    "in_reply_to_user_id": "1760839403642212352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073616602164232681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jjj195118 这还能吃的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2073614563577356607",
+        "created_at": "2026-07-05T04:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073628592773460286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1760839403642212352",
+              "start": 0,
+              "username": "jjj195118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073628592773460286",
+        "in_reply_to_user_id": "1760839403642212352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073616602164232681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jjj195118 这还能吃的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760839403642212352",
+        "conversation_id": "2073614563577356607",
+        "created_at": "2026-07-05T03:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T04:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073616602164232681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073616602164232681",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073614563577356607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 你头发颜色好好看，我好想吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 719,
+          "like_count": 7355,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T01:30:15.000Z",
+        "description": "",
+        "id": "1760839403642212352",
+        "name": "jjj",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028468729533677568/M5cknrjo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 382,
+          "like_count": 654,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 1093
+        },
+        "url": "",
+        "username": "jjj195118",
+        "verified": false
+      }
+    ]
+  }
+}

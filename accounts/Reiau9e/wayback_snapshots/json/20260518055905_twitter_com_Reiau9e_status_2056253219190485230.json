@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056253212982964224"
+      ]
+    },
+    "author_id": "2055263152238198784",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2056253219190485230",
+    "created_at": "2026-05-18T05:59:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T06:59:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056253219190485230"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9h0SLuKX3E",
+          "end": 26,
+          "expanded_url": "https://x.com/Reiau9e/status/2056253219190485230/photo/1",
+          "media_key": "3_2056253212982964224",
+          "start": 3,
+          "url": "https://t.co/9h0SLuKX3E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056253219190485230",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "微妙 https://t.co/9h0SLuKX3E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2056253212982964224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlHZxga8AAa3T4.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056253212982964224"
+          ]
+        },
+        "author_id": "2055263152238198784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2056253219190485230",
+        "created_at": "2026-05-18T05:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T06:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056253219190485230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9h0SLuKX3E",
+              "end": 26,
+              "expanded_url": "https://x.com/Reiau9e/status/2056253219190485230/photo/1",
+              "media_key": "3_2056253212982964224",
+              "start": 3,
+              "url": "https://t.co/9h0SLuKX3E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056253219190485230",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "微妙 https://t.co/9h0SLuKX3E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "男",
+        "id": "2055263152238198784",
+        "name": "れい",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055315349785210880/uGKKgWct_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 8,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 8
+        },
+        "username": "Reiau9e",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2062383627288314131",
+    "created_at": "2026-06-05T10:49:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T11:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062849269103730777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1522820105108791296",
+          "start": 0,
+          "username": "dx3616159975"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062849269103730777",
+    "in_reply_to_user_id": "1522820105108791296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062815050264670472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dx3616159975 真的！俺现在都在找健康餐吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2062383627288314131",
+        "created_at": "2026-06-05T10:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062849269103730777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1522820105108791296",
+              "start": 0,
+              "username": "dx3616159975"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062849269103730777",
+        "in_reply_to_user_id": "1522820105108791296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062815050264670472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dx3616159975 真的！俺现在都在找健康餐吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522820105108791296",
+        "conversation_id": "2062383627288314131",
+        "created_at": "2026-06-05T08:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062815050264670472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062815050264670472",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062383627288314131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 我也是，吃米面容易麸质上瘾，所以平常干脆不吃，偶尔吃一些粗粮。之前从来没意识到，蛋白质吃的也不够，营养太单一了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 306,
+          "like_count": 2067,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 303
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-07T06:06:31.000Z",
+        "description": "这个人很懒，什么都没有留下……",
+        "id": "1522820105108791296",
+        "name": "爱吃辣条有点烧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1522820423376728065/8bieLmAj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 71,
+          "like_count": 758,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 212
+        },
+        "username": "dx3616159975",
+        "verified": false
+      }
+    ]
+  }
+}

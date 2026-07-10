@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072278517916798976"
+      ]
+    },
+    "author_id": "2055263152238198784",
+    "conversation_id": "2072278522224374050",
+    "created_at": "2026-07-01T11:17:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T12:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072278522224374050"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/95S2Dvm35M",
+          "end": 29,
+          "expanded_url": "https://x.com/Reiau9e/status/2072278522224374050/photo/1",
+          "media_key": "3_2072278517916798976",
+          "start": 6,
+          "url": "https://t.co/95S2Dvm35M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072278522224374050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "燕云好玩吗 https://t.co/95S2Dvm35M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 564,
+        "media_key": "3_2072278517916798976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMI2VSgakAAyTj6.jpg",
+        "width": 568
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072278517916798976"
+          ]
+        },
+        "author_id": "2055263152238198784",
+        "conversation_id": "2072278522224374050",
+        "created_at": "2026-07-01T11:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T12:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072278522224374050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/95S2Dvm35M",
+              "end": 29,
+              "expanded_url": "https://x.com/Reiau9e/status/2072278522224374050/photo/1",
+              "media_key": "3_2072278517916798976",
+              "start": 6,
+              "url": "https://t.co/95S2Dvm35M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072278522224374050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "燕云好玩吗 https://t.co/95S2Dvm35M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 709,
+          "like_count": 7080,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1415
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      }
+    ]
+  }
+}

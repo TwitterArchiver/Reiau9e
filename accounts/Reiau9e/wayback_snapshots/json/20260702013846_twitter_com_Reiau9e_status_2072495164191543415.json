@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2072421566823195068",
+    "created_at": "2026-07-02T01:38:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T02:38:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072495164191543415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1860970079246303232",
+          "start": 0,
+          "username": "1ju3twant2die"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072495164191543415",
+    "in_reply_to_user_id": "1860970079246303232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072421566823195068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1ju3twant2die 帅的很呐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2072421557163757569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMK4bRObkAE1BV_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2072421566823195068",
+        "created_at": "2026-07-02T01:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T02:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072495164191543415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1860970079246303232",
+              "start": 0,
+              "username": "1ju3twant2die"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072495164191543415",
+        "in_reply_to_user_id": "1860970079246303232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072421566823195068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1ju3twant2die 帅的很呐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072421557163757569"
+          ]
+        },
+        "author_id": "1860970079246303232",
+        "conversation_id": "2072421566823195068",
+        "created_at": "2026-07-01T20:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T21:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072421566823195068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tZlvKb3N0c",
+              "end": 26,
+              "expanded_url": "https://x.com/1ju3twant2die/status/2072421566823195068/photo/1",
+              "media_key": "3_2072421557163757569",
+              "start": 3,
+              "url": "https://t.co/tZlvKb3N0c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072421566823195068",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "^^ https://t.co/tZlvKb3N0c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 712,
+          "like_count": 7157,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1426
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-25T08:53:51.000Z",
+        "description": "Post-structuralism｜Anarcho-monarchism｜Psychoanalysis｜Drug｜ Low-Functioning Antisocial Personality Disorder｜Satanism",
+        "id": "1860970079246303232",
+        "name": "RichardRamirezi ⛧",
+        "pinned_tweet_id": "2068266238124638455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068995882398384128/lpqLs0_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 116,
+          "like_count": 502,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 444
+        },
+        "url": "",
+        "username": "1ju3twant2die",
+        "verified": false
+      }
+    ]
+  }
+}

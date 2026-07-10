@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2061253495613972780",
+    "created_at": "2026-06-01T01:08:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T02:08:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061253495613972780"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061253495613972780",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "西格弗雷德骑在马上，神采奕奕，威风八面，巴德标枪刀面宽阔，枪杆坚硬。他那把精良的宝剑直垂在马蹄刺旁，还有那只赤金的号角，他一直带在身边。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2061253495613972780",
+        "created_at": "2026-06-01T01:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T02:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061253495613972780"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061253495613972780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "西格弗雷德骑在马上，神采奕奕，威风八面，巴德标枪刀面宽阔，枪杆坚硬。他那把精良的宝剑直垂在马蹄刺旁，还有那只赤金的号角，他一直带在身边。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060665749082095616/_fzCAkVQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 139,
+          "like_count": 696,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 51
+        },
+        "username": "Reiau9e",
+        "verified": false
+      }
+    ]
+  }
+}

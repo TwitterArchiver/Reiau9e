@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2071144412722213185",
+    "created_at": "2026-06-28T08:11:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T09:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071144412722213185"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071144412722213185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前认识一个人就是，反黑恐同，相信黑人就是懒，不懒也别挨着，同性恋不是下三滥的话能被排斥？之类的还挺吓人的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2071144412722213185",
+        "created_at": "2026-06-28T08:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071144412722213185"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071144412722213185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前认识一个人就是，反黑恐同，相信黑人就是懒，不懒也别挨着，同性恋不是下三滥的话能被排斥？之类的还挺吓人的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 677,
+          "like_count": 6604,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1300
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      }
+    ]
+  }
+}

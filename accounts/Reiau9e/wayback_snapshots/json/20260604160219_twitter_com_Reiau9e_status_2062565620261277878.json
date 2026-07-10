@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2062499385913799147",
+    "created_at": "2026-06-04T16:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062565620261277878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1753390168034414592",
+          "start": 0,
+          "username": "FatCatYKW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062565620261277878",
+    "in_reply_to_user_id": "1753390168034414592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062529083347779828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FatCatYKW 你也萌！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2062499385913799147",
+        "created_at": "2026-06-04T16:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062565620261277878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1753390168034414592",
+              "start": 0,
+              "username": "FatCatYKW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062565620261277878",
+        "in_reply_to_user_id": "1753390168034414592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062529083347779828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FatCatYKW 你也萌！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753390168034414592",
+        "conversation_id": "2062499385913799147",
+        "created_at": "2026-06-04T13:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062529083347779828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062529083347779828",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062499385913799147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 萌萌的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 300,
+          "like_count": 1914,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 262
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T12:09:35.000Z",
+        "description": "iiii",
+        "id": "1753390168034414592",
+        "location": "BeiJing,ZhengZhou,Toronto",
+        "name": "楓漿",
+        "pinned_tweet_id": "2034230120136015975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909525291489513472/2aLNAD3f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 411,
+          "like_count": 563,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 366
+        },
+        "username": "FatCatYKW",
+        "verified": false
+      }
+    ]
+  }
+}

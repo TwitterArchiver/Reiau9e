@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2071476600525443556",
+    "created_at": "2026-06-29T06:11:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T07:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071476600525443556"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071476600525443556",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "说起来苯人已经还做过城管兼职啊，确实给我对这个警哥的神秘形象怯魅了，发现这群人也是普通人，甚至有点像二流子，路过这个小商贩都是随手抓一大把也不给钱啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2071476600525443556",
+        "created_at": "2026-06-29T06:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071476600525443556"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071476600525443556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说起来苯人已经还做过城管兼职啊，确实给我对这个警哥的神秘形象怯魅了，发现这群人也是普通人，甚至有点像二流子，路过这个小商贩都是随手抓一大把也不给钱啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 688,
+          "like_count": 6780,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 1332
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2060673505331659064",
+    "created_at": "2026-05-30T10:43:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T11:43:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060673507982540947"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060673507982540947",
+    "in_reply_to_user_id": "2055263152238198784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060673505331659064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "或者，连这种主观的经济交换都不需要，因为交互性没有意义），对他者的不可能性的爱，最终导向了真正的自爱（他们决心将自己保证为爱者），人们自爱，但他们却又相爱，这种在形式逻辑看来是悖论，但却又实际发生的事情足够揭示奇迹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2060673505331659064",
+        "created_at": "2026-05-30T10:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060673507982540947"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060673507982540947",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060673505331659064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "或者，连这种主观的经济交换都不需要，因为交互性没有意义），对他者的不可能性的爱，最终导向了真正的自爱（他们决心将自己保证为爱者），人们自爱，但他们却又相爱，这种在形式逻辑看来是悖论，但却又实际发生的事情足够揭示奇迹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2060673505331659064",
+        "created_at": "2026-05-30T10:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060673505331659064"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060673505331659064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人们在年轻的时候总是知道怎样爱一个人的，人们无论如何的夸赞对方，但却始终只能表达自己的爱意，从来不能真正的论述对方，在这种情况下，一种非经济交互性的交互就神奇的发生了（对方是否做的比我更多，这一判断出自于我，也就是说，如果我爱这人，我永远会觉得对方做的太多，而自己做的太少，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060665749082095616/_fzCAkVQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 16,
+          "like_count": 327,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 8
+        },
+        "username": "Reiau9e",
+        "verified": false
+      }
+    ]
+  }
+}

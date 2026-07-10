@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2071489020178137315",
+    "created_at": "2026-06-29T11:37:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T12:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071558568353092088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1725683921763905536",
+          "start": 0,
+          "username": "luonbe69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071558568353092088",
+    "in_reply_to_user_id": "1725683921763905536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071535080628187554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luonbe69 你也很米！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2071489020178137315",
+        "created_at": "2026-06-29T11:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T12:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071558568353092088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1725683921763905536",
+              "start": 0,
+              "username": "luonbe69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071558568353092088",
+        "in_reply_to_user_id": "1725683921763905536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071535080628187554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luonbe69 你也很米！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725683921763905536",
+        "conversation_id": "2071489020178137315",
+        "created_at": "2026-06-29T10:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T11:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071535080628187554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071535080628187554",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071489020178137315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 好美"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 689,
+          "like_count": 6779,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 1343
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T01:14:59.000Z",
+        "description": "鸦 电子羊 寂寞 世界 空心 呢喃 命运 废死 流浪 列车 白梦 闪烁 凝视 傲慢 节制 内脏 终焉 彷徨 憎恶 白躁 黄铜 血 糜烂 负荷 荒芜 哽咽 徘徊 雨",
+        "id": "1725683921763905536",
+        "location": "比邻星",
+        "name": "crow",
+        "pinned_tweet_id": "2071090094463971549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070895999510609920/rsztIfMu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3550,
+          "following_count": 6622,
+          "like_count": 49184,
+          "listed_count": 8,
+          "media_count": 926,
+          "tweet_count": 20888
+        },
+        "url": "",
+        "username": "luonbe69",
+        "verified": false
+      }
+    ]
+  }
+}

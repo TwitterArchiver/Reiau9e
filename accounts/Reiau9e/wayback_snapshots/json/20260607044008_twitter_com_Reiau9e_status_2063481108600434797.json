@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2063481108600434797",
+    "created_at": "2026-06-07T04:40:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T05:40:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063481108600434797"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Reiau9e/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Reiau9e/status/2063166800419000807",
+          "start": 6,
+          "url": "https://t.co/zj3Mr1eoA7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063481108600434797",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063166800419000807",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还是得脱毛 https://t.co/zj3Mr1eoA7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2063481108600434797",
+        "created_at": "2026-06-07T04:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063481108600434797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Reiau9e/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Reiau9e/status/2063166800419000807",
+              "start": 6,
+              "url": "https://t.co/zj3Mr1eoA7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063481108600434797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063166800419000807",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还是得脱毛 https://t.co/zj3Mr1eoA7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2063166800419000807",
+        "created_at": "2026-06-06T07:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T08:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063166800419000807"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063166800419000807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 414,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买了七分裤但感觉不管怎么搭都像nerd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 351,
+          "like_count": 2717,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 445
+        },
+        "username": "Reiau9e",
+        "verified": false
+      }
+    ]
+  }
+}

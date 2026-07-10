@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2064555128242520561",
+    "created_at": "2026-06-10T03:47:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T04:47:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064555128242520561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1228350726981574656",
+          "start": 3,
+          "username": "baibaishuishui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064555128242520561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064366813438415115",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baibaishuishui: 那些不地域黑的 我只想说你没有遇到你的命定省份之人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2064555128242520561",
+        "created_at": "2026-06-10T03:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064555128242520561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1228350726981574656",
+              "start": 3,
+              "username": "baibaishuishui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064555128242520561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064366813438415115",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baibaishuishui: 那些不地域黑的 我只想说你没有遇到你的命定省份之人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1228350726981574656",
+        "conversation_id": "2064366813438415115",
+        "created_at": "2026-06-09T15:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064366813438415115"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064366813438415115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 724,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "那些不地域黑的 我只想说你没有遇到你的命定省份之人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 394,
+          "like_count": 3832,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 648
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-14T16:10:28.000Z",
+        "description": "每个今天，都是我能爱你的最后一天。\n🎺@iamlinquan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "iamlinquan"
+              }
+            ]
+          }
+        },
+        "id": "1228350726981574656",
+        "name": "泉、",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999347434498170880/utw-FjM__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1263,
+          "following_count": 1047,
+          "like_count": 27949,
+          "listed_count": 4,
+          "media_count": 696,
+          "tweet_count": 10447
+        },
+        "username": "baibaishuishui",
+        "verified": false
+      }
+    ]
+  }
+}

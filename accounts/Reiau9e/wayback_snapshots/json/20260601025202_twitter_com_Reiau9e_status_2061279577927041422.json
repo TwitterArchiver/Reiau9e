@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2061279563720916992"
+      ]
+    },
+    "author_id": "2055263152238198784",
+    "conversation_id": "2061279577927041422",
+    "created_at": "2026-06-01T02:52:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T03:52:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061279577927041422"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RLJH4vWPns",
+          "end": 46,
+          "expanded_url": "https://x.com/Reiau9e/status/2061279577927041422/video/1",
+          "media_key": "13_2061279563720916992",
+          "start": 23,
+          "url": "https://t.co/RLJH4vWPns"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061279577927041422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我装忧郁就这样，但我抽了两年烟完全没染上烟瘾 https://t.co/RLJH4vWPns"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8631,
+        "height": 1154,
+        "media_key": "13_2061279563720916992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2061279563720916992/img/vXwVJeA24v1ecP3I.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061279563720916992/vid/avc1/320x512/4Cl6MmSVQFATvECQ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061279563720916992/vid/avc1/480x768/wse-s6kNoGxdldLF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061279563720916992/vid/avc1/720x1154/Ss4uNvKw3wldCvFP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2061279563720916992/pl/X0PNDfwOhxGxjSQy.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061279563720916992"
+          ]
+        },
+        "author_id": "2055263152238198784",
+        "conversation_id": "2061279577927041422",
+        "created_at": "2026-06-01T02:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T03:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061279577927041422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RLJH4vWPns",
+              "end": 46,
+              "expanded_url": "https://x.com/Reiau9e/status/2061279577927041422/video/1",
+              "media_key": "13_2061279563720916992",
+              "start": 23,
+              "url": "https://t.co/RLJH4vWPns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061279577927041422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我装忧郁就这样，但我抽了两年烟完全没染上烟瘾 https://t.co/RLJH4vWPns"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060665749082095616/_fzCAkVQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 140,
+          "like_count": 712,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 59
+        },
+        "username": "Reiau9e",
+        "verified": false
+      }
+    ]
+  }
+}

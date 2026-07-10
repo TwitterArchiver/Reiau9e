@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2067084092391211477",
+    "created_at": "2026-06-17T03:35:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T04:35:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067088783263306167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1611238295673114625",
+          "start": 0,
+          "username": "marinashitteru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067088783263306167",
+    "in_reply_to_user_id": "1611238295673114625",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067084092391211477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@marinashitteru 萌啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7633,
+        "height": 1280,
+        "media_key": "7_2067084043003334656",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2067084043003334656/pu/img/8SLStjDVzefjtQlm.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067084043003334656/pu/vid/avc1/320x568/sRme5ycT6ZmeEMHo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067084043003334656/pu/vid/avc1/480x852/fY6NzDVEabALMHb6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067084043003334656/pu/vid/avc1/720x1280/6Q6pcH4yWUCnQAJW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2067084043003334656/pu/pl/mCLpoJKnxppg-Dom.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2067084092391211477",
+        "created_at": "2026-06-17T03:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067088783263306167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1611238295673114625",
+              "start": 0,
+              "username": "marinashitteru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067088783263306167",
+        "in_reply_to_user_id": "1611238295673114625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067084092391211477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@marinashitteru 萌啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2067084043003334656"
+          ]
+        },
+        "author_id": "1611238295673114625",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          }
+        ],
+        "conversation_id": "2067084092391211477",
+        "created_at": "2026-06-17T03:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067084092391211477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zwB2kpnbP0",
+              "end": 41,
+              "expanded_url": "https://x.com/marinashitteru/status/2067084092391211477/video/1",
+              "media_key": "7_2067084043003334656",
+              "start": 18,
+              "url": "https://t.co/zwB2kpnbP0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067084092391211477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎呀…我今天喷了一个我不喜欢的香水 https://t.co/zwB2kpnbP0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 532,
+          "like_count": 5210,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 948
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T05:48:55.000Z",
+        "description": "kk/哭哭 头像本体🦭🦭🦭🦭🦭🦭🦭🦭🦭🦭丨sh/od负能量  链接是匿名提问箱↓ 太久没发帖就是被制裁了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/8apxHZTQe3"
+              }
+            ]
+          }
+        },
+        "id": "1611238295673114625",
+        "location": "垃圾话大王海豹",
+        "name": "总而言之我哥哥非常非常好",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043321958352486400/e4Wm8MC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 275,
+          "like_count": 6814,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 4295
+        },
+        "url": "https://t.co/8apxHZTQe3",
+        "username": "marinashitteru",
+        "verified": false
+      }
+    ]
+  }
+}

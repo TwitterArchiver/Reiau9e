@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2071125745217176043",
+    "created_at": "2026-06-28T07:33:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T08:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071134884882739644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1895451612136738816",
+          "start": 0,
+          "username": "realmoekasenpai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071134884882739644",
+    "in_reply_to_user_id": "1895451612136738816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071134468010832312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realmoekasenpai 我看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2071125745217176043",
+        "created_at": "2026-06-28T07:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T08:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071134884882739644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1895451612136738816",
+              "start": 0,
+              "username": "realmoekasenpai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071134884882739644",
+        "in_reply_to_user_id": "1895451612136738816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071134468010832312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realmoekasenpai 我看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895451612136738816",
+        "conversation_id": "2071125745217176043",
+        "created_at": "2026-06-28T07:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T08:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071134468010832312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071134468010832312",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071125745217176043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 先买一个望远镜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 677,
+          "like_count": 6594,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1294
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-28T12:31:09.000Z",
+        "description": "derealization",
+        "id": "1895451612136738816",
+        "name": "龙宫仙贝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895454674729263104/FTKQMdeZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 303,
+          "like_count": 1464,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 843
+        },
+        "url": "",
+        "username": "realmoekasenpai",
+        "verified": false
+      }
+    ]
+  }
+}

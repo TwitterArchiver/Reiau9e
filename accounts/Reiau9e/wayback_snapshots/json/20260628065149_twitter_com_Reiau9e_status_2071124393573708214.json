@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2071103063721685373",
+    "created_at": "2026-06-28T06:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T07:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071124393573708214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1939159358027505664",
+          "start": 0,
+          "username": "kongkong_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071124393573708214",
+    "in_reply_to_user_id": "1939159358027505664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071123285379600552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kongkong_QAQ 也太会画！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1203,
+        "media_key": "3_2071123279872741377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4bplbbUAEG64P.jpg",
+        "width": 1203
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2071103063721685373",
+        "created_at": "2026-06-28T06:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071124393573708214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1939159358027505664",
+              "start": 0,
+              "username": "kongkong_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071124393573708214",
+        "in_reply_to_user_id": "1939159358027505664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071123285379600552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kongkong_QAQ 也太会画！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071123279872741377"
+          ]
+        },
+        "author_id": "1939159358027505664",
+        "conversation_id": "2071103063721685373",
+        "created_at": "2026-06-28T06:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071123285379600552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hXwMZHhYFN",
+              "end": 55,
+              "expanded_url": "https://x.com/kongkong_QAQ/status/2071123285379600552/photo/1",
+              "media_key": "3_2071123279872741377",
+              "start": 32,
+              "url": "https://t.co/hXwMZHhYFN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071123285379600552",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071103063721685373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 其实是裂风撼地暗影噬魂远古青木巨龙՞⩌⌯⩌՞ https://t.co/hXwMZHhYFN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 674,
+          "like_count": 6574,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1287
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T03:10:07.000Z",
+        "description": "空空…(´-ω-`)请不要注意到角落的空空！\n无🚪｜不加任何联系方式｜不聊骚不约不线下｜不出原味不接广不入会｜投喂仅是投喂，备注id空空会记住你，48h内可退｜评论私信随缘回喵",
+        "id": "1939159358027505664",
+        "name": "姓名不能为空",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054152918765633536/Dfj0TWzH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5745,
+          "following_count": 4,
+          "like_count": 263,
+          "listed_count": 38,
+          "media_count": 89,
+          "tweet_count": 692
+        },
+        "url": "",
+        "username": "kongkong_QAQ",
+        "verified": false
+      }
+    ]
+  }
+}

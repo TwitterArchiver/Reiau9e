@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2064261971634217277",
+    "created_at": "2026-06-09T08:37:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T09:37:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064265617394499922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2002421259829989376",
+          "start": 0,
+          "username": "sammy_mk520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064265617394499922",
+    "in_reply_to_user_id": "2002421259829989376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064261971634217277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sammy_mk520 卧槽看得到但是没通知"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2064261971634217277].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2064261971634217277",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2064261971634217277"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2064261971634217277",
+        "created_at": "2026-06-09T08:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064265617394499922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2002421259829989376",
+              "start": 0,
+              "username": "sammy_mk520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064265617394499922",
+        "in_reply_to_user_id": "2002421259829989376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064261971634217277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sammy_mk520 卧槽看得到但是没通知"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 385,
+          "like_count": 3502,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 606
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-20T16:50:13.000Z",
+        "description": "#edtwt #shtwt #odtwt #998twt\ndms open",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "edtwt"
+              },
+              {
+                "end": 13,
+                "start": 7,
+                "tag": "shtwt"
+              },
+              {
+                "end": 20,
+                "start": 14,
+                "tag": "odtwt"
+              },
+              {
+                "end": 28,
+                "start": 21,
+                "tag": "998twt"
+              }
+            ]
+          }
+        },
+        "id": "2002421259829989376",
+        "name": "虚线",
+        "pinned_tweet_id": "2062894427350401446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064256671409668096/_--akZSB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 8,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 75
+        },
+        "username": "sammy_mk520",
+        "verified": false
+      }
+    ]
+  }
+}

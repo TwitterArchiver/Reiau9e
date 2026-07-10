@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2063461067037311302",
+    "created_at": "2026-06-07T03:20:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T04:20:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063461067037311302"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ankushmadawar/…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/ankushmadawar/status/2063362797422227797",
+          "start": 30,
+          "url": "https://t.co/1FFw8jX6Pp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063461067037311302",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063362797422227797",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看了下红爷还有那种约会奔现视频发现大家还真不太介意凑合一点 https://t.co/1FFw8jX6Pp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2063461067037311302",
+        "created_at": "2026-06-07T03:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063461067037311302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ankushmadawar/…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/ankushmadawar/status/2063362797422227797",
+              "start": 30,
+              "url": "https://t.co/1FFw8jX6Pp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063461067037311302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063362797422227797",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看了下红爷还有那种约会奔现视频发现大家还真不太介意凑合一点 https://t.co/1FFw8jX6Pp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1335188049680994305",
+        "conversation_id": "2063362797422227797",
+        "created_at": "2026-06-06T20:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T21:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063362797422227797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063362797422227797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2866,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直想知道你们yp看颜值吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 349,
+          "like_count": 2690,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 430
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-05T11:43:53.000Z",
+        "description": "齐刘海，韩风，冷脸萌",
+        "id": "1335188049680994305",
+        "name": "书瑶",
+        "pinned_tweet_id": "2058942520466551282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058941977140584448/JaFEjLtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 19,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 48
+        },
+        "username": "AnkushMadawar",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2062378818799796729",
+    "created_at": "2026-06-04T04:43:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T05:43:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062394726226247821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2057149241840324608",
+          "start": 0,
+          "username": "qwq010021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062394726226247821",
+    "in_reply_to_user_id": "2057149241840324608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062391738246066595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwq010021 感恩！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2062378818799796729",
+        "created_at": "2026-06-04T04:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T05:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062394726226247821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2057149241840324608",
+              "start": 0,
+              "username": "qwq010021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062394726226247821",
+        "in_reply_to_user_id": "2057149241840324608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062391738246066595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwq010021 感恩！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057149241840324608",
+        "conversation_id": "2062378818799796729",
+        "created_at": "2026-06-04T04:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T05:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062391738246066595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062391738246066595",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062378818799796729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 美的我雌雄莫辨ˆㅅˆ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 280,
+          "like_count": 1637,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 233
+        },
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-20T17:20:30.000Z",
+        "description": "日记本🍜",
+        "id": "2057149241840324608",
+        "location": "沟里",
+        "name": "sin（早睡版）",
+        "pinned_tweet_id": "2061090553471938713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059936056120885248/pYzBwpsF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 22,
+          "like_count": 994,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 541
+        },
+        "username": "qwq010021",
+        "verified": false
+      }
+    ]
+  }
+}

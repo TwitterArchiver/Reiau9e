@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063518587684589568"
+      ]
+    },
+    "author_id": "2055263152238198784",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2063518595024621573",
+    "created_at": "2026-06-07T07:09:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T08:09:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063518595024621573"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1oCHUdkCHz",
+          "end": 31,
+          "expanded_url": "https://x.com/Reiau9e/status/2063518595024621573/photo/1",
+          "media_key": "3_2063518587684589568",
+          "start": 8,
+          "url": "https://t.co/1oCHUdkCHz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063518595024621573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天吃南朝鲜的 https://t.co/1oCHUdkCHz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063518587684589568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMXOPZbEAAqNG_.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063518587684589568"
+          ]
+        },
+        "author_id": "2055263152238198784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063518595024621573",
+        "created_at": "2026-06-07T07:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063518595024621573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1oCHUdkCHz",
+              "end": 31,
+              "expanded_url": "https://x.com/Reiau9e/status/2063518595024621573/photo/1",
+              "media_key": "3_2063518587684589568",
+              "start": 8,
+              "url": "https://t.co/1oCHUdkCHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063518595024621573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天吃南朝鲜的 https://t.co/1oCHUdkCHz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 363,
+          "like_count": 2865,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 479
+        },
+        "username": "Reiau9e",
+        "verified": false
+      }
+    ]
+  }
+}
