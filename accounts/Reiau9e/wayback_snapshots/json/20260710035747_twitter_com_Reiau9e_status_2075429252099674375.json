@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2075236176894767260",
+    "created_at": "2026-07-10T03:57:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T04:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075429252099674375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1792966702646669312",
+          "start": 0,
+          "username": "congcong726"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075429252099674375",
+    "in_reply_to_user_id": "1792966702646669312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075236176894767260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@congcong726 这个小韩电子烟确实好抽啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2075236176894767260",
+        "created_at": "2026-07-10T03:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075429252099674375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1792966702646669312",
+              "start": 0,
+              "username": "congcong726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075429252099674375",
+        "in_reply_to_user_id": "1792966702646669312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075236176894767260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@congcong726 这个小韩电子烟确实好抽啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792966702646669312",
+        "conversation_id": "2075236176894767260",
+        "created_at": "2026-07-09T15:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075236176894767260"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075236176894767260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小韩年轻人抽烟普及度超乎我想象了…………可能是我住在时代广场那边 反正年轻人人手一个电子烟 看得我好馋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 741,
+          "like_count": 7792,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 110
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-21T17:12:36.000Z",
+        "description": "我的另一个朋友圈\nid只是好听 和人无关",
+        "id": "1792966702646669312",
+        "location": "3.9km",
+        "name": "电子悲伤流泪小狗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021778010308063232/qelOd7gp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 137,
+          "like_count": 3052,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 795
+        },
+        "url": "",
+        "username": "congcong726",
+        "verified": false
+      }
+    ]
+  }
+}

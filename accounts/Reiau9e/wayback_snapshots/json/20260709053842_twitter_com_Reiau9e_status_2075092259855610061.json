@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2055263152238198784",
+    "conversation_id": "2074686596482576864",
+    "created_at": "2026-07-09T05:38:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T06:38:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075092259855610061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1621522274573758470",
+          "start": 0,
+          "username": "zhngyxu60742796"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075092259855610061",
+    "in_reply_to_user_id": "1621522274573758470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074911937738195222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhngyxu60742796 你也帅你也帅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055263152238198784",
+        "conversation_id": "2074686596482576864",
+        "created_at": "2026-07-09T05:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T06:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075092259855610061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1621522274573758470",
+              "start": 0,
+              "username": "zhngyxu60742796"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075092259855610061",
+        "in_reply_to_user_id": "1621522274573758470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074911937738195222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngyxu60742796 你也帅你也帅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621522274573758470",
+        "conversation_id": "2074686596482576864",
+        "created_at": "2026-07-08T17:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T18:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074911937738195222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074911937738195222",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074686596482576864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 帅啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 739,
+          "like_count": 7696,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 88
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T14:53:42.000Z",
+        "description": "请你下雨，我故意放飞的乌云。",
+        "id": "1621522274573758470",
+        "name": "啜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069805867382296576/gUZTnOBS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 50,
+          "like_count": 273,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 120
+        },
+        "url": "",
+        "username": "zhngyxu60742796",
+        "verified": false
+      }
+    ]
+  }
+}
